@@ -107,3 +107,18 @@ filteredData <- filteredData %>%
       TRUE                           ~ breakOut
     )
   )
+
+# Split into three smaller data frames
+multivitaminResponses <- filteredData %>%
+  filter(question == "Multivitamin?")
+
+healthCareInteractionResponses <- filteredData %>%
+  filter(question == "Spoke to health care?")
+
+birthWeightResponses <- filteredData %>%
+  filter(question == "Baby's Weight")
+
+# Export each to its own CSV on your desktop
+write_csv(multivitaminResponses,            "~/Desktop/multivitaminResponses.csv")
+write_csv(healthCareInteractionResponses,   "~/Desktop/healthCareInteractionResponses.csv")
+write_csv(birthWeightResponses,            "~/Desktop/birthWeightResponses.csv")
