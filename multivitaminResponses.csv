@@ -201,114 +201,114 @@ Oklahoma,Adequacy of Prenatal care,NA,TRUE,25.3,14.6,40,49
 Arkansas,Adequacy of Prenatal care,NA,FALSE,83.8,60.8,94.5,68
 Massachusetts,Adequacy of Prenatal care,NA,FALSE,60.3,47,72.2,68
 Georgia,Adequacy of Prenatal care,NA,FALSE,74.9,67.1,81.4,392
-PRAMS Total,Birth Weight,FALSE,FALSE,68.4,66.7,70,6140
-PRAMS Total,Birth Weight,FALSE,TRUE,31.6,30,33.3,2885
-Missouri,Birth Weight,FALSE,FALSE,72.5,67.9,76.6,261
-Minnesota,Birth Weight,FALSE,FALSE,71.2,58.8,81.1,64
-Wisconsin,Birth Weight,FALSE,FALSE,62.3,47.1,75.4,99
-Maine,Birth Weight,FALSE,TRUE,35,31.6,38.5,137
-Massachusetts,Birth Weight,FALSE,TRUE,34.3,23.2,47.5,41
-New York (excluding NYC),Birth Weight,FALSE,TRUE,34.9,30.8,39.2,174
-West Virginia,Birth Weight,FALSE,FALSE,76.1,73.9,78.1,584
-New York City,Birth Weight,FALSE,FALSE,66.5,62.7,70.2,387
-Georgia,Birth Weight,FALSE,FALSE,76.2,71.9,80,330
-Minnesota,Birth Weight,FALSE,TRUE,28.8,18.9,41.2,25
-Delaware,Birth Weight,FALSE,TRUE,29.4,24.2,35.1,65
-Arkansas,Birth Weight,FALSE,TRUE,21.1,17.5,25.2,100
-New Jersey,Birth Weight,FALSE,FALSE,68,57.8,76.7,79
-Colorado,Birth Weight,FALSE,TRUE,36.9,32.8,41.1,276
-Maryland,Birth Weight,FALSE,FALSE,65.3,61.3,69.1,386
-Georgia,Birth Weight,FALSE,TRUE,23.8,20,28.1,115
-Wisconsin,Birth Weight,FALSE,TRUE,37.7,24.6,52.9,36
-Oklahoma,Birth Weight,FALSE,FALSE,73.4,70.4,76.2,678
-Massachusetts,Birth Weight,FALSE,FALSE,65.7,52.5,76.8,68
-Wyoming,Birth Weight,FALSE,TRUE,26.7,22.1,31.8,58
-Vermont,Birth Weight,FALSE,TRUE,33.9,31.2,36.7,94
-Utah,Birth Weight,FALSE,TRUE,34.2,29.9,38.7,130
-New York City,Birth Weight,FALSE,TRUE,33.5,29.8,37.3,206
-Rhode Island,Birth Weight,FALSE,FALSE,65.3,62.7,67.8,290
-Nebraska,Birth Weight,FALSE,FALSE,67.5,56,77.2,79
-Rhode Island,Birth Weight,FALSE,TRUE,34.7,32.2,37.3,170
-Maine,Birth Weight,FALSE,FALSE,65,61.5,68.4,231
-New Jersey,Birth Weight,FALSE,TRUE,32,23.3,42.2,37
-Maryland,Birth Weight,FALSE,TRUE,34.7,30.9,38.7,261
-Washington,Birth Weight,FALSE,FALSE,50.2,36.7,63.6,43
-Michigan,Birth Weight,FALSE,TRUE,28.5,23.3,34.2,80
-Utah,Birth Weight,FALSE,FALSE,65.8,61.3,70.1,232
-Pennsylvania,Birth Weight,FALSE,FALSE,71.4,66,76.2,195
-Nebraska,Birth Weight,FALSE,TRUE,32.5,22.8,44,32
-Oregon,Birth Weight,FALSE,FALSE,57.4,41.2,72.2,55
-Delaware,Birth Weight,FALSE,FALSE,70.6,64.9,75.8,168
-Washington,Birth Weight,FALSE,TRUE,49.8,36.4,63.3,39
-Arkansas,Birth Weight,FALSE,FALSE,78.9,74.8,82.5,378
-Wyoming,Birth Weight,FALSE,FALSE,73.3,68.2,77.9,143
-Oklahoma,Birth Weight,FALSE,TRUE,26.6,23.8,29.6,260
-Missouri,Birth Weight,FALSE,TRUE,27.5,23.4,32.1,111
-Michigan,Birth Weight,FALSE,FALSE,71.5,65.8,76.7,192
-Pennsylvania,Birth Weight,FALSE,TRUE,28.6,23.8,34,100
-Oregon,Birth Weight,FALSE,TRUE,42.6,27.8,58.8,31
-Hawaii,Birth Weight,FALSE,TRUE,31,26.2,36.4,93
-Colorado,Birth Weight,FALSE,FALSE,63.1,58.9,67.2,477
-New Mexico,Birth Weight,FALSE,FALSE,71.8,62.1,79.9,73
-New Mexico,Birth Weight,FALSE,TRUE,28.2,20.1,37.9,26
-Hawaii,Birth Weight,FALSE,FALSE,69,63.6,73.8,184
-West Virginia,Birth Weight,FALSE,TRUE,23.9,21.9,26.1,188
-Vermont,Birth Weight,FALSE,FALSE,66.1,63.3,68.8,175
-New York (excluding NYC),Birth Weight,FALSE,FALSE,65.1,60.8,69.2,289
-PRAMS Total,Birth Weight,TRUE,FALSE,67.6,66.7,68.4,18474
-PRAMS Total,Birth Weight,TRUE,TRUE,32.4,31.6,33.3,8556
-Oregon,Birth Weight,TRUE,FALSE,67.5,64.2,70.7,1130
-Pennsylvania,Birth Weight,TRUE,TRUE,32,28.8,35.4,262
-Utah,Birth Weight,TRUE,FALSE,66.9,63.9,69.7,715
-Washington,Birth Weight,TRUE,TRUE,33.3,30,36.8,341
-Minnesota,Birth Weight,TRUE,TRUE,39.2,36.3,42.2,482
-Michigan,Birth Weight,TRUE,TRUE,30.2,27.6,33.1,390
-Delaware,Birth Weight,TRUE,FALSE,71.6,68.5,74.4,573
-Vermont,Birth Weight,TRUE,FALSE,62.3,59.1,65.3,489
-Georgia,Birth Weight,TRUE,TRUE,26.6,22.5,31.1,198
-West Virginia,Birth Weight,TRUE,TRUE,24.4,21.6,27.4,196
-Nebraska,Birth Weight,TRUE,FALSE,62.5,59.6,65.3,1039
-Washington,Birth Weight,TRUE,FALSE,66.7,63.2,70,750
-Arkansas,Birth Weight,TRUE,TRUE,23.2,19.4,27.4,178
-Wyoming,Birth Weight,TRUE,FALSE,63.3,58.6,67.7,318
-Delaware,Birth Weight,TRUE,TRUE,28.4,25.6,31.5,247
-Colorado,Birth Weight,TRUE,FALSE,65.1,61.8,68.3,712
-Oklahoma,Birth Weight,TRUE,TRUE,26.6,23,30.6,283
-West Virginia,Birth Weight,TRUE,FALSE,75.6,72.6,78.4,618
-Rhode Island,Birth Weight,TRUE,FALSE,64.7,61.4,67.9,499
-Rhode Island,Birth Weight,TRUE,TRUE,35.3,32.1,38.6,291
-New York City,Birth Weight,TRUE,FALSE,68.7,65.4,71.8,549
-Oklahoma,Birth Weight,TRUE,FALSE,73.4,69.4,77,712
-New Mexico,Birth Weight,TRUE,FALSE,71.6,69.1,73.9,919
-Wyoming,Birth Weight,TRUE,TRUE,36.7,32.3,41.4,165
-Massachusetts,Birth Weight,TRUE,TRUE,39.3,35.9,42.7,533
-New Mexico,Birth Weight,TRUE,TRUE,28.4,26.1,30.9,384
-Georgia,Birth Weight,TRUE,FALSE,73.4,68.9,77.5,911
-Oregon,Birth Weight,TRUE,TRUE,32.5,29.3,35.8,529
-Pennsylvania,Birth Weight,TRUE,FALSE,68,64.6,71.2,504
-Massachusetts,Birth Weight,TRUE,FALSE,60.7,57.3,64.1,925
-Michigan,Birth Weight,TRUE,FALSE,69.8,66.9,72.4,985
-Maryland,Birth Weight,TRUE,FALSE,70.3,66.3,74,506
-Maine,Birth Weight,TRUE,TRUE,37.8,34.3,41.5,258
-New Jersey,Birth Weight,TRUE,TRUE,37,34.1,39.9,460
-Hawaii,Birth Weight,TRUE,FALSE,71.5,68.2,74.5,920
-Colorado,Birth Weight,TRUE,TRUE,34.9,31.7,38.2,366
-Arkansas,Birth Weight,TRUE,FALSE,76.8,72.6,80.6,673
-Hawaii,Birth Weight,TRUE,TRUE,28.5,25.5,31.8,353
-New York City,Birth Weight,TRUE,TRUE,31.3,28.2,34.6,258
-Utah,Birth Weight,TRUE,TRUE,33.1,30.3,36.1,349
-Nebraska,Birth Weight,TRUE,TRUE,37.5,34.7,40.4,555
-New Jersey,Birth Weight,TRUE,FALSE,63,60.1,65.9,820
-Missouri,Birth Weight,TRUE,FALSE,70.9,67.8,73.8,599
-Missouri,Birth Weight,TRUE,TRUE,29.1,26.2,32.2,261
-Wisconsin,Birth Weight,TRUE,FALSE,63.1,59.3,66.8,1039
-Maryland,Birth Weight,TRUE,TRUE,29.7,26,33.7,296
-New York (excluding NYC),Birth Weight,TRUE,TRUE,35.7,31.9,39.7,219
-Vermont,Birth Weight,TRUE,TRUE,37.7,34.7,40.9,318
-Minnesota,Birth Weight,TRUE,FALSE,60.8,57.8,63.7,807
-New York (excluding NYC),Birth Weight,TRUE,FALSE,64.3,60.3,68.1,361
-Maine,Birth Weight,TRUE,FALSE,62.2,58.5,65.7,401
-Wisconsin,Birth Weight,TRUE,TRUE,36.9,33.2,40.7,384
+PRAMS Total,Normal Birth Weight?,FALSE,FALSE,68.4,66.7,70,6140
+PRAMS Total,Normal Birth Weight?,FALSE,TRUE,31.6,30,33.3,2885
+Missouri,Normal Birth Weight?,FALSE,FALSE,72.5,67.9,76.6,261
+Minnesota,Normal Birth Weight?,FALSE,FALSE,71.2,58.8,81.1,64
+Wisconsin,Normal Birth Weight?,FALSE,FALSE,62.3,47.1,75.4,99
+Maine,Normal Birth Weight?,FALSE,TRUE,35,31.6,38.5,137
+Massachusetts,Normal Birth Weight?,FALSE,TRUE,34.3,23.2,47.5,41
+New York (excluding NYC),Normal Birth Weight?,FALSE,TRUE,34.9,30.8,39.2,174
+West Virginia,Normal Birth Weight?,FALSE,FALSE,76.1,73.9,78.1,584
+New York City,Normal Birth Weight?,FALSE,FALSE,66.5,62.7,70.2,387
+Georgia,Normal Birth Weight?,FALSE,FALSE,76.2,71.9,80,330
+Minnesota,Normal Birth Weight?,FALSE,TRUE,28.8,18.9,41.2,25
+Delaware,Normal Birth Weight?,FALSE,TRUE,29.4,24.2,35.1,65
+Arkansas,Normal Birth Weight?,FALSE,TRUE,21.1,17.5,25.2,100
+New Jersey,Normal Birth Weight?,FALSE,FALSE,68,57.8,76.7,79
+Colorado,Normal Birth Weight?,FALSE,TRUE,36.9,32.8,41.1,276
+Maryland,Normal Birth Weight?,FALSE,FALSE,65.3,61.3,69.1,386
+Georgia,Normal Birth Weight?,FALSE,TRUE,23.8,20,28.1,115
+Wisconsin,Normal Birth Weight?,FALSE,TRUE,37.7,24.6,52.9,36
+Oklahoma,Normal Birth Weight?,FALSE,FALSE,73.4,70.4,76.2,678
+Massachusetts,Normal Birth Weight?,FALSE,FALSE,65.7,52.5,76.8,68
+Wyoming,Normal Birth Weight?,FALSE,TRUE,26.7,22.1,31.8,58
+Vermont,Normal Birth Weight?,FALSE,TRUE,33.9,31.2,36.7,94
+Utah,Normal Birth Weight?,FALSE,TRUE,34.2,29.9,38.7,130
+New York City,Normal Birth Weight?,FALSE,TRUE,33.5,29.8,37.3,206
+Rhode Island,Normal Birth Weight?,FALSE,FALSE,65.3,62.7,67.8,290
+Nebraska,Normal Birth Weight?,FALSE,FALSE,67.5,56,77.2,79
+Rhode Island,Normal Birth Weight?,FALSE,TRUE,34.7,32.2,37.3,170
+Maine,Normal Birth Weight?,FALSE,FALSE,65,61.5,68.4,231
+New Jersey,Normal Birth Weight?,FALSE,TRUE,32,23.3,42.2,37
+Maryland,Normal Birth Weight?,FALSE,TRUE,34.7,30.9,38.7,261
+Washington,Normal Birth Weight?,FALSE,FALSE,50.2,36.7,63.6,43
+Michigan,Normal Birth Weight?,FALSE,TRUE,28.5,23.3,34.2,80
+Utah,Normal Birth Weight?,FALSE,FALSE,65.8,61.3,70.1,232
+Pennsylvania,Normal Birth Weight?,FALSE,FALSE,71.4,66,76.2,195
+Nebraska,Normal Birth Weight?,FALSE,TRUE,32.5,22.8,44,32
+Oregon,Normal Birth Weight?,FALSE,FALSE,57.4,41.2,72.2,55
+Delaware,Normal Birth Weight?,FALSE,FALSE,70.6,64.9,75.8,168
+Washington,Normal Birth Weight?,FALSE,TRUE,49.8,36.4,63.3,39
+Arkansas,Normal Birth Weight?,FALSE,FALSE,78.9,74.8,82.5,378
+Wyoming,Normal Birth Weight?,FALSE,FALSE,73.3,68.2,77.9,143
+Oklahoma,Normal Birth Weight?,FALSE,TRUE,26.6,23.8,29.6,260
+Missouri,Normal Birth Weight?,FALSE,TRUE,27.5,23.4,32.1,111
+Michigan,Normal Birth Weight?,FALSE,FALSE,71.5,65.8,76.7,192
+Pennsylvania,Normal Birth Weight?,FALSE,TRUE,28.6,23.8,34,100
+Oregon,Normal Birth Weight?,FALSE,TRUE,42.6,27.8,58.8,31
+Hawaii,Normal Birth Weight?,FALSE,TRUE,31,26.2,36.4,93
+Colorado,Normal Birth Weight?,FALSE,FALSE,63.1,58.9,67.2,477
+New Mexico,Normal Birth Weight?,FALSE,FALSE,71.8,62.1,79.9,73
+New Mexico,Normal Birth Weight?,FALSE,TRUE,28.2,20.1,37.9,26
+Hawaii,Normal Birth Weight?,FALSE,FALSE,69,63.6,73.8,184
+West Virginia,Normal Birth Weight?,FALSE,TRUE,23.9,21.9,26.1,188
+Vermont,Normal Birth Weight?,FALSE,FALSE,66.1,63.3,68.8,175
+New York (excluding NYC),Normal Birth Weight?,FALSE,FALSE,65.1,60.8,69.2,289
+PRAMS Total,Normal Birth Weight?,TRUE,FALSE,67.6,66.7,68.4,18474
+PRAMS Total,Normal Birth Weight?,TRUE,TRUE,32.4,31.6,33.3,8556
+Oregon,Normal Birth Weight?,TRUE,FALSE,67.5,64.2,70.7,1130
+Pennsylvania,Normal Birth Weight?,TRUE,TRUE,32,28.8,35.4,262
+Utah,Normal Birth Weight?,TRUE,FALSE,66.9,63.9,69.7,715
+Washington,Normal Birth Weight?,TRUE,TRUE,33.3,30,36.8,341
+Minnesota,Normal Birth Weight?,TRUE,TRUE,39.2,36.3,42.2,482
+Michigan,Normal Birth Weight?,TRUE,TRUE,30.2,27.6,33.1,390
+Delaware,Normal Birth Weight?,TRUE,FALSE,71.6,68.5,74.4,573
+Vermont,Normal Birth Weight?,TRUE,FALSE,62.3,59.1,65.3,489
+Georgia,Normal Birth Weight?,TRUE,TRUE,26.6,22.5,31.1,198
+West Virginia,Normal Birth Weight?,TRUE,TRUE,24.4,21.6,27.4,196
+Nebraska,Normal Birth Weight?,TRUE,FALSE,62.5,59.6,65.3,1039
+Washington,Normal Birth Weight?,TRUE,FALSE,66.7,63.2,70,750
+Arkansas,Normal Birth Weight?,TRUE,TRUE,23.2,19.4,27.4,178
+Wyoming,Normal Birth Weight?,TRUE,FALSE,63.3,58.6,67.7,318
+Delaware,Normal Birth Weight?,TRUE,TRUE,28.4,25.6,31.5,247
+Colorado,Normal Birth Weight?,TRUE,FALSE,65.1,61.8,68.3,712
+Oklahoma,Normal Birth Weight?,TRUE,TRUE,26.6,23,30.6,283
+West Virginia,Normal Birth Weight?,TRUE,FALSE,75.6,72.6,78.4,618
+Rhode Island,Normal Birth Weight?,TRUE,FALSE,64.7,61.4,67.9,499
+Rhode Island,Normal Birth Weight?,TRUE,TRUE,35.3,32.1,38.6,291
+New York City,Normal Birth Weight?,TRUE,FALSE,68.7,65.4,71.8,549
+Oklahoma,Normal Birth Weight?,TRUE,FALSE,73.4,69.4,77,712
+New Mexico,Normal Birth Weight?,TRUE,FALSE,71.6,69.1,73.9,919
+Wyoming,Normal Birth Weight?,TRUE,TRUE,36.7,32.3,41.4,165
+Massachusetts,Normal Birth Weight?,TRUE,TRUE,39.3,35.9,42.7,533
+New Mexico,Normal Birth Weight?,TRUE,TRUE,28.4,26.1,30.9,384
+Georgia,Normal Birth Weight?,TRUE,FALSE,73.4,68.9,77.5,911
+Oregon,Normal Birth Weight?,TRUE,TRUE,32.5,29.3,35.8,529
+Pennsylvania,Normal Birth Weight?,TRUE,FALSE,68,64.6,71.2,504
+Massachusetts,Normal Birth Weight?,TRUE,FALSE,60.7,57.3,64.1,925
+Michigan,Normal Birth Weight?,TRUE,FALSE,69.8,66.9,72.4,985
+Maryland,Normal Birth Weight?,TRUE,FALSE,70.3,66.3,74,506
+Maine,Normal Birth Weight?,TRUE,TRUE,37.8,34.3,41.5,258
+New Jersey,Normal Birth Weight?,TRUE,TRUE,37,34.1,39.9,460
+Hawaii,Normal Birth Weight?,TRUE,FALSE,71.5,68.2,74.5,920
+Colorado,Normal Birth Weight?,TRUE,TRUE,34.9,31.7,38.2,366
+Arkansas,Normal Birth Weight?,TRUE,FALSE,76.8,72.6,80.6,673
+Hawaii,Normal Birth Weight?,TRUE,TRUE,28.5,25.5,31.8,353
+New York City,Normal Birth Weight?,TRUE,TRUE,31.3,28.2,34.6,258
+Utah,Normal Birth Weight?,TRUE,TRUE,33.1,30.3,36.1,349
+Nebraska,Normal Birth Weight?,TRUE,TRUE,37.5,34.7,40.4,555
+New Jersey,Normal Birth Weight?,TRUE,FALSE,63,60.1,65.9,820
+Missouri,Normal Birth Weight?,TRUE,FALSE,70.9,67.8,73.8,599
+Missouri,Normal Birth Weight?,TRUE,TRUE,29.1,26.2,32.2,261
+Wisconsin,Normal Birth Weight?,TRUE,FALSE,63.1,59.3,66.8,1039
+Maryland,Normal Birth Weight?,TRUE,TRUE,29.7,26,33.7,296
+New York (excluding NYC),Normal Birth Weight?,TRUE,TRUE,35.7,31.9,39.7,219
+Vermont,Normal Birth Weight?,TRUE,TRUE,37.7,34.7,40.9,318
+Minnesota,Normal Birth Weight?,TRUE,FALSE,60.8,57.8,63.7,807
+New York (excluding NYC),Normal Birth Weight?,TRUE,FALSE,64.3,60.3,68.1,361
+Maine,Normal Birth Weight?,TRUE,FALSE,62.2,58.5,65.7,401
+Wisconsin,Normal Birth Weight?,TRUE,TRUE,36.9,33.2,40.7,384
 PRAMS Total,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,80.4,78.9,81.8,6281
 PRAMS Total,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,19.6,18.2,21.1,1626
 New Mexico,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,78.6,74.3,82.4,305
@@ -525,114 +525,114 @@ Oregon,Income (years 2004 and beyond),"Less than $10,000",TRUE,21.5,16.4,27.8,10
 Vermont,Income (years 2004 and beyond),"Less than $10,000",TRUE,12,7.6,18.3,21
 Delaware,Income (years 2004 and beyond),"Less than $10,000",FALSE,83.9,78,88.4,186
 Minnesota,Income (years 2004 and beyond),"Less than $10,000",FALSE,84.5,76.5,90.2,178
-PRAMS Total,Marital Status,TRUE,FALSE,58.4,57.4,59.4,12483
-PRAMS Total,Marital Status,TRUE,TRUE,41.6,40.6,42.6,8794
-West Virginia,Marital Status,TRUE,TRUE,33.5,29.6,37.6,263
-New York (excluding NYC),Marital Status,TRUE,FALSE,53.2,48.4,57.8,336
-Pennsylvania,Marital Status,TRUE,TRUE,44.4,40.3,48.6,305
-Georgia,Marital Status,TRUE,TRUE,36,30.5,42,209
-Vermont,Marital Status,TRUE,FALSE,49.1,45.4,52.9,331
-New Jersey,Marital Status,TRUE,FALSE,55.4,51.8,59,484
-New Mexico,Marital Status,TRUE,TRUE,37.9,34.5,41.4,281
-New York (excluding NYC),Marital Status,TRUE,TRUE,46.8,42.2,51.6,321
-Minnesota,Marital Status,TRUE,FALSE,52.1,48.7,55.5,477
-Washington,Marital Status,TRUE,TRUE,42.2,38,46.6,288
-Maine,Marital Status,TRUE,TRUE,49.5,45,54,312
-Missouri,Marital Status,TRUE,FALSE,61,57,64.8,445
-Arkansas,Marital Status,TRUE,TRUE,27.6,22.6,33.2,150
-Wisconsin,Marital Status,TRUE,FALSE,52.9,48.2,57.6,405
-Wyoming,Marital Status,TRUE,TRUE,45.5,40.3,50.9,179
-Delaware,Marital Status,TRUE,TRUE,41.5,37.5,45.6,235
-Utah,Marital Status,TRUE,FALSE,62.5,59.2,65.6,699
-Vermont,Marital Status,TRUE,TRUE,50.9,47.1,54.6,347
-New York City,Marital Status,TRUE,FALSE,62.4,58.3,66.3,492
-Utah,Marital Status,TRUE,TRUE,37.5,34.4,40.8,430
-Massachusetts,Marital Status,TRUE,FALSE,51.2,47,55.4,544
-Colorado,Marital Status,TRUE,TRUE,41.2,37.6,44.9,571
-Massachusetts,Marital Status,TRUE,TRUE,48.8,44.6,53,456
-New York City,Marital Status,TRUE,TRUE,37.6,33.7,41.7,329
-Maryland,Marital Status,TRUE,TRUE,38.2,33.6,43,449
-Wisconsin,Marital Status,TRUE,TRUE,47.1,42.4,51.8,272
-Hawaii,Marital Status,TRUE,TRUE,33.9,30.1,37.9,321
-Rhode Island,Marital Status,TRUE,FALSE,53.3,49.3,57.3,380
-Hawaii,Marital Status,TRUE,FALSE,66.1,62.1,69.9,582
-Wyoming,Marital Status,TRUE,FALSE,54.5,49.1,59.7,240
-Oklahoma,Marital Status,TRUE,TRUE,34.9,30.4,39.7,440
-Nebraska,Marital Status,TRUE,FALSE,55.4,51.8,58.9,596
-Michigan,Marital Status,TRUE,TRUE,41.3,37.7,45,358
-New Jersey,Marital Status,TRUE,TRUE,44.6,41,48.2,374
-Washington,Marital Status,TRUE,FALSE,57.8,53.4,62,410
-Colorado,Marital Status,TRUE,FALSE,58.8,55.1,62.4,798
-Delaware,Marital Status,TRUE,FALSE,58.5,54.4,62.5,317
-Georgia,Marital Status,TRUE,FALSE,64,58,69.5,433
-Oklahoma,Marital Status,TRUE,FALSE,65.1,60.3,69.6,754
-Michigan,Marital Status,TRUE,FALSE,58.7,55,62.3,512
-Minnesota,Marital Status,TRUE,TRUE,47.9,44.5,51.3,432
-Arkansas,Marital Status,TRUE,FALSE,72.4,66.8,77.4,453
-Oregon,Marital Status,TRUE,TRUE,40,35.9,44.2,393
-Maine,Marital Status,TRUE,FALSE,50.5,46,55,295
-Missouri,Marital Status,TRUE,TRUE,39,35.2,43,308
-Nebraska,Marital Status,TRUE,TRUE,44.6,41.1,48.2,423
-Pennsylvania,Marital Status,TRUE,FALSE,55.6,51.4,59.7,361
-Rhode Island,Marital Status,TRUE,TRUE,46.7,42.7,50.7,348
-Maryland,Marital Status,TRUE,FALSE,61.8,57,66.4,514
-Oregon,Marital Status,TRUE,FALSE,60,55.8,64.1,638
-New Mexico,Marital Status,TRUE,FALSE,62.1,58.6,65.5,440
-West Virginia,Marital Status,TRUE,FALSE,66.5,62.4,70.4,547
-PRAMS Total,Marital Status,FALSE,FALSE,82.6,81.5,83.6,12165
-PRAMS Total,Marital Status,FALSE,TRUE,17.4,16.4,18.5,2670
-New Jersey,Marital Status,FALSE,FALSE,76.4,72.2,80.2,415
-Rhode Island,Marital Status,FALSE,FALSE,79.5,75.1,83.3,409
-Maine,Marital Status,FALSE,TRUE,20.2,16.1,25.2,83
-Minnesota,Marital Status,FALSE,TRUE,16.2,12.3,20.9,75
-Maine,Marital Status,FALSE,FALSE,79.8,74.8,83.9,337
-Missouri,Marital Status,FALSE,TRUE,13.8,10.6,17.8,68
-Nebraska,Marital Status,FALSE,FALSE,78.1,73.8,81.8,522
-Minnesota,Marital Status,FALSE,FALSE,83.8,79.1,87.7,394
-Oregon,Marital Status,FALSE,FALSE,80,75.3,84,547
-New Jersey,Marital Status,FALSE,TRUE,23.6,19.8,27.8,123
-Washington,Marital Status,FALSE,TRUE,18.5,14.4,23.5,92
-Georgia,Marital Status,FALSE,TRUE,14.5,10.3,19.9,108
-Washington,Marital Status,FALSE,FALSE,81.5,76.5,85.6,384
-Wisconsin,Marital Status,FALSE,TRUE,16,12.1,20.7,148
-Arkansas,Marital Status,FALSE,TRUE,17,12.6,22.6,127
-New York (excluding NYC),Marital Status,FALSE,FALSE,82.4,76.8,86.9,314
-New Mexico,Marital Status,FALSE,FALSE,80.7,77.5,83.4,549
-Oklahoma,Marital Status,FALSE,TRUE,14.9,10.6,20.4,106
-West Virginia,Marital Status,FALSE,TRUE,13.3,10.6,16.6,121
-Missouri,Marital Status,FALSE,FALSE,86.2,82.2,89.4,418
-Michigan,Marital Status,FALSE,FALSE,85.6,82.4,88.3,665
-Oklahoma,Marital Status,FALSE,FALSE,85.1,79.6,89.4,645
-Michigan,Marital Status,FALSE,TRUE,14.4,11.7,17.6,112
-Wisconsin,Marital Status,FALSE,FALSE,84,79.3,87.9,733
-Nebraska,Marital Status,FALSE,TRUE,21.9,18.2,26.2,164
-Colorado,Marital Status,FALSE,FALSE,82.8,77.4,87.2,390
-Utah,Marital Status,FALSE,FALSE,84.1,78.6,88.5,239
-Maryland,Marital Status,FALSE,FALSE,81.6,75.9,86.2,380
-Pennsylvania,Marital Status,FALSE,TRUE,14,10.6,18.3,59
-Arkansas,Marital Status,FALSE,FALSE,83,77.4,87.4,597
-New York City,Marital Status,FALSE,FALSE,77.1,72.5,81.1,444
-Massachusetts,Marital Status,FALSE,FALSE,78.4,73.4,82.6,461
-Georgia,Marital Status,FALSE,FALSE,85.5,80.1,89.7,823
-Vermont,Marital Status,FALSE,FALSE,83.1,79,86.6,330
-West Virginia,Marital Status,FALSE,FALSE,86.7,83.4,89.4,657
-Wyoming,Marital Status,FALSE,TRUE,16.3,11.5,22.7,44
-Delaware,Marital Status,FALSE,FALSE,85.1,81.6,88.1,424
-Delaware,Marital Status,FALSE,TRUE,14.9,11.9,18.4,77
-Oregon,Marital Status,FALSE,TRUE,20,16,24.7,165
-Wyoming,Marital Status,FALSE,FALSE,83.7,77.3,88.5,222
-Massachusetts,Marital Status,FALSE,TRUE,21.6,17.4,26.6,127
-New York (excluding NYC),Marital Status,FALSE,TRUE,17.6,13.1,23.2,72
-Rhode Island,Marital Status,FALSE,TRUE,20.5,16.7,24.9,113
-New Mexico,Marital Status,FALSE,TRUE,19.3,16.6,22.5,129
-Utah,Marital Status,FALSE,TRUE,15.9,11.5,21.4,49
-Colorado,Marital Status,FALSE,TRUE,17.2,12.8,22.6,73
-Vermont,Marital Status,FALSE,TRUE,16.9,13.4,21,66
-Hawaii,Marital Status,FALSE,TRUE,20.1,16.2,24.8,125
-Pennsylvania,Marital Status,FALSE,FALSE,86,81.7,89.4,344
-Hawaii,Marital Status,FALSE,FALSE,79.9,75.2,83.8,522
-New York City,Marital Status,FALSE,TRUE,22.9,18.9,27.5,135
-Maryland,Marital Status,FALSE,TRUE,18.4,13.8,24.1,109
+PRAMS Total,Married?,TRUE,FALSE,58.4,57.4,59.4,12483
+PRAMS Total,Married?,TRUE,TRUE,41.6,40.6,42.6,8794
+West Virginia,Married?,TRUE,TRUE,33.5,29.6,37.6,263
+New York (excluding NYC),Married?,TRUE,FALSE,53.2,48.4,57.8,336
+Pennsylvania,Married?,TRUE,TRUE,44.4,40.3,48.6,305
+Georgia,Married?,TRUE,TRUE,36,30.5,42,209
+Vermont,Married?,TRUE,FALSE,49.1,45.4,52.9,331
+New Jersey,Married?,TRUE,FALSE,55.4,51.8,59,484
+New Mexico,Married?,TRUE,TRUE,37.9,34.5,41.4,281
+New York (excluding NYC),Married?,TRUE,TRUE,46.8,42.2,51.6,321
+Minnesota,Married?,TRUE,FALSE,52.1,48.7,55.5,477
+Washington,Married?,TRUE,TRUE,42.2,38,46.6,288
+Maine,Married?,TRUE,TRUE,49.5,45,54,312
+Missouri,Married?,TRUE,FALSE,61,57,64.8,445
+Arkansas,Married?,TRUE,TRUE,27.6,22.6,33.2,150
+Wisconsin,Married?,TRUE,FALSE,52.9,48.2,57.6,405
+Wyoming,Married?,TRUE,TRUE,45.5,40.3,50.9,179
+Delaware,Married?,TRUE,TRUE,41.5,37.5,45.6,235
+Utah,Married?,TRUE,FALSE,62.5,59.2,65.6,699
+Vermont,Married?,TRUE,TRUE,50.9,47.1,54.6,347
+New York City,Married?,TRUE,FALSE,62.4,58.3,66.3,492
+Utah,Married?,TRUE,TRUE,37.5,34.4,40.8,430
+Massachusetts,Married?,TRUE,FALSE,51.2,47,55.4,544
+Colorado,Married?,TRUE,TRUE,41.2,37.6,44.9,571
+Massachusetts,Married?,TRUE,TRUE,48.8,44.6,53,456
+New York City,Married?,TRUE,TRUE,37.6,33.7,41.7,329
+Maryland,Married?,TRUE,TRUE,38.2,33.6,43,449
+Wisconsin,Married?,TRUE,TRUE,47.1,42.4,51.8,272
+Hawaii,Married?,TRUE,TRUE,33.9,30.1,37.9,321
+Rhode Island,Married?,TRUE,FALSE,53.3,49.3,57.3,380
+Hawaii,Married?,TRUE,FALSE,66.1,62.1,69.9,582
+Wyoming,Married?,TRUE,FALSE,54.5,49.1,59.7,240
+Oklahoma,Married?,TRUE,TRUE,34.9,30.4,39.7,440
+Nebraska,Married?,TRUE,FALSE,55.4,51.8,58.9,596
+Michigan,Married?,TRUE,TRUE,41.3,37.7,45,358
+New Jersey,Married?,TRUE,TRUE,44.6,41,48.2,374
+Washington,Married?,TRUE,FALSE,57.8,53.4,62,410
+Colorado,Married?,TRUE,FALSE,58.8,55.1,62.4,798
+Delaware,Married?,TRUE,FALSE,58.5,54.4,62.5,317
+Georgia,Married?,TRUE,FALSE,64,58,69.5,433
+Oklahoma,Married?,TRUE,FALSE,65.1,60.3,69.6,754
+Michigan,Married?,TRUE,FALSE,58.7,55,62.3,512
+Minnesota,Married?,TRUE,TRUE,47.9,44.5,51.3,432
+Arkansas,Married?,TRUE,FALSE,72.4,66.8,77.4,453
+Oregon,Married?,TRUE,TRUE,40,35.9,44.2,393
+Maine,Married?,TRUE,FALSE,50.5,46,55,295
+Missouri,Married?,TRUE,TRUE,39,35.2,43,308
+Nebraska,Married?,TRUE,TRUE,44.6,41.1,48.2,423
+Pennsylvania,Married?,TRUE,FALSE,55.6,51.4,59.7,361
+Rhode Island,Married?,TRUE,TRUE,46.7,42.7,50.7,348
+Maryland,Married?,TRUE,FALSE,61.8,57,66.4,514
+Oregon,Married?,TRUE,FALSE,60,55.8,64.1,638
+New Mexico,Married?,TRUE,FALSE,62.1,58.6,65.5,440
+West Virginia,Married?,TRUE,FALSE,66.5,62.4,70.4,547
+PRAMS Total,Married?,FALSE,FALSE,82.6,81.5,83.6,12165
+PRAMS Total,Married?,FALSE,TRUE,17.4,16.4,18.5,2670
+New Jersey,Married?,FALSE,FALSE,76.4,72.2,80.2,415
+Rhode Island,Married?,FALSE,FALSE,79.5,75.1,83.3,409
+Maine,Married?,FALSE,TRUE,20.2,16.1,25.2,83
+Minnesota,Married?,FALSE,TRUE,16.2,12.3,20.9,75
+Maine,Married?,FALSE,FALSE,79.8,74.8,83.9,337
+Missouri,Married?,FALSE,TRUE,13.8,10.6,17.8,68
+Nebraska,Married?,FALSE,FALSE,78.1,73.8,81.8,522
+Minnesota,Married?,FALSE,FALSE,83.8,79.1,87.7,394
+Oregon,Married?,FALSE,FALSE,80,75.3,84,547
+New Jersey,Married?,FALSE,TRUE,23.6,19.8,27.8,123
+Washington,Married?,FALSE,TRUE,18.5,14.4,23.5,92
+Georgia,Married?,FALSE,TRUE,14.5,10.3,19.9,108
+Washington,Married?,FALSE,FALSE,81.5,76.5,85.6,384
+Wisconsin,Married?,FALSE,TRUE,16,12.1,20.7,148
+Arkansas,Married?,FALSE,TRUE,17,12.6,22.6,127
+New York (excluding NYC),Married?,FALSE,FALSE,82.4,76.8,86.9,314
+New Mexico,Married?,FALSE,FALSE,80.7,77.5,83.4,549
+Oklahoma,Married?,FALSE,TRUE,14.9,10.6,20.4,106
+West Virginia,Married?,FALSE,TRUE,13.3,10.6,16.6,121
+Missouri,Married?,FALSE,FALSE,86.2,82.2,89.4,418
+Michigan,Married?,FALSE,FALSE,85.6,82.4,88.3,665
+Oklahoma,Married?,FALSE,FALSE,85.1,79.6,89.4,645
+Michigan,Married?,FALSE,TRUE,14.4,11.7,17.6,112
+Wisconsin,Married?,FALSE,FALSE,84,79.3,87.9,733
+Nebraska,Married?,FALSE,TRUE,21.9,18.2,26.2,164
+Colorado,Married?,FALSE,FALSE,82.8,77.4,87.2,390
+Utah,Married?,FALSE,FALSE,84.1,78.6,88.5,239
+Maryland,Married?,FALSE,FALSE,81.6,75.9,86.2,380
+Pennsylvania,Married?,FALSE,TRUE,14,10.6,18.3,59
+Arkansas,Married?,FALSE,FALSE,83,77.4,87.4,597
+New York City,Married?,FALSE,FALSE,77.1,72.5,81.1,444
+Massachusetts,Married?,FALSE,FALSE,78.4,73.4,82.6,461
+Georgia,Married?,FALSE,FALSE,85.5,80.1,89.7,823
+Vermont,Married?,FALSE,FALSE,83.1,79,86.6,330
+West Virginia,Married?,FALSE,FALSE,86.7,83.4,89.4,657
+Wyoming,Married?,FALSE,TRUE,16.3,11.5,22.7,44
+Delaware,Married?,FALSE,FALSE,85.1,81.6,88.1,424
+Delaware,Married?,FALSE,TRUE,14.9,11.9,18.4,77
+Oregon,Married?,FALSE,TRUE,20,16,24.7,165
+Wyoming,Married?,FALSE,FALSE,83.7,77.3,88.5,222
+Massachusetts,Married?,FALSE,TRUE,21.6,17.4,26.6,127
+New York (excluding NYC),Married?,FALSE,TRUE,17.6,13.1,23.2,72
+Rhode Island,Married?,FALSE,TRUE,20.5,16.7,24.9,113
+New Mexico,Married?,FALSE,TRUE,19.3,16.6,22.5,129
+Utah,Married?,FALSE,TRUE,15.9,11.5,21.4,49
+Colorado,Married?,FALSE,TRUE,17.2,12.8,22.6,73
+Vermont,Married?,FALSE,TRUE,16.9,13.4,21,66
+Hawaii,Married?,FALSE,TRUE,20.1,16.2,24.8,125
+Pennsylvania,Married?,FALSE,FALSE,86,81.7,89.4,344
+Hawaii,Married?,FALSE,FALSE,79.9,75.2,83.8,522
+New York City,Married?,FALSE,TRUE,22.9,18.9,27.5,135
+Maryland,Married?,FALSE,TRUE,18.4,13.8,24.1,109
 PRAMS Total,Maternal Age (3 Levels),20-29 yrs,FALSE,74.1,73.1,75.1,13508
 PRAMS Total,Maternal Age (3 Levels),20-29 yrs,TRUE,25.9,24.9,26.9,4692
 Vermont,Maternal Age (3 Levels),20-29 yrs,TRUE,27.5,23.8,31.4,146
@@ -1608,114 +1608,114 @@ Pennsylvania,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,65.2,61.4,68.7,
 Vermont,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,37.2,34.3,40.3,388
 New York (excluding NYC),Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,60.6,56.1,65,408
 Wisconsin,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,57.9,53,62.6,224
-PRAMS Total,Medicaid Recipient,TRUE,FALSE,80.7,79.8,81.6,15171
-PRAMS Total,Medicaid Recipient,TRUE,TRUE,19.3,18.4,20.2,3822
-Michigan,Medicaid Recipient,TRUE,FALSE,81.6,78.4,84.4,781
-Rhode Island,Medicaid Recipient,TRUE,TRUE,21.8,18.2,25.9,142
-Minnesota,Medicaid Recipient,TRUE,TRUE,23.5,19.2,28.3,108
-Oklahoma,Medicaid Recipient,TRUE,TRUE,18.2,14.4,22.7,218
-Maryland,Medicaid Recipient,TRUE,FALSE,83.2,77.6,87.6,393
-Michigan,Medicaid Recipient,TRUE,TRUE,18.4,15.6,21.6,164
-Wisconsin,Medicaid Recipient,TRUE,FALSE,78.6,73.9,82.8,833
-Vermont,Medicaid Recipient,TRUE,TRUE,23.8,20.3,27.8,123
-Wisconsin,Medicaid Recipient,TRUE,TRUE,21.4,17.2,26.1,194
-New York (excluding NYC),Medicaid Recipient,TRUE,FALSE,79.5,74,84.1,335
-Hawaii,Medicaid Recipient,TRUE,TRUE,17.4,13.8,21.6,113
-Massachusetts,Medicaid Recipient,TRUE,TRUE,25.2,21.2,29.6,198
-Vermont,Medicaid Recipient,TRUE,FALSE,76.2,72.2,79.7,390
-New Mexico,Medicaid Recipient,TRUE,FALSE,77.3,74.5,79.9,698
-Pennsylvania,Medicaid Recipient,TRUE,FALSE,85.1,80.5,88.7,311
-Washington,Medicaid Recipient,TRUE,FALSE,78.8,74.5,82.5,500
-Georgia,Medicaid Recipient,TRUE,TRUE,12.7,9.4,17,136
-New Jersey,Medicaid Recipient,TRUE,TRUE,25.5,21.6,29.9,130
-Georgia,Medicaid Recipient,TRUE,FALSE,87.3,83,90.6,1012
-West Virginia,Medicaid Recipient,TRUE,TRUE,15.6,13,18.6,178
-Missouri,Medicaid Recipient,TRUE,FALSE,86.8,83.5,89.6,541
-Hawaii,Medicaid Recipient,TRUE,FALSE,82.6,78.4,86.2,543
-Pennsylvania,Medicaid Recipient,TRUE,TRUE,14.9,11.3,19.5,57
-West Virginia,Medicaid Recipient,TRUE,FALSE,84.4,81.4,87,893
-Oklahoma,Medicaid Recipient,TRUE,FALSE,81.8,77.3,85.6,969
-Oregon,Medicaid Recipient,TRUE,FALSE,76.8,73,80.2,825
-Delaware,Medicaid Recipient,TRUE,TRUE,17.6,14.5,21.2,95
-Missouri,Medicaid Recipient,TRUE,TRUE,13.2,10.4,16.5,87
-Nebraska,Medicaid Recipient,TRUE,FALSE,75.2,71.6,78.6,685
-Minnesota,Medicaid Recipient,TRUE,FALSE,76.5,71.7,80.8,402
-New York City,Medicaid Recipient,TRUE,TRUE,23.9,20.4,27.7,196
-Arkansas,Medicaid Recipient,TRUE,TRUE,16.3,12.7,20.7,170
-Maine,Medicaid Recipient,TRUE,FALSE,77.5,73.2,81.3,432
-Colorado,Medicaid Recipient,TRUE,TRUE,15.7,12.4,19.6,134
-Utah,Medicaid Recipient,TRUE,FALSE,77.2,73,81,438
-Oregon,Medicaid Recipient,TRUE,TRUE,23.2,19.8,27,274
-Massachusetts,Medicaid Recipient,TRUE,FALSE,74.8,70.4,78.8,582
-Wyoming,Medicaid Recipient,TRUE,FALSE,75.6,69.4,80.9,257
-New York (excluding NYC),Medicaid Recipient,TRUE,TRUE,20.5,15.9,26,90
-Colorado,Medicaid Recipient,TRUE,FALSE,84.3,80.4,87.6,631
-Washington,Medicaid Recipient,TRUE,TRUE,21.2,17.5,25.5,143
-Rhode Island,Medicaid Recipient,TRUE,FALSE,78.2,74.1,81.8,479
-Maryland,Medicaid Recipient,TRUE,TRUE,16.8,12.4,22.4,105
-New Jersey,Medicaid Recipient,TRUE,FALSE,74.5,70.1,78.4,401
-Maine,Medicaid Recipient,TRUE,TRUE,22.5,18.7,26.8,132
-Delaware,Medicaid Recipient,TRUE,FALSE,82.4,78.8,85.5,437
-New York City,Medicaid Recipient,TRUE,FALSE,76.1,72.3,79.6,594
-Utah,Medicaid Recipient,TRUE,TRUE,22.8,19,27,131
-Arkansas,Medicaid Recipient,TRUE,FALSE,83.7,79.3,87.3,809
-New Mexico,Medicaid Recipient,TRUE,TRUE,22.7,20.1,25.5,203
-Wyoming,Medicaid Recipient,TRUE,TRUE,24.4,19.1,30.6,70
-Nebraska,Medicaid Recipient,TRUE,TRUE,24.8,21.4,28.4,231
-PRAMS Total,Medicaid Recipient,FALSE,FALSE,55.6,54.5,56.7,9502
-PRAMS Total,Medicaid Recipient,FALSE,TRUE,44.4,43.3,45.5,7646
-Hawaii,Medicaid Recipient,FALSE,TRUE,35.7,31.8,39.8,333
-Utah,Medicaid Recipient,FALSE,FALSE,61,57.3,64.5,509
-Oklahoma,Medicaid Recipient,FALSE,TRUE,41.2,35.5,47.3,328
-Delaware,Medicaid Recipient,FALSE,FALSE,59.9,55.6,64,304
-Missouri,Medicaid Recipient,FALSE,FALSE,54.6,50.3,58.9,324
-New York City,Medicaid Recipient,FALSE,FALSE,58.1,53.2,62.8,342
-Washington,Medicaid Recipient,FALSE,FALSE,53.2,48.2,58.1,294
-Minnesota,Medicaid Recipient,FALSE,TRUE,46.3,42.9,49.8,399
-Maine,Medicaid Recipient,FALSE,FALSE,44.3,39.3,49.4,200
-Washington,Medicaid Recipient,FALSE,TRUE,46.8,41.9,51.8,237
-Missouri,Medicaid Recipient,FALSE,TRUE,45.4,41.1,49.7,289
-Massachusetts,Medicaid Recipient,FALSE,TRUE,50,45.4,54.5,385
-Wyoming,Medicaid Recipient,FALSE,FALSE,55.6,49.7,61.2,205
-Wisconsin,Medicaid Recipient,FALSE,TRUE,50.2,44.9,55.4,226
-Minnesota,Medicaid Recipient,FALSE,FALSE,53.7,50.2,57.1,469
-Pennsylvania,Medicaid Recipient,FALSE,FALSE,58.5,54.4,62.4,394
-West Virginia,Medicaid Recipient,FALSE,FALSE,60.9,55.8,65.8,311
-Maryland,Medicaid Recipient,FALSE,TRUE,38.1,33.5,42.9,453
-Hawaii,Medicaid Recipient,FALSE,FALSE,64.3,60.2,68.2,561
-Nebraska,Medicaid Recipient,FALSE,FALSE,53.1,49.2,57,433
-Wisconsin,Medicaid Recipient,FALSE,FALSE,49.8,44.6,55.1,305
-Massachusetts,Medicaid Recipient,FALSE,FALSE,50,45.5,54.6,423
-Rhode Island,Medicaid Recipient,FALSE,TRUE,48.2,43.9,52.5,319
-Georgia,Medicaid Recipient,FALSE,FALSE,52.2,45.1,59.2,245
-Michigan,Medicaid Recipient,FALSE,TRUE,43.8,39.7,47.9,306
-New York (excluding NYC),Medicaid Recipient,FALSE,FALSE,53.2,48.3,58.1,316
-Wyoming,Medicaid Recipient,FALSE,TRUE,44.4,38.8,50.3,153
-Georgia,Medicaid Recipient,FALSE,TRUE,47.8,40.8,54.9,181
-Colorado,Medicaid Recipient,FALSE,TRUE,47.8,43.7,51.9,510
-Oregon,Medicaid Recipient,FALSE,TRUE,45.4,40.2,50.8,286
-Oklahoma,Medicaid Recipient,FALSE,FALSE,58.8,52.7,64.5,430
-Delaware,Medicaid Recipient,FALSE,TRUE,40.1,36,44.4,217
-Utah,Medicaid Recipient,FALSE,TRUE,39,35.5,42.7,348
-Nebraska,Medicaid Recipient,FALSE,TRUE,46.9,43,50.8,356
-Vermont,Medicaid Recipient,FALSE,TRUE,50.4,46.3,54.5,290
-Arkansas,Medicaid Recipient,FALSE,FALSE,64.5,57,71.4,242
-New Jersey,Medicaid Recipient,FALSE,FALSE,56.9,53.3,60.4,498
-New Mexico,Medicaid Recipient,FALSE,FALSE,60.4,56.2,64.5,295
-New Mexico,Medicaid Recipient,FALSE,TRUE,39.6,35.5,43.8,208
-Maryland,Medicaid Recipient,FALSE,FALSE,61.9,57.1,66.5,501
-Arkansas,Medicaid Recipient,FALSE,TRUE,35.5,28.6,43,108
-Maine,Medicaid Recipient,FALSE,TRUE,55.7,50.6,60.7,263
-New York City,Medicaid Recipient,FALSE,TRUE,41.9,37.2,46.8,268
-Oregon,Medicaid Recipient,FALSE,FALSE,54.6,49.2,59.8,360
-Colorado,Medicaid Recipient,FALSE,FALSE,52.2,48.1,56.3,559
-New Jersey,Medicaid Recipient,FALSE,TRUE,43.1,39.6,46.7,367
-Pennsylvania,Medicaid Recipient,FALSE,TRUE,41.5,37.6,45.6,307
-West Virginia,Medicaid Recipient,FALSE,TRUE,39.1,34.2,44.2,206
-Michigan,Medicaid Recipient,FALSE,FALSE,56.2,52.1,60.3,397
-Rhode Island,Medicaid Recipient,FALSE,FALSE,51.8,47.5,56.1,310
-Vermont,Medicaid Recipient,FALSE,FALSE,49.6,45.5,53.7,275
-New York (excluding NYC),Medicaid Recipient,FALSE,TRUE,46.8,41.9,51.7,303
+PRAMS Total,On Medicaid?,TRUE,FALSE,80.7,79.8,81.6,15171
+PRAMS Total,On Medicaid?,TRUE,TRUE,19.3,18.4,20.2,3822
+Michigan,On Medicaid?,TRUE,FALSE,81.6,78.4,84.4,781
+Rhode Island,On Medicaid?,TRUE,TRUE,21.8,18.2,25.9,142
+Minnesota,On Medicaid?,TRUE,TRUE,23.5,19.2,28.3,108
+Oklahoma,On Medicaid?,TRUE,TRUE,18.2,14.4,22.7,218
+Maryland,On Medicaid?,TRUE,FALSE,83.2,77.6,87.6,393
+Michigan,On Medicaid?,TRUE,TRUE,18.4,15.6,21.6,164
+Wisconsin,On Medicaid?,TRUE,FALSE,78.6,73.9,82.8,833
+Vermont,On Medicaid?,TRUE,TRUE,23.8,20.3,27.8,123
+Wisconsin,On Medicaid?,TRUE,TRUE,21.4,17.2,26.1,194
+New York (excluding NYC),On Medicaid?,TRUE,FALSE,79.5,74,84.1,335
+Hawaii,On Medicaid?,TRUE,TRUE,17.4,13.8,21.6,113
+Massachusetts,On Medicaid?,TRUE,TRUE,25.2,21.2,29.6,198
+Vermont,On Medicaid?,TRUE,FALSE,76.2,72.2,79.7,390
+New Mexico,On Medicaid?,TRUE,FALSE,77.3,74.5,79.9,698
+Pennsylvania,On Medicaid?,TRUE,FALSE,85.1,80.5,88.7,311
+Washington,On Medicaid?,TRUE,FALSE,78.8,74.5,82.5,500
+Georgia,On Medicaid?,TRUE,TRUE,12.7,9.4,17,136
+New Jersey,On Medicaid?,TRUE,TRUE,25.5,21.6,29.9,130
+Georgia,On Medicaid?,TRUE,FALSE,87.3,83,90.6,1012
+West Virginia,On Medicaid?,TRUE,TRUE,15.6,13,18.6,178
+Missouri,On Medicaid?,TRUE,FALSE,86.8,83.5,89.6,541
+Hawaii,On Medicaid?,TRUE,FALSE,82.6,78.4,86.2,543
+Pennsylvania,On Medicaid?,TRUE,TRUE,14.9,11.3,19.5,57
+West Virginia,On Medicaid?,TRUE,FALSE,84.4,81.4,87,893
+Oklahoma,On Medicaid?,TRUE,FALSE,81.8,77.3,85.6,969
+Oregon,On Medicaid?,TRUE,FALSE,76.8,73,80.2,825
+Delaware,On Medicaid?,TRUE,TRUE,17.6,14.5,21.2,95
+Missouri,On Medicaid?,TRUE,TRUE,13.2,10.4,16.5,87
+Nebraska,On Medicaid?,TRUE,FALSE,75.2,71.6,78.6,685
+Minnesota,On Medicaid?,TRUE,FALSE,76.5,71.7,80.8,402
+New York City,On Medicaid?,TRUE,TRUE,23.9,20.4,27.7,196
+Arkansas,On Medicaid?,TRUE,TRUE,16.3,12.7,20.7,170
+Maine,On Medicaid?,TRUE,FALSE,77.5,73.2,81.3,432
+Colorado,On Medicaid?,TRUE,TRUE,15.7,12.4,19.6,134
+Utah,On Medicaid?,TRUE,FALSE,77.2,73,81,438
+Oregon,On Medicaid?,TRUE,TRUE,23.2,19.8,27,274
+Massachusetts,On Medicaid?,TRUE,FALSE,74.8,70.4,78.8,582
+Wyoming,On Medicaid?,TRUE,FALSE,75.6,69.4,80.9,257
+New York (excluding NYC),On Medicaid?,TRUE,TRUE,20.5,15.9,26,90
+Colorado,On Medicaid?,TRUE,FALSE,84.3,80.4,87.6,631
+Washington,On Medicaid?,TRUE,TRUE,21.2,17.5,25.5,143
+Rhode Island,On Medicaid?,TRUE,FALSE,78.2,74.1,81.8,479
+Maryland,On Medicaid?,TRUE,TRUE,16.8,12.4,22.4,105
+New Jersey,On Medicaid?,TRUE,FALSE,74.5,70.1,78.4,401
+Maine,On Medicaid?,TRUE,TRUE,22.5,18.7,26.8,132
+Delaware,On Medicaid?,TRUE,FALSE,82.4,78.8,85.5,437
+New York City,On Medicaid?,TRUE,FALSE,76.1,72.3,79.6,594
+Utah,On Medicaid?,TRUE,TRUE,22.8,19,27,131
+Arkansas,On Medicaid?,TRUE,FALSE,83.7,79.3,87.3,809
+New Mexico,On Medicaid?,TRUE,TRUE,22.7,20.1,25.5,203
+Wyoming,On Medicaid?,TRUE,TRUE,24.4,19.1,30.6,70
+Nebraska,On Medicaid?,TRUE,TRUE,24.8,21.4,28.4,231
+PRAMS Total,On Medicaid?,FALSE,FALSE,55.6,54.5,56.7,9502
+PRAMS Total,On Medicaid?,FALSE,TRUE,44.4,43.3,45.5,7646
+Hawaii,On Medicaid?,FALSE,TRUE,35.7,31.8,39.8,333
+Utah,On Medicaid?,FALSE,FALSE,61,57.3,64.5,509
+Oklahoma,On Medicaid?,FALSE,TRUE,41.2,35.5,47.3,328
+Delaware,On Medicaid?,FALSE,FALSE,59.9,55.6,64,304
+Missouri,On Medicaid?,FALSE,FALSE,54.6,50.3,58.9,324
+New York City,On Medicaid?,FALSE,FALSE,58.1,53.2,62.8,342
+Washington,On Medicaid?,FALSE,FALSE,53.2,48.2,58.1,294
+Minnesota,On Medicaid?,FALSE,TRUE,46.3,42.9,49.8,399
+Maine,On Medicaid?,FALSE,FALSE,44.3,39.3,49.4,200
+Washington,On Medicaid?,FALSE,TRUE,46.8,41.9,51.8,237
+Missouri,On Medicaid?,FALSE,TRUE,45.4,41.1,49.7,289
+Massachusetts,On Medicaid?,FALSE,TRUE,50,45.4,54.5,385
+Wyoming,On Medicaid?,FALSE,FALSE,55.6,49.7,61.2,205
+Wisconsin,On Medicaid?,FALSE,TRUE,50.2,44.9,55.4,226
+Minnesota,On Medicaid?,FALSE,FALSE,53.7,50.2,57.1,469
+Pennsylvania,On Medicaid?,FALSE,FALSE,58.5,54.4,62.4,394
+West Virginia,On Medicaid?,FALSE,FALSE,60.9,55.8,65.8,311
+Maryland,On Medicaid?,FALSE,TRUE,38.1,33.5,42.9,453
+Hawaii,On Medicaid?,FALSE,FALSE,64.3,60.2,68.2,561
+Nebraska,On Medicaid?,FALSE,FALSE,53.1,49.2,57,433
+Wisconsin,On Medicaid?,FALSE,FALSE,49.8,44.6,55.1,305
+Massachusetts,On Medicaid?,FALSE,FALSE,50,45.5,54.6,423
+Rhode Island,On Medicaid?,FALSE,TRUE,48.2,43.9,52.5,319
+Georgia,On Medicaid?,FALSE,FALSE,52.2,45.1,59.2,245
+Michigan,On Medicaid?,FALSE,TRUE,43.8,39.7,47.9,306
+New York (excluding NYC),On Medicaid?,FALSE,FALSE,53.2,48.3,58.1,316
+Wyoming,On Medicaid?,FALSE,TRUE,44.4,38.8,50.3,153
+Georgia,On Medicaid?,FALSE,TRUE,47.8,40.8,54.9,181
+Colorado,On Medicaid?,FALSE,TRUE,47.8,43.7,51.9,510
+Oregon,On Medicaid?,FALSE,TRUE,45.4,40.2,50.8,286
+Oklahoma,On Medicaid?,FALSE,FALSE,58.8,52.7,64.5,430
+Delaware,On Medicaid?,FALSE,TRUE,40.1,36,44.4,217
+Utah,On Medicaid?,FALSE,TRUE,39,35.5,42.7,348
+Nebraska,On Medicaid?,FALSE,TRUE,46.9,43,50.8,356
+Vermont,On Medicaid?,FALSE,TRUE,50.4,46.3,54.5,290
+Arkansas,On Medicaid?,FALSE,FALSE,64.5,57,71.4,242
+New Jersey,On Medicaid?,FALSE,FALSE,56.9,53.3,60.4,498
+New Mexico,On Medicaid?,FALSE,FALSE,60.4,56.2,64.5,295
+New Mexico,On Medicaid?,FALSE,TRUE,39.6,35.5,43.8,208
+Maryland,On Medicaid?,FALSE,FALSE,61.9,57.1,66.5,501
+Arkansas,On Medicaid?,FALSE,TRUE,35.5,28.6,43,108
+Maine,On Medicaid?,FALSE,TRUE,55.7,50.6,60.7,263
+New York City,On Medicaid?,FALSE,TRUE,41.9,37.2,46.8,268
+Oregon,On Medicaid?,FALSE,FALSE,54.6,49.2,59.8,360
+Colorado,On Medicaid?,FALSE,FALSE,52.2,48.1,56.3,559
+New Jersey,On Medicaid?,FALSE,TRUE,43.1,39.6,46.7,367
+Pennsylvania,On Medicaid?,FALSE,TRUE,41.5,37.6,45.6,307
+West Virginia,On Medicaid?,FALSE,TRUE,39.1,34.2,44.2,206
+Michigan,On Medicaid?,FALSE,FALSE,56.2,52.1,60.3,397
+Rhode Island,On Medicaid?,FALSE,FALSE,51.8,47.5,56.1,310
+Vermont,On Medicaid?,FALSE,FALSE,49.6,45.5,53.7,275
+New York (excluding NYC),On Medicaid?,FALSE,TRUE,46.8,41.9,51.7,303
 PRAMS Total,Mother Hispanic,TRUE,TRUE,22.8,21.2,24.5,1421
 PRAMS Total,Mother Hispanic,TRUE,FALSE,77.2,75.5,78.8,4267
 Wisconsin,Mother Hispanic,TRUE,TRUE,24.1,18.9,30.2,53
@@ -1980,222 +1980,222 @@ Minnesota,Number of Previous Live Births,1 or more,TRUE,35.8,32.2,39.6,266
 Colorado,Number of Previous Live Births,1 or more,TRUE,34.5,30.6,38.6,347
 Wyoming,Number of Previous Live Births,1 or more,FALSE,65.1,59.5,70.2,274
 Delaware,Number of Previous Live Births,1 or more,FALSE,74.8,71.2,78.1,461
-PRAMS Total,On WIC during Pregnancy,FALSE,FALSE,56.8,55.7,57.9,10470
-PRAMS Total,On WIC during Pregnancy,FALSE,TRUE,43.2,42.1,44.3,7706
-New Jersey,On WIC during Pregnancy,FALSE,TRUE,43.4,39.9,47.1,361
-Minnesota,On WIC during Pregnancy,FALSE,FALSE,52.3,48.7,55.9,428
-Georgia,On WIC during Pregnancy,FALSE,FALSE,53,46.3,59.6,314
-Utah,On WIC during Pregnancy,FALSE,FALSE,63.2,59.6,66.6,572
-Washington,On WIC during Pregnancy,FALSE,FALSE,57,52.2,61.7,342
-Maryland,On WIC during Pregnancy,FALSE,TRUE,38.4,33.6,43.4,427
-Delaware,On WIC during Pregnancy,FALSE,FALSE,61.9,57.8,65.9,335
-Wyoming,On WIC during Pregnancy,FALSE,TRUE,42.5,37.3,47.8,173
-New Mexico,On WIC during Pregnancy,FALSE,FALSE,65.7,62,69.3,393
-Utah,On WIC during Pregnancy,FALSE,TRUE,36.8,33.4,40.4,346
-Wyoming,On WIC during Pregnancy,FALSE,FALSE,57.5,52.2,62.7,262
-West Virginia,On WIC during Pregnancy,FALSE,FALSE,64.4,59.5,69,377
-Massachusetts,On WIC during Pregnancy,FALSE,TRUE,52.7,48.1,57.2,388
-New York City,On WIC during Pregnancy,FALSE,TRUE,42.3,37.6,47.1,270
-West Virginia,On WIC during Pregnancy,FALSE,TRUE,35.6,31,40.5,203
-Maryland,On WIC during Pregnancy,FALSE,FALSE,61.6,56.6,66.4,469
-Oklahoma,On WIC during Pregnancy,FALSE,TRUE,38.4,33,44.1,357
-Massachusetts,On WIC during Pregnancy,FALSE,FALSE,47.3,42.8,51.9,413
-Missouri,On WIC during Pregnancy,FALSE,FALSE,59.2,55,63.2,385
-Nebraska,On WIC during Pregnancy,FALSE,TRUE,43.9,40.2,47.6,371
-Maine,On WIC during Pregnancy,FALSE,TRUE,48.8,44.2,53.4,290
-Minnesota,On WIC during Pregnancy,FALSE,TRUE,47.7,44.1,51.3,383
-New York (excluding NYC),On WIC during Pregnancy,FALSE,FALSE,54.7,49.9,59.5,340
-Nebraska,On WIC during Pregnancy,FALSE,FALSE,56.1,52.4,59.8,524
-New Jersey,On WIC during Pregnancy,FALSE,FALSE,56.6,52.9,60.1,503
-Hawaii,On WIC during Pregnancy,FALSE,FALSE,63.6,59.3,67.8,518
-Michigan,On WIC during Pregnancy,FALSE,FALSE,58.3,54.3,62.2,437
-Wisconsin,On WIC during Pregnancy,FALSE,FALSE,53.2,48.2,58.2,356
-Wisconsin,On WIC during Pregnancy,FALSE,TRUE,46.8,41.8,51.8,224
-Vermont,On WIC during Pregnancy,FALSE,FALSE,49.9,45.9,53.9,301
-Oklahoma,On WIC during Pregnancy,FALSE,FALSE,61.6,55.9,67,509
-Washington,On WIC during Pregnancy,FALSE,TRUE,43,38.3,47.8,234
-Arkansas,On WIC during Pregnancy,FALSE,TRUE,36,29.3,43.4,110
-Colorado,On WIC during Pregnancy,FALSE,FALSE,55.3,51.2,59.2,625
-Oregon,On WIC during Pregnancy,FALSE,FALSE,58.7,53.6,63.5,436
-New York (excluding NYC),On WIC during Pregnancy,FALSE,TRUE,45.3,40.5,50.1,302
-Missouri,On WIC during Pregnancy,FALSE,TRUE,40.8,36.8,45,282
-New York City,On WIC during Pregnancy,FALSE,FALSE,57.7,52.9,62.4,364
-Arkansas,On WIC during Pregnancy,FALSE,FALSE,64,56.6,70.7,252
-Oregon,On WIC during Pregnancy,FALSE,TRUE,41.3,36.5,46.4,293
-Colorado,On WIC during Pregnancy,FALSE,TRUE,44.7,40.8,48.8,523
-Maine,On WIC during Pregnancy,FALSE,FALSE,51.2,46.6,55.8,297
-Vermont,On WIC during Pregnancy,FALSE,TRUE,50.1,46.1,54.1,307
-Georgia,On WIC during Pregnancy,FALSE,TRUE,47,40.4,53.7,203
-Rhode Island,On WIC during Pregnancy,FALSE,FALSE,52.9,48.6,57.1,343
-Michigan,On WIC during Pregnancy,FALSE,TRUE,41.7,37.8,45.7,308
-Hawaii,On WIC during Pregnancy,FALSE,TRUE,36.4,32.2,40.7,296
-Pennsylvania,On WIC during Pregnancy,FALSE,FALSE,58,53.8,62.1,375
-Pennsylvania,On WIC during Pregnancy,FALSE,TRUE,42,37.9,46.2,289
-Rhode Island,On WIC during Pregnancy,FALSE,TRUE,47.1,42.9,51.4,326
-New Mexico,On WIC during Pregnancy,FALSE,TRUE,34.3,30.7,38,220
-Delaware,On WIC during Pregnancy,FALSE,TRUE,38.1,34.1,42.2,220
-PRAMS Total,On WIC during Pregnancy,TRUE,FALSE,80.7,79.8,81.7,13974
-PRAMS Total,On WIC during Pregnancy,TRUE,TRUE,19.3,18.3,20.2,3651
-Hawaii,On WIC during Pregnancy,TRUE,FALSE,80.6,76.5,84.1,575
-Hawaii,On WIC during Pregnancy,TRUE,TRUE,19.4,15.9,23.5,147
-Minnesota,On WIC during Pregnancy,TRUE,FALSE,76.7,72.1,80.8,429
-New York (excluding NYC),On WIC during Pregnancy,TRUE,TRUE,21,16.3,26.7,87
-Rhode Island,On WIC during Pregnancy,TRUE,FALSE,79.1,74.9,82.7,439
-Wisconsin,On WIC during Pregnancy,TRUE,TRUE,21.3,17.1,26.2,191
-Maryland,On WIC during Pregnancy,TRUE,FALSE,80.2,74.6,84.9,415
-Maryland,On WIC during Pregnancy,TRUE,TRUE,19.8,15.1,25.4,127
-New Jersey,On WIC during Pregnancy,TRUE,FALSE,75.4,71,79.2,385
-Rhode Island,On WIC during Pregnancy,TRUE,TRUE,20.9,17.3,25.1,128
-Wisconsin,On WIC during Pregnancy,TRUE,FALSE,78.7,73.8,82.9,767
-Georgia,On WIC during Pregnancy,TRUE,FALSE,91.4,87.6,94.2,936
-Colorado,On WIC during Pregnancy,TRUE,TRUE,18.5,14.8,23,118
-New York City,On WIC during Pregnancy,TRUE,FALSE,77,73.2,80.5,563
-Delaware,On WIC during Pregnancy,TRUE,FALSE,82.1,78.3,85.3,405
-Wyoming,On WIC during Pregnancy,TRUE,TRUE,22.2,16.4,29.3,49
-Oregon,On WIC during Pregnancy,TRUE,FALSE,76.1,72,79.7,726
-Oklahoma,On WIC during Pregnancy,TRUE,TRUE,18.1,14.1,22.9,189
-Minnesota,On WIC during Pregnancy,TRUE,TRUE,23.3,19.2,27.9,117
-Missouri,On WIC during Pregnancy,TRUE,TRUE,15.3,12.1,19,87
-Delaware,On WIC during Pregnancy,TRUE,TRUE,17.9,14.7,21.7,90
-Pennsylvania,On WIC during Pregnancy,TRUE,TRUE,16.8,13.1,21.3,72
-New York City,On WIC during Pregnancy,TRUE,TRUE,23,19.5,26.8,189
-West Virginia,On WIC during Pregnancy,TRUE,TRUE,16.9,14.2,20.1,180
-New York (excluding NYC),On WIC during Pregnancy,TRUE,FALSE,79,73.3,83.7,308
-Washington,On WIC during Pregnancy,TRUE,TRUE,23.2,19.2,27.8,144
-Oklahoma,On WIC during Pregnancy,TRUE,FALSE,81.9,77.1,85.9,885
-Maine,On WIC during Pregnancy,TRUE,TRUE,22.8,18.4,27.8,105
-Massachusetts,On WIC during Pregnancy,TRUE,TRUE,21.4,17.8,25.5,186
-Arkansas,On WIC during Pregnancy,TRUE,FALSE,84.5,80.1,88.1,791
-Utah,On WIC during Pregnancy,TRUE,FALSE,74.3,69.5,78.6,364
-Oregon,On WIC during Pregnancy,TRUE,TRUE,23.9,20.3,28,256
-West Virginia,On WIC during Pregnancy,TRUE,FALSE,83.1,79.9,85.8,822
-Georgia,On WIC during Pregnancy,TRUE,TRUE,8.6,5.8,12.4,106
-New Mexico,On WIC during Pregnancy,TRUE,TRUE,24.1,21.3,27.2,188
-Utah,On WIC during Pregnancy,TRUE,TRUE,25.7,21.4,30.5,128
-Maine,On WIC during Pregnancy,TRUE,FALSE,77.2,72.2,81.6,330
-Colorado,On WIC during Pregnancy,TRUE,FALSE,81.5,77,85.2,558
-Pennsylvania,On WIC during Pregnancy,TRUE,FALSE,83.2,78.7,86.9,323
-Vermont,On WIC during Pregnancy,TRUE,FALSE,78.3,74.3,81.9,358
-Massachusetts,On WIC during Pregnancy,TRUE,FALSE,78.6,74.5,82.2,568
-Arkansas,On WIC during Pregnancy,TRUE,TRUE,15.5,11.9,19.9,167
-Michigan,On WIC during Pregnancy,TRUE,FALSE,81.6,78.3,84.5,730
-New Mexico,On WIC during Pregnancy,TRUE,FALSE,75.9,72.8,78.7,596
-Wyoming,On WIC during Pregnancy,TRUE,FALSE,77.8,70.7,83.6,200
-Washington,On WIC during Pregnancy,TRUE,FALSE,76.8,72.2,80.8,449
-Nebraska,On WIC during Pregnancy,TRUE,FALSE,74.1,70.1,77.7,587
-Vermont,On WIC during Pregnancy,TRUE,TRUE,21.7,18.1,25.7,103
-Michigan,On WIC during Pregnancy,TRUE,TRUE,18.4,15.5,21.7,156
-Nebraska,On WIC during Pregnancy,TRUE,TRUE,25.9,22.3,29.9,212
-New Jersey,On WIC during Pregnancy,TRUE,TRUE,24.6,20.8,29,129
-Missouri,On WIC during Pregnancy,TRUE,FALSE,84.7,81,87.9,465
-PRAMS Total,Pregnancy Intendedness,TRUE,FALSE,56.9,55.8,57.9,11860
-PRAMS Total,Pregnancy Intendedness,TRUE,TRUE,43.1,42.1,44.2,8811
-Hawaii,Pregnancy Intendedness,TRUE,TRUE,37.1,33.1,41.4,320
-New York City,Pregnancy Intendedness,TRUE,TRUE,38.6,34.8,42.6,361
-Pennsylvania,Pregnancy Intendedness,TRUE,FALSE,56.9,52.6,61,351
-Michigan,Pregnancy Intendedness,TRUE,FALSE,59.6,55.9,63.2,532
-Missouri,Pregnancy Intendedness,TRUE,TRUE,43,38.9,47.2,297
-Washington,Pregnancy Intendedness,TRUE,TRUE,43.2,38.9,47.7,285
-Massachusetts,Pregnancy Intendedness,TRUE,TRUE,48.6,44.5,52.7,474
-Pennsylvania,Pregnancy Intendedness,TRUE,TRUE,43.1,39,47.4,301
-Arkansas,Pregnancy Intendedness,TRUE,TRUE,33.5,27.9,39.6,175
-Oregon,Pregnancy Intendedness,TRUE,TRUE,41.5,37.3,45.9,407
-New Mexico,Pregnancy Intendedness,TRUE,FALSE,61.5,58,64.9,442
-Minnesota,Pregnancy Intendedness,TRUE,FALSE,51.7,48.1,55.2,465
-New Jersey,Pregnancy Intendedness,TRUE,TRUE,45.9,42.2,49.6,366
-New York (excluding NYC),Pregnancy Intendedness,TRUE,TRUE,43.9,39.3,48.6,329
-New York (excluding NYC),Pregnancy Intendedness,TRUE,FALSE,56.1,51.4,60.7,365
-Massachusetts,Pregnancy Intendedness,TRUE,FALSE,51.4,47.3,55.5,556
-Oklahoma,Pregnancy Intendedness,TRUE,TRUE,37.6,32.6,42.8,432
-Nebraska,Pregnancy Intendedness,TRUE,FALSE,53.2,49.4,56.9,536
-Maine,Pregnancy Intendedness,TRUE,TRUE,51.6,47.2,56,332
-Colorado,Pregnancy Intendedness,TRUE,FALSE,54.2,50.2,58.2,631
-Maryland,Pregnancy Intendedness,TRUE,TRUE,43.4,38.3,48.7,447
-New Mexico,Pregnancy Intendedness,TRUE,TRUE,38.5,35.1,42,291
-Wisconsin,Pregnancy Intendedness,TRUE,FALSE,52,47.1,56.8,465
-Hawaii,Pregnancy Intendedness,TRUE,FALSE,62.9,58.6,66.9,531
-Rhode Island,Pregnancy Intendedness,TRUE,FALSE,54.5,50.5,58.5,412
-Delaware,Pregnancy Intendedness,TRUE,TRUE,39.4,35.4,43.5,227
-Colorado,Pregnancy Intendedness,TRUE,TRUE,45.8,41.8,49.8,522
-Michigan,Pregnancy Intendedness,TRUE,TRUE,40.4,36.8,44.1,359
-Washington,Pregnancy Intendedness,TRUE,FALSE,56.8,52.3,61.1,392
-Wisconsin,Pregnancy Intendedness,TRUE,TRUE,48,43.2,52.9,284
-West Virginia,Pregnancy Intendedness,TRUE,TRUE,33.2,29.3,37.4,270
-Missouri,Pregnancy Intendedness,TRUE,FALSE,57,52.8,61.1,392
-Arkansas,Pregnancy Intendedness,TRUE,FALSE,66.5,60.4,72.1,405
-Utah,Pregnancy Intendedness,TRUE,FALSE,57.6,54,61.1,543
-Oregon,Pregnancy Intendedness,TRUE,FALSE,58.5,54.1,62.7,644
-Delaware,Pregnancy Intendedness,TRUE,FALSE,60.6,56.5,64.6,343
-Oklahoma,Pregnancy Intendedness,TRUE,FALSE,62.4,57.2,67.4,643
-Wyoming,Pregnancy Intendedness,TRUE,FALSE,56.1,50.6,61.6,247
-Nebraska,Pregnancy Intendedness,TRUE,TRUE,46.8,43.1,50.6,416
-Maine,Pregnancy Intendedness,TRUE,FALSE,48.4,44,52.8,323
-Georgia,Pregnancy Intendedness,TRUE,FALSE,58.2,51.5,64.5,367
-Rhode Island,Pregnancy Intendedness,TRUE,TRUE,45.5,41.5,49.5,362
-Wyoming,Pregnancy Intendedness,TRUE,TRUE,43.9,38.4,49.4,169
-Utah,Pregnancy Intendedness,TRUE,TRUE,42.4,38.9,46,404
-Minnesota,Pregnancy Intendedness,TRUE,TRUE,48.3,44.8,51.9,415
-Vermont,Pregnancy Intendedness,TRUE,FALSE,49,45.2,52.7,332
-West Virginia,Pregnancy Intendedness,TRUE,FALSE,66.8,62.6,70.7,536
-Maryland,Pregnancy Intendedness,TRUE,FALSE,56.6,51.3,61.7,420
-New York City,Pregnancy Intendedness,TRUE,FALSE,61.4,57.4,65.2,529
-New Jersey,Pregnancy Intendedness,TRUE,FALSE,54.1,50.4,57.8,458
-Georgia,Pregnancy Intendedness,TRUE,TRUE,41.8,35.5,48.5,214
-Vermont,Pregnancy Intendedness,TRUE,TRUE,51,47.3,54.8,352
-PRAMS Total,Pregnancy Intendedness,FALSE,FALSE,83.4,82.3,84.4,12350
-PRAMS Total,Pregnancy Intendedness,FALSE,TRUE,16.6,15.6,17.7,2469
-New Mexico,Pregnancy Intendedness,FALSE,TRUE,17.6,14.8,20.7,112
-Massachusetts,Pregnancy Intendedness,FALSE,TRUE,20.4,16,25.6,101
-Maine,Pregnancy Intendedness,FALSE,TRUE,12.6,9.1,17.3,54
-Arkansas,Pregnancy Intendedness,FALSE,TRUE,12.1,8.7,16.7,102
-Utah,Pregnancy Intendedness,FALSE,TRUE,14.1,10.8,18,69
-New York (excluding NYC),Pregnancy Intendedness,FALSE,TRUE,22.5,17.3,28.8,63
-Rhode Island,Pregnancy Intendedness,FALSE,TRUE,18.9,15.1,23.4,92
-Oregon,Pregnancy Intendedness,FALSE,FALSE,81.7,77.2,85.5,522
-Wyoming,Pregnancy Intendedness,FALSE,TRUE,22,16.5,28.7,50
-Delaware,Pregnancy Intendedness,FALSE,FALSE,83.9,80.3,87,386
-Oregon,Pregnancy Intendedness,FALSE,TRUE,18.3,14.5,22.8,141
-Michigan,Pregnancy Intendedness,FALSE,TRUE,15.3,12.4,18.8,101
-Arkansas,Pregnancy Intendedness,FALSE,FALSE,87.9,83.3,91.3,636
-Maine,Pregnancy Intendedness,FALSE,FALSE,87.4,82.7,90.9,297
-Nebraska,Pregnancy Intendedness,FALSE,TRUE,22.5,18.9,26.5,161
-Hawaii,Pregnancy Intendedness,FALSE,FALSE,81.6,77.4,85.2,556
-Maryland,Pregnancy Intendedness,FALSE,TRUE,15.2,11.3,20.2,105
-Massachusetts,Pregnancy Intendedness,FALSE,FALSE,79.6,74.4,84,433
-New York City,Pregnancy Intendedness,FALSE,TRUE,19.5,15.4,24.4,95
-Oklahoma,Pregnancy Intendedness,FALSE,FALSE,86.3,81.4,90.1,743
-Minnesota,Pregnancy Intendedness,FALSE,FALSE,82.5,78.1,86.2,378
-Delaware,Pregnancy Intendedness,FALSE,TRUE,16.1,13,19.7,80
-New Jersey,Pregnancy Intendedness,FALSE,TRUE,20.8,17.3,24.8,118
-Utah,Pregnancy Intendedness,FALSE,FALSE,85.9,82,89.2,387
-Maryland,Pregnancy Intendedness,FALSE,FALSE,84.8,79.8,88.7,449
-Nebraska,Pregnancy Intendedness,FALSE,FALSE,77.5,73.5,81.1,562
-Michigan,Pregnancy Intendedness,FALSE,FALSE,84.7,81.2,87.6,633
-West Virginia,Pregnancy Intendedness,FALSE,FALSE,85.8,82.3,88.7,649
-Hawaii,Pregnancy Intendedness,FALSE,TRUE,18.4,14.8,22.6,119
-Wisconsin,Pregnancy Intendedness,FALSE,TRUE,16.6,12.6,21.5,123
-Pennsylvania,Pregnancy Intendedness,FALSE,FALSE,85.8,81.5,89.2,340
-Rhode Island,Pregnancy Intendedness,FALSE,FALSE,81.1,76.6,84.9,362
-Oklahoma,Pregnancy Intendedness,FALSE,TRUE,13.7,9.9,18.6,111
-New York (excluding NYC),Pregnancy Intendedness,FALSE,FALSE,77.5,71.2,82.7,265
-Colorado,Pregnancy Intendedness,FALSE,TRUE,17.1,13.6,21.3,117
-Missouri,Pregnancy Intendedness,FALSE,FALSE,88.1,84.7,90.8,455
-West Virginia,Pregnancy Intendedness,FALSE,TRUE,14.2,11.3,17.7,109
-Georgia,Pregnancy Intendedness,FALSE,FALSE,86.4,81.7,90.1,876
-Pennsylvania,Pregnancy Intendedness,FALSE,TRUE,14.2,10.8,18.5,56
-New Jersey,Pregnancy Intendedness,FALSE,FALSE,79.2,75.2,82.7,429
-Wyoming,Pregnancy Intendedness,FALSE,FALSE,78,71.3,83.5,207
-Vermont,Pregnancy Intendedness,FALSE,TRUE,14.2,11,18.3,55
-Georgia,Pregnancy Intendedness,FALSE,TRUE,13.6,9.9,18.3,100
-New Mexico,Pregnancy Intendedness,FALSE,FALSE,82.4,79.3,85.2,524
-Colorado,Pregnancy Intendedness,FALSE,FALSE,82.9,78.7,86.4,530
-Washington,Pregnancy Intendedness,FALSE,TRUE,19.4,15.3,24.4,90
-Washington,Pregnancy Intendedness,FALSE,FALSE,80.6,75.6,84.7,386
-Vermont,Pregnancy Intendedness,FALSE,FALSE,85.8,81.7,89,312
-Minnesota,Pregnancy Intendedness,FALSE,TRUE,17.5,13.8,21.9,73
-Wisconsin,Pregnancy Intendedness,FALSE,FALSE,83.4,78.5,87.4,654
-New York City,Pregnancy Intendedness,FALSE,FALSE,80.5,75.6,84.6,379
-Missouri,Pregnancy Intendedness,FALSE,TRUE,11.9,9.2,15.3,72
+PRAMS Total,On WIC?,FALSE,FALSE,56.8,55.7,57.9,10470
+PRAMS Total,On WIC?,FALSE,TRUE,43.2,42.1,44.3,7706
+New Jersey,On WIC?,FALSE,TRUE,43.4,39.9,47.1,361
+Minnesota,On WIC?,FALSE,FALSE,52.3,48.7,55.9,428
+Georgia,On WIC?,FALSE,FALSE,53,46.3,59.6,314
+Utah,On WIC?,FALSE,FALSE,63.2,59.6,66.6,572
+Washington,On WIC?,FALSE,FALSE,57,52.2,61.7,342
+Maryland,On WIC?,FALSE,TRUE,38.4,33.6,43.4,427
+Delaware,On WIC?,FALSE,FALSE,61.9,57.8,65.9,335
+Wyoming,On WIC?,FALSE,TRUE,42.5,37.3,47.8,173
+New Mexico,On WIC?,FALSE,FALSE,65.7,62,69.3,393
+Utah,On WIC?,FALSE,TRUE,36.8,33.4,40.4,346
+Wyoming,On WIC?,FALSE,FALSE,57.5,52.2,62.7,262
+West Virginia,On WIC?,FALSE,FALSE,64.4,59.5,69,377
+Massachusetts,On WIC?,FALSE,TRUE,52.7,48.1,57.2,388
+New York City,On WIC?,FALSE,TRUE,42.3,37.6,47.1,270
+West Virginia,On WIC?,FALSE,TRUE,35.6,31,40.5,203
+Maryland,On WIC?,FALSE,FALSE,61.6,56.6,66.4,469
+Oklahoma,On WIC?,FALSE,TRUE,38.4,33,44.1,357
+Massachusetts,On WIC?,FALSE,FALSE,47.3,42.8,51.9,413
+Missouri,On WIC?,FALSE,FALSE,59.2,55,63.2,385
+Nebraska,On WIC?,FALSE,TRUE,43.9,40.2,47.6,371
+Maine,On WIC?,FALSE,TRUE,48.8,44.2,53.4,290
+Minnesota,On WIC?,FALSE,TRUE,47.7,44.1,51.3,383
+New York (excluding NYC),On WIC?,FALSE,FALSE,54.7,49.9,59.5,340
+Nebraska,On WIC?,FALSE,FALSE,56.1,52.4,59.8,524
+New Jersey,On WIC?,FALSE,FALSE,56.6,52.9,60.1,503
+Hawaii,On WIC?,FALSE,FALSE,63.6,59.3,67.8,518
+Michigan,On WIC?,FALSE,FALSE,58.3,54.3,62.2,437
+Wisconsin,On WIC?,FALSE,FALSE,53.2,48.2,58.2,356
+Wisconsin,On WIC?,FALSE,TRUE,46.8,41.8,51.8,224
+Vermont,On WIC?,FALSE,FALSE,49.9,45.9,53.9,301
+Oklahoma,On WIC?,FALSE,FALSE,61.6,55.9,67,509
+Washington,On WIC?,FALSE,TRUE,43,38.3,47.8,234
+Arkansas,On WIC?,FALSE,TRUE,36,29.3,43.4,110
+Colorado,On WIC?,FALSE,FALSE,55.3,51.2,59.2,625
+Oregon,On WIC?,FALSE,FALSE,58.7,53.6,63.5,436
+New York (excluding NYC),On WIC?,FALSE,TRUE,45.3,40.5,50.1,302
+Missouri,On WIC?,FALSE,TRUE,40.8,36.8,45,282
+New York City,On WIC?,FALSE,FALSE,57.7,52.9,62.4,364
+Arkansas,On WIC?,FALSE,FALSE,64,56.6,70.7,252
+Oregon,On WIC?,FALSE,TRUE,41.3,36.5,46.4,293
+Colorado,On WIC?,FALSE,TRUE,44.7,40.8,48.8,523
+Maine,On WIC?,FALSE,FALSE,51.2,46.6,55.8,297
+Vermont,On WIC?,FALSE,TRUE,50.1,46.1,54.1,307
+Georgia,On WIC?,FALSE,TRUE,47,40.4,53.7,203
+Rhode Island,On WIC?,FALSE,FALSE,52.9,48.6,57.1,343
+Michigan,On WIC?,FALSE,TRUE,41.7,37.8,45.7,308
+Hawaii,On WIC?,FALSE,TRUE,36.4,32.2,40.7,296
+Pennsylvania,On WIC?,FALSE,FALSE,58,53.8,62.1,375
+Pennsylvania,On WIC?,FALSE,TRUE,42,37.9,46.2,289
+Rhode Island,On WIC?,FALSE,TRUE,47.1,42.9,51.4,326
+New Mexico,On WIC?,FALSE,TRUE,34.3,30.7,38,220
+Delaware,On WIC?,FALSE,TRUE,38.1,34.1,42.2,220
+PRAMS Total,On WIC?,TRUE,FALSE,80.7,79.8,81.7,13974
+PRAMS Total,On WIC?,TRUE,TRUE,19.3,18.3,20.2,3651
+Hawaii,On WIC?,TRUE,FALSE,80.6,76.5,84.1,575
+Hawaii,On WIC?,TRUE,TRUE,19.4,15.9,23.5,147
+Minnesota,On WIC?,TRUE,FALSE,76.7,72.1,80.8,429
+New York (excluding NYC),On WIC?,TRUE,TRUE,21,16.3,26.7,87
+Rhode Island,On WIC?,TRUE,FALSE,79.1,74.9,82.7,439
+Wisconsin,On WIC?,TRUE,TRUE,21.3,17.1,26.2,191
+Maryland,On WIC?,TRUE,FALSE,80.2,74.6,84.9,415
+Maryland,On WIC?,TRUE,TRUE,19.8,15.1,25.4,127
+New Jersey,On WIC?,TRUE,FALSE,75.4,71,79.2,385
+Rhode Island,On WIC?,TRUE,TRUE,20.9,17.3,25.1,128
+Wisconsin,On WIC?,TRUE,FALSE,78.7,73.8,82.9,767
+Georgia,On WIC?,TRUE,FALSE,91.4,87.6,94.2,936
+Colorado,On WIC?,TRUE,TRUE,18.5,14.8,23,118
+New York City,On WIC?,TRUE,FALSE,77,73.2,80.5,563
+Delaware,On WIC?,TRUE,FALSE,82.1,78.3,85.3,405
+Wyoming,On WIC?,TRUE,TRUE,22.2,16.4,29.3,49
+Oregon,On WIC?,TRUE,FALSE,76.1,72,79.7,726
+Oklahoma,On WIC?,TRUE,TRUE,18.1,14.1,22.9,189
+Minnesota,On WIC?,TRUE,TRUE,23.3,19.2,27.9,117
+Missouri,On WIC?,TRUE,TRUE,15.3,12.1,19,87
+Delaware,On WIC?,TRUE,TRUE,17.9,14.7,21.7,90
+Pennsylvania,On WIC?,TRUE,TRUE,16.8,13.1,21.3,72
+New York City,On WIC?,TRUE,TRUE,23,19.5,26.8,189
+West Virginia,On WIC?,TRUE,TRUE,16.9,14.2,20.1,180
+New York (excluding NYC),On WIC?,TRUE,FALSE,79,73.3,83.7,308
+Washington,On WIC?,TRUE,TRUE,23.2,19.2,27.8,144
+Oklahoma,On WIC?,TRUE,FALSE,81.9,77.1,85.9,885
+Maine,On WIC?,TRUE,TRUE,22.8,18.4,27.8,105
+Massachusetts,On WIC?,TRUE,TRUE,21.4,17.8,25.5,186
+Arkansas,On WIC?,TRUE,FALSE,84.5,80.1,88.1,791
+Utah,On WIC?,TRUE,FALSE,74.3,69.5,78.6,364
+Oregon,On WIC?,TRUE,TRUE,23.9,20.3,28,256
+West Virginia,On WIC?,TRUE,FALSE,83.1,79.9,85.8,822
+Georgia,On WIC?,TRUE,TRUE,8.6,5.8,12.4,106
+New Mexico,On WIC?,TRUE,TRUE,24.1,21.3,27.2,188
+Utah,On WIC?,TRUE,TRUE,25.7,21.4,30.5,128
+Maine,On WIC?,TRUE,FALSE,77.2,72.2,81.6,330
+Colorado,On WIC?,TRUE,FALSE,81.5,77,85.2,558
+Pennsylvania,On WIC?,TRUE,FALSE,83.2,78.7,86.9,323
+Vermont,On WIC?,TRUE,FALSE,78.3,74.3,81.9,358
+Massachusetts,On WIC?,TRUE,FALSE,78.6,74.5,82.2,568
+Arkansas,On WIC?,TRUE,TRUE,15.5,11.9,19.9,167
+Michigan,On WIC?,TRUE,FALSE,81.6,78.3,84.5,730
+New Mexico,On WIC?,TRUE,FALSE,75.9,72.8,78.7,596
+Wyoming,On WIC?,TRUE,FALSE,77.8,70.7,83.6,200
+Washington,On WIC?,TRUE,FALSE,76.8,72.2,80.8,449
+Nebraska,On WIC?,TRUE,FALSE,74.1,70.1,77.7,587
+Vermont,On WIC?,TRUE,TRUE,21.7,18.1,25.7,103
+Michigan,On WIC?,TRUE,TRUE,18.4,15.5,21.7,156
+Nebraska,On WIC?,TRUE,TRUE,25.9,22.3,29.9,212
+New Jersey,On WIC?,TRUE,TRUE,24.6,20.8,29,129
+Missouri,On WIC?,TRUE,FALSE,84.7,81,87.9,465
+PRAMS Total,Intended Pregnancy?,TRUE,FALSE,56.9,55.8,57.9,11860
+PRAMS Total,Intended Pregnancy?,TRUE,TRUE,43.1,42.1,44.2,8811
+Hawaii,Intended Pregnancy?,TRUE,TRUE,37.1,33.1,41.4,320
+New York City,Intended Pregnancy?,TRUE,TRUE,38.6,34.8,42.6,361
+Pennsylvania,Intended Pregnancy?,TRUE,FALSE,56.9,52.6,61,351
+Michigan,Intended Pregnancy?,TRUE,FALSE,59.6,55.9,63.2,532
+Missouri,Intended Pregnancy?,TRUE,TRUE,43,38.9,47.2,297
+Washington,Intended Pregnancy?,TRUE,TRUE,43.2,38.9,47.7,285
+Massachusetts,Intended Pregnancy?,TRUE,TRUE,48.6,44.5,52.7,474
+Pennsylvania,Intended Pregnancy?,TRUE,TRUE,43.1,39,47.4,301
+Arkansas,Intended Pregnancy?,TRUE,TRUE,33.5,27.9,39.6,175
+Oregon,Intended Pregnancy?,TRUE,TRUE,41.5,37.3,45.9,407
+New Mexico,Intended Pregnancy?,TRUE,FALSE,61.5,58,64.9,442
+Minnesota,Intended Pregnancy?,TRUE,FALSE,51.7,48.1,55.2,465
+New Jersey,Intended Pregnancy?,TRUE,TRUE,45.9,42.2,49.6,366
+New York (excluding NYC),Intended Pregnancy?,TRUE,TRUE,43.9,39.3,48.6,329
+New York (excluding NYC),Intended Pregnancy?,TRUE,FALSE,56.1,51.4,60.7,365
+Massachusetts,Intended Pregnancy?,TRUE,FALSE,51.4,47.3,55.5,556
+Oklahoma,Intended Pregnancy?,TRUE,TRUE,37.6,32.6,42.8,432
+Nebraska,Intended Pregnancy?,TRUE,FALSE,53.2,49.4,56.9,536
+Maine,Intended Pregnancy?,TRUE,TRUE,51.6,47.2,56,332
+Colorado,Intended Pregnancy?,TRUE,FALSE,54.2,50.2,58.2,631
+Maryland,Intended Pregnancy?,TRUE,TRUE,43.4,38.3,48.7,447
+New Mexico,Intended Pregnancy?,TRUE,TRUE,38.5,35.1,42,291
+Wisconsin,Intended Pregnancy?,TRUE,FALSE,52,47.1,56.8,465
+Hawaii,Intended Pregnancy?,TRUE,FALSE,62.9,58.6,66.9,531
+Rhode Island,Intended Pregnancy?,TRUE,FALSE,54.5,50.5,58.5,412
+Delaware,Intended Pregnancy?,TRUE,TRUE,39.4,35.4,43.5,227
+Colorado,Intended Pregnancy?,TRUE,TRUE,45.8,41.8,49.8,522
+Michigan,Intended Pregnancy?,TRUE,TRUE,40.4,36.8,44.1,359
+Washington,Intended Pregnancy?,TRUE,FALSE,56.8,52.3,61.1,392
+Wisconsin,Intended Pregnancy?,TRUE,TRUE,48,43.2,52.9,284
+West Virginia,Intended Pregnancy?,TRUE,TRUE,33.2,29.3,37.4,270
+Missouri,Intended Pregnancy?,TRUE,FALSE,57,52.8,61.1,392
+Arkansas,Intended Pregnancy?,TRUE,FALSE,66.5,60.4,72.1,405
+Utah,Intended Pregnancy?,TRUE,FALSE,57.6,54,61.1,543
+Oregon,Intended Pregnancy?,TRUE,FALSE,58.5,54.1,62.7,644
+Delaware,Intended Pregnancy?,TRUE,FALSE,60.6,56.5,64.6,343
+Oklahoma,Intended Pregnancy?,TRUE,FALSE,62.4,57.2,67.4,643
+Wyoming,Intended Pregnancy?,TRUE,FALSE,56.1,50.6,61.6,247
+Nebraska,Intended Pregnancy?,TRUE,TRUE,46.8,43.1,50.6,416
+Maine,Intended Pregnancy?,TRUE,FALSE,48.4,44,52.8,323
+Georgia,Intended Pregnancy?,TRUE,FALSE,58.2,51.5,64.5,367
+Rhode Island,Intended Pregnancy?,TRUE,TRUE,45.5,41.5,49.5,362
+Wyoming,Intended Pregnancy?,TRUE,TRUE,43.9,38.4,49.4,169
+Utah,Intended Pregnancy?,TRUE,TRUE,42.4,38.9,46,404
+Minnesota,Intended Pregnancy?,TRUE,TRUE,48.3,44.8,51.9,415
+Vermont,Intended Pregnancy?,TRUE,FALSE,49,45.2,52.7,332
+West Virginia,Intended Pregnancy?,TRUE,FALSE,66.8,62.6,70.7,536
+Maryland,Intended Pregnancy?,TRUE,FALSE,56.6,51.3,61.7,420
+New York City,Intended Pregnancy?,TRUE,FALSE,61.4,57.4,65.2,529
+New Jersey,Intended Pregnancy?,TRUE,FALSE,54.1,50.4,57.8,458
+Georgia,Intended Pregnancy?,TRUE,TRUE,41.8,35.5,48.5,214
+Vermont,Intended Pregnancy?,TRUE,TRUE,51,47.3,54.8,352
+PRAMS Total,Intended Pregnancy?,FALSE,FALSE,83.4,82.3,84.4,12350
+PRAMS Total,Intended Pregnancy?,FALSE,TRUE,16.6,15.6,17.7,2469
+New Mexico,Intended Pregnancy?,FALSE,TRUE,17.6,14.8,20.7,112
+Massachusetts,Intended Pregnancy?,FALSE,TRUE,20.4,16,25.6,101
+Maine,Intended Pregnancy?,FALSE,TRUE,12.6,9.1,17.3,54
+Arkansas,Intended Pregnancy?,FALSE,TRUE,12.1,8.7,16.7,102
+Utah,Intended Pregnancy?,FALSE,TRUE,14.1,10.8,18,69
+New York (excluding NYC),Intended Pregnancy?,FALSE,TRUE,22.5,17.3,28.8,63
+Rhode Island,Intended Pregnancy?,FALSE,TRUE,18.9,15.1,23.4,92
+Oregon,Intended Pregnancy?,FALSE,FALSE,81.7,77.2,85.5,522
+Wyoming,Intended Pregnancy?,FALSE,TRUE,22,16.5,28.7,50
+Delaware,Intended Pregnancy?,FALSE,FALSE,83.9,80.3,87,386
+Oregon,Intended Pregnancy?,FALSE,TRUE,18.3,14.5,22.8,141
+Michigan,Intended Pregnancy?,FALSE,TRUE,15.3,12.4,18.8,101
+Arkansas,Intended Pregnancy?,FALSE,FALSE,87.9,83.3,91.3,636
+Maine,Intended Pregnancy?,FALSE,FALSE,87.4,82.7,90.9,297
+Nebraska,Intended Pregnancy?,FALSE,TRUE,22.5,18.9,26.5,161
+Hawaii,Intended Pregnancy?,FALSE,FALSE,81.6,77.4,85.2,556
+Maryland,Intended Pregnancy?,FALSE,TRUE,15.2,11.3,20.2,105
+Massachusetts,Intended Pregnancy?,FALSE,FALSE,79.6,74.4,84,433
+New York City,Intended Pregnancy?,FALSE,TRUE,19.5,15.4,24.4,95
+Oklahoma,Intended Pregnancy?,FALSE,FALSE,86.3,81.4,90.1,743
+Minnesota,Intended Pregnancy?,FALSE,FALSE,82.5,78.1,86.2,378
+Delaware,Intended Pregnancy?,FALSE,TRUE,16.1,13,19.7,80
+New Jersey,Intended Pregnancy?,FALSE,TRUE,20.8,17.3,24.8,118
+Utah,Intended Pregnancy?,FALSE,FALSE,85.9,82,89.2,387
+Maryland,Intended Pregnancy?,FALSE,FALSE,84.8,79.8,88.7,449
+Nebraska,Intended Pregnancy?,FALSE,FALSE,77.5,73.5,81.1,562
+Michigan,Intended Pregnancy?,FALSE,FALSE,84.7,81.2,87.6,633
+West Virginia,Intended Pregnancy?,FALSE,FALSE,85.8,82.3,88.7,649
+Hawaii,Intended Pregnancy?,FALSE,TRUE,18.4,14.8,22.6,119
+Wisconsin,Intended Pregnancy?,FALSE,TRUE,16.6,12.6,21.5,123
+Pennsylvania,Intended Pregnancy?,FALSE,FALSE,85.8,81.5,89.2,340
+Rhode Island,Intended Pregnancy?,FALSE,FALSE,81.1,76.6,84.9,362
+Oklahoma,Intended Pregnancy?,FALSE,TRUE,13.7,9.9,18.6,111
+New York (excluding NYC),Intended Pregnancy?,FALSE,FALSE,77.5,71.2,82.7,265
+Colorado,Intended Pregnancy?,FALSE,TRUE,17.1,13.6,21.3,117
+Missouri,Intended Pregnancy?,FALSE,FALSE,88.1,84.7,90.8,455
+West Virginia,Intended Pregnancy?,FALSE,TRUE,14.2,11.3,17.7,109
+Georgia,Intended Pregnancy?,FALSE,FALSE,86.4,81.7,90.1,876
+Pennsylvania,Intended Pregnancy?,FALSE,TRUE,14.2,10.8,18.5,56
+New Jersey,Intended Pregnancy?,FALSE,FALSE,79.2,75.2,82.7,429
+Wyoming,Intended Pregnancy?,FALSE,FALSE,78,71.3,83.5,207
+Vermont,Intended Pregnancy?,FALSE,TRUE,14.2,11,18.3,55
+Georgia,Intended Pregnancy?,FALSE,TRUE,13.6,9.9,18.3,100
+New Mexico,Intended Pregnancy?,FALSE,FALSE,82.4,79.3,85.2,524
+Colorado,Intended Pregnancy?,FALSE,FALSE,82.9,78.7,86.4,530
+Washington,Intended Pregnancy?,FALSE,TRUE,19.4,15.3,24.4,90
+Washington,Intended Pregnancy?,FALSE,FALSE,80.6,75.6,84.7,386
+Vermont,Intended Pregnancy?,FALSE,FALSE,85.8,81.7,89,312
+Minnesota,Intended Pregnancy?,FALSE,TRUE,17.5,13.8,21.9,73
+Wisconsin,Intended Pregnancy?,FALSE,FALSE,83.4,78.5,87.4,654
+New York City,Intended Pregnancy?,FALSE,FALSE,80.5,75.6,84.6,379
+Missouri,Intended Pregnancy?,FALSE,TRUE,11.9,9.2,15.3,72
 PRAMS Total,Smoked 3 months before Pregnancy,FALSE,FALSE,63.2,62.3,64.1,16911
 PRAMS Total,Smoked 3 months before Pregnancy,FALSE,TRUE,36.8,35.9,37.7,9717
 Maryland,Smoked 3 months before Pregnancy,FALSE,TRUE,34.5,30.5,38.7,510
