@@ -1,11 +1,11 @@
 library(tidyverse)
 
 # Load the data
-data <- read_csv("~/Downloads/CDC_PRAMStat_Data_for_2008.csv")
+data <- read_csv("~/Downloads/CDC_PRAMStat_Data_for_2011.csv")
 
-# Clean and reshape in one pipeline
+# ----- GENERAL CLEANING ----
+# Rename columns to consistent camelCase
 cleanedData <- data %>%
-  # 1) Rename columns to consistent camelCase
   rename(
     year                = Year,
     stateAbbr           = LocationAbbr,
@@ -28,24 +28,24 @@ cleanedData <- data %>%
     responseID          = ResponseId
   ) %>%
   
-  # 2) Drop totally unnecessary columns
+# Drop totally unnecessary columns
   select(
     -DataSource, -Data_Value_Unit, -Data_Value_Type,
     -Data_Value_Footnote_Symbol, -ClassId, -TopicId,
     -BreakOutId, -BreakOutCategoryid
   ) %>%
   
-  # 3) Turn empty strings into real NAs, and factors to characters
+# Turn empty strings into real NAs, and factors to characters
   mutate(
     across(where(is.factor), as.character),
     across(where(is.character), ~ na_if(str_trim(.x), ""))
   ) %>%
   
-  # 4) Drop any rows where cleanedData$value = NA or cleanedData$response = NA
+# Drop any rows where cleanedData$value = NA or cleanedData$response = NA
   filter(!is.na(value)) %>%
   filter(!is.na(response)) %>%
   
-  # 5) Normalize YES/NO text into TRUE/FALSE strings
+# Normalize YES/NO text into TRUE/FALSE strings
   mutate(
     across(
       where(is.character),
@@ -56,8 +56,8 @@ cleanedData <- data %>%
       )
     )
   ) %>%
-  
-  # 6) Convert any column that now only has "TRUE"/"FALSE" into logical
+
+  # Convert any column that now only has "TRUE"/"FALSE" into logical
   mutate(
     across(
       everything(),
@@ -71,18 +71,20 @@ cleanedData <- data %>%
     )
   )
 
+# --- PROJECT SPECIFIC CLEANING -----
+
 # Filter to our specific questions and pick only the columns we need
 filteredData <- cleanedData %>%
-  filter(questionID %in% c("QUO91", "QUO7", "QUO65")) %>%
+  filter(questionID %in% c("QUO91", "QUO65")) %>%
   select(
-    geolocation, question, location, response, value, lowConfidenceLimit, highConfidenceLimit,
-    sampleSize, breakOut, breakOutCategory, questionID, locationID
-  ) %>%
-  arrange(questionID, geolocation, breakOutCategory)
+    question, location, response, value, lowConfidenceLimit, highConfidenceLimit,
+    sampleSize, breakOut, breakOutCategory) %>%
+  arrange(question, breakOutCategory, breakOut)
 
-# Rename questions for ease and to account for typos and fix capitilzation in breakOut values and 
+# Rename questions for data legibility and to account for typos  
 filteredData <- filteredData %>%
   mutate(
+    # remap your question text
     question = case_when(
       question %in% c(
         "Before you got pregnant  did a doctor  nurse  or other health care worker talk to you about how to prepare for a healthy pregnancy and baby?",
@@ -92,33 +94,50 @@ filteredData <- filteredData %>%
         "(*PCH) During the month before you got pregnant with your new baby  did you take a daily multivitamin?",
         "(*PCH) During the month before you got pregnant with your new baby, did you take a daily multivitamin?"
       ) ~ "Multivitamin?",
-      question ==
-        "The baby's weight  classified as low birth weight (LBW) if the weight was less than or equal to 2500 grams or normal birth weight (NBW) if the weight was greater than 2500 grams"
-      ~ "Baby's Weight",
       TRUE ~ question
+    ),
+    
+# Convert binary breakOut values to TRUE/FALSE for future analysis and rename the categories accordingly
+    breakOutCategory = case_when(
+      breakOut == "Birth Weight"            ~ "Normal Birth Weight?",
+      breakOut == "Marital Status"          ~ "Married?",
+      breakOut == "On WIC during Pregnancy" ~ "On WIC?",
+      breakOut == "Medicaid Recipient"      ~ "On Medicaid?",
+      breakOut == "Pregnancy Intendedness"  ~ "Intended Pregnancy?",
+      TRUE                                  ~ breakOutCategory
     ),
     breakOut = case_when(
       breakOut == "ADEQUATE PNC"     ~ "Adequate PNC",
       breakOut == "INADEQUATE PNC"   ~ "Inadequate PNC",
       breakOut == "INTERMEDIATE PNC" ~ "Intermediate PNC",
-      breakOut == "MARRIED"          ~ "Married",
-      breakOut == "OTHER"            ~ "Other",
-      breakOut == "UNKNOWN PNC"      ~ "Unknown PNC",
+      breakOut == "MARRIED"          ~ "TRUE",
+      breakOut == "OTHER"            ~ "FALSE",
+      breakOut == "UNKNOWN PNC"      ~ NA,
+      breakOut == "LBW (<=2500g)"    ~ "FALSE",
+      breakOut == "NBW (>2500g)"     ~ "TRUE",
+      breakOut == "WIC"              ~ "TRUE",
+      breakOut == "Non-WIC"          ~ "FALSE",
+      breakOut == "Smoker"           ~ "TRUE",
+      breakOut == "Non-Smoker"       ~ "FALSE",
+      breakOut == "Medicaid"         ~ "TRUE",
+      breakOut == "Non-Medicaid"     ~ "FALSE",
+      breakOut == "Hispanic"         ~ "TRUE",
+      breakOut == "Non-Hispanic"     ~ "FALSE",
+      breakOut == "Intended"         ~ "TRUE",
+      breakOut == "Unintended"       ~ "FALSE",
       TRUE                           ~ breakOut
     )
   )
 
-# Split into three smaller data frames
+# ----- SPLIT DATA INTO TWO DIFF CSVs -----
+
+# Split into two smaller data frames
 multivitaminResponses <- filteredData %>%
   filter(question == "Multivitamin?")
 
 healthCareInteractionResponses <- filteredData %>%
   filter(question == "Spoke to health care?")
 
-birthWeightResponses <- filteredData %>%
-  filter(question == "Baby's Weight")
-
 # Export each to its own CSV on your desktop
 write_csv(multivitaminResponses,            "~/Desktop/multivitaminResponses.csv")
 write_csv(healthCareInteractionResponses,   "~/Desktop/healthCareInteractionResponses.csv")
-write_csv(birthWeightResponses,            "~/Desktop/birthWeightResponses.csv")
