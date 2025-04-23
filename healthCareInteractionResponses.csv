@@ -1,795 +1,795 @@
-location,response,value,lowConfidenceLimit,highConfidenceLimit,sampleSize,breakOut,breakOutCategory
-PRAMS Total,FALSE,64.1,62.6,65.5,5178,Adequate PNC,Adequacy of Prenatal care
-PRAMS Total,TRUE,35.9,34.5,37.4,2949,Adequate PNC,Adequacy of Prenatal care
-Utah,FALSE,67.4,64.1,70.4,727,Adequate PNC,Adequacy of Prenatal care
-Hawaii,FALSE,58.9,55.1,62.6,669,Adequate PNC,Adequacy of Prenatal care
-Maryland,FALSE,66.7,61.7,71.3,546,Adequate PNC,Adequacy of Prenatal care
-Michigan,FALSE,64.7,61.6,67.7,759,Adequate PNC,Adequacy of Prenatal care
-Maine,TRUE,35.1,31.6,38.9,324,Adequate PNC,Adequacy of Prenatal care
-Minnesota,TRUE,41.5,38.3,44.9,412,Adequate PNC,Adequacy of Prenatal care
-Maine,FALSE,64.9,61.1,68.4,547,Adequate PNC,Adequacy of Prenatal care
-Utah,TRUE,32.6,29.6,35.9,354,Adequate PNC,Adequacy of Prenatal care
-Hawaii,TRUE,41.1,37.4,44.9,441,Adequate PNC,Adequacy of Prenatal care
-Maryland,TRUE,33.3,28.7,38.3,321,Adequate PNC,Adequacy of Prenatal care
-New Jersey,FALSE,63.9,60.4,67.2,595,Adequate PNC,Adequacy of Prenatal care
-West Virginia,FALSE,67.8,64.4,71.1,757,Adequate PNC,Adequacy of Prenatal care
-West Virginia,TRUE,32.2,28.9,35.6,342,Adequate PNC,Adequacy of Prenatal care
-New Jersey,TRUE,36.1,32.8,39.6,320,Adequate PNC,Adequacy of Prenatal care
-Minnesota,FALSE,58.5,55.1,61.7,578,Adequate PNC,Adequacy of Prenatal care
-Michigan,TRUE,35.3,32.3,38.4,435,Adequate PNC,Adequacy of Prenatal care
-PRAMS Total,FALSE,73.9,68.2,78.9,389,Inadequate PNC,Adequacy of Prenatal care
-PRAMS Total,TRUE,26.1,21.1,31.8,171,Inadequate PNC,Adequacy of Prenatal care
-New Jersey,TRUE,29,19.5,40.9,25,Inadequate PNC,Adequacy of Prenatal care
-West Virginia,FALSE,70.6,57.5,81,75,Inadequate PNC,Adequacy of Prenatal care
-Minnesota,TRUE,37.5,21.1,57.2,16,Inadequate PNC,Adequacy of Prenatal care
-West Virginia,TRUE,29.4,19,42.5,38,Inadequate PNC,Adequacy of Prenatal care
-Maryland,FALSE,80.8,68.1,89.3,87,Inadequate PNC,Adequacy of Prenatal care
-Utah,TRUE,38.3,23.6,55.5,15,Inadequate PNC,Adequacy of Prenatal care
-Hawaii,FALSE,54.3,39,68.9,47,Inadequate PNC,Adequacy of Prenatal care
-Utah,FALSE,61.7,44.5,76.4,28,Inadequate PNC,Adequacy of Prenatal care
-Minnesota,FALSE,62.5,42.8,78.9,34,Inadequate PNC,Adequacy of Prenatal care
-New Jersey,FALSE,71,59.1,80.5,63,Inadequate PNC,Adequacy of Prenatal care
-Maryland,TRUE,19.2,10.7,31.9,35,Inadequate PNC,Adequacy of Prenatal care
-Michigan,FALSE,81.9,68.7,90.4,42,Inadequate PNC,Adequacy of Prenatal care
-Hawaii,TRUE,45.7,31.1,61,24,Inadequate PNC,Adequacy of Prenatal care
-Michigan,TRUE,18.1,9.6,31.3,14,Inadequate PNC,Adequacy of Prenatal care
-PRAMS Total,FALSE,73.1,70.3,75.6,1523,Intermediate PNC,Adequacy of Prenatal care
-PRAMS Total,TRUE,26.9,24.4,29.7,618,Intermediate PNC,Adequacy of Prenatal care
-West Virginia,TRUE,24.5,19,31.1,85,Intermediate PNC,Adequacy of Prenatal care
-Maine,FALSE,70.7,61,78.9,93,Intermediate PNC,Adequacy of Prenatal care
-Hawaii,FALSE,61.9,54.3,68.9,192,Intermediate PNC,Adequacy of Prenatal care
-Michigan,FALSE,75,67.9,81.1,179,Intermediate PNC,Adequacy of Prenatal care
-Hawaii,TRUE,38.1,31.1,45.7,94,Intermediate PNC,Adequacy of Prenatal care
-Minnesota,FALSE,67.9,60.7,74.4,149,Intermediate PNC,Adequacy of Prenatal care
-Michigan,TRUE,25,18.9,32.1,74,Intermediate PNC,Adequacy of Prenatal care
-Maryland,FALSE,72.8,64.4,79.9,195,Intermediate PNC,Adequacy of Prenatal care
-Utah,TRUE,20,14.8,26.4,50,Intermediate PNC,Adequacy of Prenatal care
-West Virginia,FALSE,75.5,68.9,81,264,Intermediate PNC,Adequacy of Prenatal care
-Maryland,TRUE,27.2,20.1,35.6,86,Intermediate PNC,Adequacy of Prenatal care
-Minnesota,TRUE,32.1,25.6,39.3,86,Intermediate PNC,Adequacy of Prenatal care
-Maine,TRUE,29.3,21.1,39,42,Intermediate PNC,Adequacy of Prenatal care
-New Jersey,TRUE,26.6,22,31.8,101,Intermediate PNC,Adequacy of Prenatal care
-New Jersey,FALSE,73.4,68.2,78,269,Intermediate PNC,Adequacy of Prenatal care
-Utah,FALSE,80,73.6,85.2,182,Intermediate PNC,Adequacy of Prenatal care
-PRAMS Total,FALSE,68.1,62.7,73.1,378,NA,Adequacy of Prenatal care
-PRAMS Total,TRUE,31.9,26.9,37.3,209,NA,Adequacy of Prenatal care
-Michigan,TRUE,32.5,24.2,42.1,52,NA,Adequacy of Prenatal care
-Utah,FALSE,63.4,49.5,75.3,52,NA,Adequacy of Prenatal care
-Minnesota,FALSE,62.3,50.1,73.1,48,NA,Adequacy of Prenatal care
-Maryland,FALSE,72.3,60.7,81.5,111,NA,Adequacy of Prenatal care
-Hawaii,TRUE,41.3,28,56,28,NA,Adequacy of Prenatal care
-Hawaii,FALSE,58.7,44,72,52,NA,Adequacy of Prenatal care
-Michigan,FALSE,67.5,57.9,75.8,88,NA,Adequacy of Prenatal care
-Minnesota,TRUE,37.7,26.9,49.9,35,NA,Adequacy of Prenatal care
-Maryland,TRUE,27.7,18.5,39.3,70,NA,Adequacy of Prenatal care
-Utah,TRUE,36.6,24.7,50.5,22,NA,Adequacy of Prenatal care
-PRAMS Total,FALSE,60.9,57.5,64.2,1886,FALSE,Birth Weight
-PRAMS Total,TRUE,39.1,35.8,42.5,1010,FALSE,Birth Weight
-Utah,FALSE,68.5,63.9,72.8,246,FALSE,Birth Weight
-Hawaii,FALSE,63.1,57.5,68.3,171,FALSE,Birth Weight
-Michigan,FALSE,65.3,59.2,70.9,177,FALSE,Birth Weight
-Hawaii,TRUE,36.9,31.7,42.5,107,FALSE,Birth Weight
-Minnesota,FALSE,41.9,30.7,54,45,FALSE,Birth Weight
-New Jersey,FALSE,56.5,46.2,66.2,68,FALSE,Birth Weight
-Maine,FALSE,63,59.4,66.5,224,FALSE,Birth Weight
-Maine,TRUE,37,33.5,40.6,141,FALSE,Birth Weight
-West Virginia,FALSE,71.7,69.4,73.9,550,FALSE,Birth Weight
-Maryland,FALSE,66,61.9,69.8,405,FALSE,Birth Weight
-Michigan,TRUE,34.7,29.1,40.8,95,FALSE,Birth Weight
-Utah,TRUE,31.5,27.2,36.1,118,FALSE,Birth Weight
-Minnesota,TRUE,58.1,46,69.3,44,FALSE,Birth Weight
-West Virginia,TRUE,28.3,26.1,30.6,220,FALSE,Birth Weight
-Maryland,TRUE,34,30.2,38.1,238,FALSE,Birth Weight
-New Jersey,TRUE,43.5,33.8,53.8,47,FALSE,Birth Weight
-PRAMS Total,FALSE,66.9,65.6,68.1,5576,TRUE,Birth Weight
-PRAMS Total,TRUE,33.1,31.9,34.4,2937,TRUE,Birth Weight
-Hawaii,FALSE,59,55.5,62.4,789,TRUE,Birth Weight
-Michigan,FALSE,67.2,64.4,69.9,890,TRUE,Birth Weight
-New Jersey,TRUE,32.2,29.4,35,399,TRUE,Birth Weight
-Maryland,FALSE,70.1,66,73.9,531,TRUE,Birth Weight
-West Virginia,TRUE,30.6,27.6,33.8,247,TRUE,Birth Weight
-Maine,TRUE,34,30.5,37.6,229,TRUE,Birth Weight
-West Virginia,FALSE,69.4,66.2,72.4,559,TRUE,Birth Weight
-Utah,TRUE,31,28.2,33.9,323,TRUE,Birth Weight
-Minnesota,FALSE,61.6,58.7,64.5,764,TRUE,Birth Weight
-Maryland,TRUE,29.9,26.1,34,274,TRUE,Birth Weight
-Hawaii,TRUE,41,37.6,44.5,480,TRUE,Birth Weight
-New Jersey,FALSE,67.8,65,70.6,869,TRUE,Birth Weight
-Michigan,TRUE,32.8,30.1,35.6,480,TRUE,Birth Weight
-Minnesota,TRUE,38.4,35.5,41.3,505,TRUE,Birth Weight
-Maine,FALSE,66,62.4,69.5,431,TRUE,Birth Weight
-Utah,FALSE,69,66.1,71.8,743,TRUE,Birth Weight
-PRAMS Total,FALSE,78.4,76,80.6,1704,"$10,000 to $24,999",Income (years 2004 and beyond)
-PRAMS Total,TRUE,21.6,19.4,24,580,"$10,000 to $24,999",Income (years 2004 and beyond)
-Maine,TRUE,26.5,20.1,33.9,61,"$10,000 to $24,999",Income (years 2004 and beyond)
-Minnesota,TRUE,27.3,20.8,34.8,68,"$10,000 to $24,999",Income (years 2004 and beyond)
-Minnesota,FALSE,72.7,65.2,79.2,148,"$10,000 to $24,999",Income (years 2004 and beyond)
-Michigan,FALSE,80.2,75,84.6,259,"$10,000 to $24,999",Income (years 2004 and beyond)
-Hawaii,FALSE,60.1,52.7,67,200,"$10,000 to $24,999",Income (years 2004 and beyond)
-Michigan,TRUE,19.8,15.4,25,82,"$10,000 to $24,999",Income (years 2004 and beyond)
-Utah,FALSE,77,71.3,81.9,248,"$10,000 to $24,999",Income (years 2004 and beyond)
-Utah,TRUE,23,18.1,28.7,72,"$10,000 to $24,999",Income (years 2004 and beyond)
-West Virginia,FALSE,76.3,70.9,81.1,310,"$10,000 to $24,999",Income (years 2004 and beyond)
-Maryland,FALSE,90.4,83.5,94.6,200,"$10,000 to $24,999",Income (years 2004 and beyond)
-New Jersey,TRUE,23.8,18.2,30.6,53,"$10,000 to $24,999",Income (years 2004 and beyond)
-Maryland,TRUE,9.6,5.4,16.5,38,"$10,000 to $24,999",Income (years 2004 and beyond)
-Hawaii,TRUE,39.9,33,47.3,112,"$10,000 to $24,999",Income (years 2004 and beyond)
-New Jersey,FALSE,76.2,69.4,81.8,169,"$10,000 to $24,999",Income (years 2004 and beyond)
-Maine,FALSE,73.5,66.1,79.9,170,"$10,000 to $24,999",Income (years 2004 and beyond)
-West Virginia,TRUE,23.7,18.9,29.1,94,"$10,000 to $24,999",Income (years 2004 and beyond)
-PRAMS Total,FALSE,71.6,69,74.1,1511,"$25,000 to $49,999",Income (years 2004 and beyond)
-PRAMS Total,TRUE,28.4,25.9,31,681,"$25,000 to $49,999",Income (years 2004 and beyond)
-New Jersey,TRUE,22.6,16.6,30,44,"$25,000 to $49,999",Income (years 2004 and beyond)
-Maine,FALSE,63.6,55.7,70.7,126,"$25,000 to $49,999",Income (years 2004 and beyond)
-Hawaii,TRUE,40.7,34.4,47.3,140,"$25,000 to $49,999",Income (years 2004 and beyond)
-West Virginia,TRUE,37.1,30.2,44.5,85,"$25,000 to $49,999",Income (years 2004 and beyond)
-Utah,FALSE,70.3,65,75.1,270,"$25,000 to $49,999",Income (years 2004 and beyond)
-Minnesota,FALSE,71.3,65.5,76.5,209,"$25,000 to $49,999",Income (years 2004 and beyond)
-Michigan,FALSE,71,64.7,76.6,208,"$25,000 to $49,999",Income (years 2004 and beyond)
-Michigan,TRUE,29,23.4,35.3,82,"$25,000 to $49,999",Income (years 2004 and beyond)
-Maryland,TRUE,21.5,14.1,31.3,50,"$25,000 to $49,999",Income (years 2004 and beyond)
-Hawaii,FALSE,59.3,52.7,65.6,217,"$25,000 to $49,999",Income (years 2004 and beyond)
-West Virginia,FALSE,62.9,55.5,69.8,176,"$25,000 to $49,999",Income (years 2004 and beyond)
-Maine,TRUE,36.4,29.3,44.3,70,"$25,000 to $49,999",Income (years 2004 and beyond)
-Utah,TRUE,29.7,24.9,35,117,"$25,000 to $49,999",Income (years 2004 and beyond)
-New Jersey,FALSE,77.4,70,83.4,143,"$25,000 to $49,999",Income (years 2004 and beyond)
-Maryland,FALSE,78.5,68.7,85.9,162,"$25,000 to $49,999",Income (years 2004 and beyond)
-Minnesota,TRUE,28.7,23.5,34.5,93,"$25,000 to $49,999",Income (years 2004 and beyond)
-PRAMS Total,FALSE,54.7,52.7,56.7,2183,"$50,000 or more",Income (years 2004 and beyond)
-PRAMS Total,TRUE,45.3,43.3,47.3,1848,"$50,000 or more",Income (years 2004 and beyond)
-New Jersey,FALSE,54.9,50.4,59.2,334,"$50,000 or more",Income (years 2004 and beyond)
-New Jersey,TRUE,45.1,40.8,49.6,259,"$50,000 or more",Income (years 2004 and beyond)
-Maine,TRUE,47.1,41.4,53,181,"$50,000 or more",Income (years 2004 and beyond)
-West Virginia,TRUE,39.4,33.4,45.8,144,"$50,000 or more",Income (years 2004 and beyond)
-Maryland,FALSE,56.9,51.2,62.3,390,"$50,000 or more",Income (years 2004 and beyond)
-Maine,FALSE,52.9,47,58.6,170,"$50,000 or more",Income (years 2004 and beyond)
-Maryland,TRUE,43.1,37.7,48.8,346,"$50,000 or more",Income (years 2004 and beyond)
-Michigan,FALSE,51.6,46.8,56.4,240,"$50,000 or more",Income (years 2004 and beyond)
-Minnesota,TRUE,48.5,44.4,52.7,284,"$50,000 or more",Income (years 2004 and beyond)
-Hawaii,FALSE,57.5,51.9,63,287,"$50,000 or more",Income (years 2004 and beyond)
-Utah,TRUE,39.2,34.3,44.4,178,"$50,000 or more",Income (years 2004 and beyond)
-Utah,FALSE,60.8,55.6,65.7,268,"$50,000 or more",Income (years 2004 and beyond)
-Michigan,TRUE,48.4,43.6,53.2,246,"$50,000 or more",Income (years 2004 and beyond)
-West Virginia,FALSE,60.6,54.2,66.6,197,"$50,000 or more",Income (years 2004 and beyond)
-Minnesota,FALSE,51.5,47.3,55.6,297,"$50,000 or more",Income (years 2004 and beyond)
-Hawaii,TRUE,42.5,37,48.1,210,"$50,000 or more",Income (years 2004 and beyond)
-PRAMS Total,FALSE,72.8,69.9,75.6,1555,"Less than $10,000",Income (years 2004 and beyond)
-PRAMS Total,TRUE,27.2,24.4,30.1,579,"Less than $10,000",Income (years 2004 and beyond)
-Utah,TRUE,28.1,21.3,36.1,53,"Less than $10,000",Income (years 2004 and beyond)
-Maine,FALSE,78.4,69.9,85,134,"Less than $10,000",Income (years 2004 and beyond)
-Hawaii,FALSE,61.5,53.8,68.6,209,"Less than $10,000",Income (years 2004 and beyond)
-Hawaii,TRUE,38.5,31.4,46.2,93,"Less than $10,000",Income (years 2004 and beyond)
-New Jersey,FALSE,78.5,71.8,83.9,167,"Less than $10,000",Income (years 2004 and beyond)
-West Virginia,TRUE,20.5,15.9,26,95,"Less than $10,000",Income (years 2004 and beyond)
-Michigan,FALSE,73.5,68.1,78.3,301,"Less than $10,000",Income (years 2004 and beyond)
-Michigan,TRUE,26.5,21.7,31.9,127,"Less than $10,000",Income (years 2004 and beyond)
-New Jersey,TRUE,21.5,16.1,28.2,47,"Less than $10,000",Income (years 2004 and beyond)
-Utah,FALSE,71.9,63.9,78.7,143,"Less than $10,000",Income (years 2004 and beyond)
-Minnesota,TRUE,36,27.8,45.2,71,"Less than $10,000",Income (years 2004 and beyond)
-Maine,TRUE,21.6,15,30.1,42,"Less than $10,000",Income (years 2004 and beyond)
-Minnesota,FALSE,64,54.8,72.2,132,"Less than $10,000",Income (years 2004 and beyond)
-West Virginia,FALSE,79.5,74,84.1,338,"Less than $10,000",Income (years 2004 and beyond)
-Maryland,FALSE,70.2,59.1,79.3,131,"Less than $10,000",Income (years 2004 and beyond)
-Maryland,TRUE,29.8,20.7,40.9,51,"Less than $10,000",Income (years 2004 and beyond)
-PRAMS Total,FALSE,60.9,59.4,62.5,4194,TRUE,Marital Status
-PRAMS Total,TRUE,39.1,37.5,40.6,2824,TRUE,Marital Status
-Maine,FALSE,55.8,51.3,60.2,327,TRUE,Marital Status
-New Jersey,TRUE,38,34.5,41.6,316,TRUE,Marital Status
-Minnesota,TRUE,42.6,39.2,46,394,TRUE,Marital Status
-Utah,FALSE,66.7,63.6,69.7,753,TRUE,Marital Status
-Minnesota,FALSE,57.4,54,60.8,500,TRUE,Marital Status
-Michigan,TRUE,40.1,36.6,43.8,367,TRUE,Marital Status
-Michigan,FALSE,59.9,56.2,63.4,498,TRUE,Marital Status
-Hawaii,FALSE,54.6,50.5,58.7,515,TRUE,Marital Status
-Maryland,TRUE,38.8,34.1,43.7,416,TRUE,Marital Status
-West Virginia,FALSE,63.8,59.7,67.8,523,TRUE,Marital Status
-Maryland,FALSE,61.2,56.3,65.9,545,TRUE,Marital Status
-West Virginia,TRUE,36.2,32.2,40.3,284,TRUE,Marital Status
-New Jersey,FALSE,62,58.4,65.5,533,TRUE,Marital Status
-Maine,TRUE,44.2,39.8,48.7,280,TRUE,Marital Status
-Utah,TRUE,33.3,30.3,36.4,380,TRUE,Marital Status
-Hawaii,TRUE,45.4,41.3,49.5,387,TRUE,Marital Status
-PRAMS Total,FALSE,76,74.1,77.8,3265,FALSE,Marital Status
-PRAMS Total,TRUE,24,22.2,25.9,1122,FALSE,Marital Status
-New Jersey,TRUE,25,21.1,29.4,130,FALSE,Marital Status
-Maryland,TRUE,17.8,13.2,23.6,96,FALSE,Marital Status
-Hawaii,FALSE,66.9,61.8,71.7,445,FALSE,Marital Status
-West Virginia,TRUE,23.5,19.8,27.5,183,FALSE,Marital Status
-Hawaii,TRUE,33.1,28.3,38.2,200,FALSE,Marital Status
-Minnesota,FALSE,67.8,62.2,72.9,309,FALSE,Marital Status
-West Virginia,FALSE,76.5,72.5,80.2,588,FALSE,Marital Status
-New Jersey,FALSE,75,70.6,78.9,404,FALSE,Marital Status
-Maine,TRUE,19.4,15.3,24.4,90,FALSE,Marital Status
-Michigan,TRUE,23,19.6,26.6,208,FALSE,Marital Status
-Maine,FALSE,80.6,75.6,84.7,328,FALSE,Marital Status
-Michigan,FALSE,77,73.4,80.4,569,FALSE,Marital Status
-Maryland,FALSE,82.2,76.4,86.8,394,FALSE,Marital Status
-Utah,TRUE,22.2,17.1,28.4,60,FALSE,Marital Status
-Utah,FALSE,77.8,71.6,82.9,228,FALSE,Marital Status
-Minnesota,TRUE,32.2,27.1,37.8,155,FALSE,Marital Status
-PRAMS Total,FALSE,69.8,68.1,71.4,3853,20-29 yrs,Maternal Age (3 Levels)
-PRAMS Total,TRUE,30.2,28.6,31.9,1803,20-29 yrs,Maternal Age (3 Levels)
-Michigan,FALSE,70.9,67.3,74.2,609,20-29 yrs,Maternal Age (3 Levels)
-Maryland,TRUE,25.5,20.2,31.6,110,20-29 yrs,Maternal Age (3 Levels)
-Maryland,FALSE,74.5,68.4,79.8,289,20-29 yrs,Maternal Age (3 Levels)
-West Virginia,FALSE,68,64.3,71.5,674,20-29 yrs,Maternal Age (3 Levels)
-Maine,TRUE,31,26.7,35.7,182,20-29 yrs,Maternal Age (3 Levels)
-Utah,FALSE,70,66.4,73.4,567,20-29 yrs,Maternal Age (3 Levels)
-Minnesota,FALSE,63.2,59.1,67,451,20-29 yrs,Maternal Age (3 Levels)
-West Virginia,TRUE,32,28.5,35.7,296,20-29 yrs,Maternal Age (3 Levels)
-Maine,FALSE,69,64.3,73.3,374,20-29 yrs,Maternal Age (3 Levels)
-Minnesota,TRUE,36.8,33,40.9,270,20-29 yrs,Maternal Age (3 Levels)
-New Jersey,FALSE,72.3,68.1,76.2,409,20-29 yrs,Maternal Age (3 Levels)
-Hawaii,FALSE,61.9,57.2,66.3,480,20-29 yrs,Maternal Age (3 Levels)
-Michigan,TRUE,29.1,25.8,32.7,277,20-29 yrs,Maternal Age (3 Levels)
-Hawaii,TRUE,38.1,33.7,42.8,256,20-29 yrs,Maternal Age (3 Levels)
-New Jersey,TRUE,27.7,23.8,31.9,162,20-29 yrs,Maternal Age (3 Levels)
-Utah,TRUE,30,26.6,33.6,250,20-29 yrs,Maternal Age (3 Levels)
-PRAMS Total,FALSE,61.1,59.3,62.9,2994,30+ yrs,Maternal Age (3 Levels)
-PRAMS Total,TRUE,38.9,37.1,40.7,1926,30+ yrs,Maternal Age (3 Levels)
-Maine,TRUE,42.5,37.1,48.1,179,30+ yrs,Maternal Age (3 Levels)
-New Jersey,TRUE,38.1,34.3,42.1,262,30+ yrs,Maternal Age (3 Levels)
-Minnesota,TRUE,42.4,38.1,46.7,250,30+ yrs,Maternal Age (3 Levels)
-Utah,TRUE,34.3,29.8,39.2,171,30+ yrs,Maternal Age (3 Levels)
-West Virginia,FALSE,68,61.8,73.6,272,30+ yrs,Maternal Age (3 Levels)
-Maryland,FALSE,65,60.2,69.5,611,30+ yrs,Maternal Age (3 Levels)
-Utah,FALSE,65.7,60.8,70.2,351,30+ yrs,Maternal Age (3 Levels)
-Maryland,TRUE,35,30.5,39.8,387,30+ yrs,Maternal Age (3 Levels)
-Michigan,TRUE,41.9,37.5,46.4,251,30+ yrs,Maternal Age (3 Levels)
-Michigan,FALSE,58.1,53.6,62.5,346,30+ yrs,Maternal Age (3 Levels)
-New Jersey,FALSE,61.9,57.9,65.7,463,30+ yrs,Maternal Age (3 Levels)
-Hawaii,TRUE,43.7,39,48.5,298,30+ yrs,Maternal Age (3 Levels)
-West Virginia,TRUE,32,26.4,38.2,128,30+ yrs,Maternal Age (3 Levels)
-Maine,FALSE,57.5,51.9,62.9,224,30+ yrs,Maternal Age (3 Levels)
-Hawaii,FALSE,56.3,51.5,61,410,30+ yrs,Maternal Age (3 Levels)
-Minnesota,FALSE,57.6,53.3,61.9,317,30+ yrs,Maternal Age (3 Levels)
-PRAMS Total,FALSE,73.4,68.6,77.6,620,<20 yrs,Maternal Age (3 Levels)
-PRAMS Total,TRUE,26.6,22.4,31.4,218,<20 yrs,Maternal Age (3 Levels)
-West Virginia,TRUE,19.9,14,27.4,43,<20 yrs,Maternal Age (3 Levels)
-Michigan,TRUE,23.5,16.8,31.7,47,<20 yrs,Maternal Age (3 Levels)
-Minnesota,FALSE,56.5,41.2,70.6,41,<20 yrs,Maternal Age (3 Levels)
-Minnesota,TRUE,43.5,29.4,58.8,29,<20 yrs,Maternal Age (3 Levels)
-Utah,TRUE,19.6,12.2,30.1,20,<20 yrs,Maternal Age (3 Levels)
-Hawaii,FALSE,60.2,46.8,72.2,70,<20 yrs,Maternal Age (3 Levels)
-New Jersey,TRUE,26.6,17.7,37.9,22,<20 yrs,Maternal Age (3 Levels)
-Maryland,FALSE,69.7,51.4,83.3,39,<20 yrs,Maternal Age (3 Levels)
-Utah,FALSE,80.4,69.9,87.8,70,<20 yrs,Maternal Age (3 Levels)
-Michigan,FALSE,76.5,68.3,83.2,113,<20 yrs,Maternal Age (3 Levels)
-New Jersey,FALSE,73.4,62.1,82.3,65,<20 yrs,Maternal Age (3 Levels)
-Hawaii,TRUE,39.8,27.8,53.2,33,<20 yrs,Maternal Age (3 Levels)
-Maryland,TRUE,30.3,16.7,48.6,15,<20 yrs,Maternal Age (3 Levels)
-Maine,FALSE,86.4,72.7,93.8,57,<20 yrs,Maternal Age (3 Levels)
-West Virginia,FALSE,80.1,72.6,86,165,<20 yrs,Maternal Age (3 Levels)
-Maine,TRUE,13.6,6.2,27.3,9,<20 yrs,Maternal Age (3 Levels)
-PRAMS Total,FALSE,74.4,71.9,76.7,1801,20-24 yrs,Maternal Age (4 Levels)
-PRAMS Total,TRUE,25.6,23.3,28.1,716,20-24 yrs,Maternal Age (4 Levels)
-Maine,TRUE,28.3,21.9,35.7,68,20-24 yrs,Maternal Age (4 Levels)
-West Virginia,FALSE,68.7,63.6,73.3,370,20-24 yrs,Maternal Age (4 Levels)
-West Virginia,TRUE,31.3,26.7,36.4,161,20-24 yrs,Maternal Age (4 Levels)
-Maryland,TRUE,21.7,14,32.1,37,20-24 yrs,Maternal Age (4 Levels)
-Maine,FALSE,71.7,64.3,78.1,167,20-24 yrs,Maternal Age (4 Levels)
-Utah,FALSE,75.4,69.8,80.3,250,20-24 yrs,Maternal Age (4 Levels)
-Minnesota,TRUE,35.7,29,43,91,20-24 yrs,Maternal Age (4 Levels)
-Hawaii,TRUE,32.2,26.1,38.9,106,20-24 yrs,Maternal Age (4 Levels)
-Minnesota,FALSE,64.3,57,71,163,20-24 yrs,Maternal Age (4 Levels)
-Hawaii,FALSE,67.8,61.1,73.9,238,20-24 yrs,Maternal Age (4 Levels)
-New Jersey,FALSE,78.5,72.2,83.7,181,20-24 yrs,Maternal Age (4 Levels)
-Michigan,TRUE,23.3,18.9,28.3,116,20-24 yrs,Maternal Age (4 Levels)
-Michigan,FALSE,76.7,71.7,81.1,314,20-24 yrs,Maternal Age (4 Levels)
-Utah,TRUE,24.6,19.7,30.2,81,20-24 yrs,Maternal Age (4 Levels)
-Maryland,FALSE,78.3,67.9,86,118,20-24 yrs,Maternal Age (4 Levels)
-New Jersey,TRUE,21.5,16.3,27.8,56,20-24 yrs,Maternal Age (4 Levels)
-PRAMS Total,FALSE,63.8,62.1,65.4,3758,25-34 yrs,Maternal Age (4 Levels)
-PRAMS Total,TRUE,36.2,34.6,37.9,2193,25-34 yrs,Maternal Age (4 Levels)
-Maryland,FALSE,69.6,64.2,74.4,337,25-34 yrs,Maternal Age (4 Levels)
-Utah,FALSE,66.6,63,70.1,570,25-34 yrs,Maternal Age (4 Levels)
-West Virginia,FALSE,64.9,60.3,69.2,483,25-34 yrs,Maternal Age (4 Levels)
-Minnesota,TRUE,39.4,35.9,42.9,352,25-34 yrs,Maternal Age (4 Levels)
-New Jersey,TRUE,34.9,31.3,38.7,259,25-34 yrs,Maternal Age (4 Levels)
-New Jersey,FALSE,65.1,61.3,68.7,524,25-34 yrs,Maternal Age (4 Levels)
-Minnesota,FALSE,60.6,57.1,64.1,508,25-34 yrs,Maternal Age (4 Levels)
-Michigan,TRUE,39.3,35.7,43.1,337,25-34 yrs,Maternal Age (4 Levels)
-Hawaii,TRUE,44.5,40.2,48.9,334,25-34 yrs,Maternal Age (4 Levels)
-Maryland,TRUE,30.4,25.6,35.8,168,25-34 yrs,Maternal Age (4 Levels)
-Hawaii,FALSE,55.5,51.1,59.8,480,25-34 yrs,Maternal Age (4 Levels)
-Maine,TRUE,37,32.6,41.7,224,25-34 yrs,Maternal Age (4 Levels)
-Michigan,FALSE,60.7,56.9,64.3,506,25-34 yrs,Maternal Age (4 Levels)
-Utah,TRUE,33.4,29.9,37,288,25-34 yrs,Maternal Age (4 Levels)
-West Virginia,TRUE,35.1,30.8,39.7,231,25-34 yrs,Maternal Age (4 Levels)
-Maine,FALSE,63,58.3,67.4,350,25-34 yrs,Maternal Age (4 Levels)
-PRAMS Total,FALSE,61.9,58.9,64.7,1288,35+ yrs,Maternal Age (4 Levels)
-PRAMS Total,TRUE,38.1,35.3,41.1,820,35+ yrs,Maternal Age (4 Levels)
-Utah,FALSE,62.3,52.7,71,98,35+ yrs,Maternal Age (4 Levels)
-New Jersey,FALSE,60.2,53.8,66.3,167,35+ yrs,Maternal Age (4 Levels)
-Minnesota,TRUE,44.1,36.4,52.1,77,35+ yrs,Maternal Age (4 Levels)
-West Virginia,TRUE,14.4,8.2,24,32,35+ yrs,Maternal Age (4 Levels)
-New Jersey,TRUE,39.8,33.7,46.2,109,35+ yrs,Maternal Age (4 Levels)
-Michigan,FALSE,66.4,58.9,73.2,135,35+ yrs,Maternal Age (4 Levels)
-Maryland,FALSE,62.6,58.4,66.6,445,35+ yrs,Maternal Age (4 Levels)
-Maine,FALSE,57.6,48.4,66.4,81,35+ yrs,Maternal Age (4 Levels)
-Maine,TRUE,42.4,33.6,51.6,69,35+ yrs,Maternal Age (4 Levels)
-Hawaii,FALSE,59,51.3,66.2,172,35+ yrs,Maternal Age (4 Levels)
-Utah,TRUE,37.7,29,47.3,52,35+ yrs,Maternal Age (4 Levels)
-Maryland,TRUE,37.4,33.4,41.6,292,35+ yrs,Maternal Age (4 Levels)
-West Virginia,FALSE,85.6,76,91.8,93,35+ yrs,Maternal Age (4 Levels)
-Minnesota,FALSE,55.9,47.9,63.6,97,35+ yrs,Maternal Age (4 Levels)
-Hawaii,TRUE,41,33.8,48.7,114,35+ yrs,Maternal Age (4 Levels)
-Michigan,TRUE,33.6,26.8,41.1,75,35+ yrs,Maternal Age (4 Levels)
-PRAMS Total,FALSE,73.4,68.6,77.6,620,<20 yrs,Maternal Age (4 Levels)
-PRAMS Total,TRUE,26.6,22.4,31.4,218,<20 yrs,Maternal Age (4 Levels)
-Maryland,TRUE,30.3,16.7,48.6,15,<20 yrs,Maternal Age (4 Levels)
-Michigan,FALSE,76.5,68.3,83.2,113,<20 yrs,Maternal Age (4 Levels)
-West Virginia,FALSE,80.1,72.6,86,165,<20 yrs,Maternal Age (4 Levels)
-Hawaii,TRUE,39.8,27.8,53.2,33,<20 yrs,Maternal Age (4 Levels)
-Utah,FALSE,80.4,69.9,87.8,70,<20 yrs,Maternal Age (4 Levels)
-Maryland,FALSE,69.7,51.4,83.3,39,<20 yrs,Maternal Age (4 Levels)
-Minnesota,TRUE,43.5,29.4,58.8,29,<20 yrs,Maternal Age (4 Levels)
-Utah,TRUE,19.6,12.2,30.1,20,<20 yrs,Maternal Age (4 Levels)
-New Jersey,TRUE,26.6,17.7,37.9,22,<20 yrs,Maternal Age (4 Levels)
-Hawaii,FALSE,60.2,46.8,72.2,70,<20 yrs,Maternal Age (4 Levels)
-West Virginia,TRUE,19.9,14,27.4,43,<20 yrs,Maternal Age (4 Levels)
-Maine,FALSE,86.4,72.7,93.8,57,<20 yrs,Maternal Age (4 Levels)
-New Jersey,FALSE,73.4,62.1,82.3,65,<20 yrs,Maternal Age (4 Levels)
-Minnesota,FALSE,56.5,41.2,70.6,41,<20 yrs,Maternal Age (4 Levels)
-Maine,TRUE,13.6,6.2,27.3,9,<20 yrs,Maternal Age (4 Levels)
-Michigan,TRUE,23.5,16.8,31.7,47,<20 yrs,Maternal Age (4 Levels)
-PRAMS Total,FALSE,74,71.7,76.1,2233,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-PRAMS Total,TRUE,26,23.9,28.3,881,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Maine,TRUE,26.2,20.5,32.7,76,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-New Jersey,TRUE,22.8,18,28.3,74,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Minnesota,TRUE,35,28.9,41.7,106,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Utah,TRUE,24.1,19.7,29.2,97,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Maryland,FALSE,75.1,65.8,82.5,143,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Minnesota,FALSE,65,58.3,71.1,196,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-West Virginia,TRUE,29.3,25.3,33.8,194,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Maine,FALSE,73.8,67.3,79.5,209,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Utah,FALSE,75.9,70.8,80.3,298,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Hawaii,FALSE,66.2,60,72,280,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-New Jersey,FALSE,77.2,71.7,82,231,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Michigan,TRUE,24.1,20.2,28.5,154,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Maryland,TRUE,24.9,17.5,34.2,50,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Hawaii,TRUE,33.8,28,40,130,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-Michigan,FALSE,75.9,71.5,79.8,390,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-West Virginia,FALSE,70.7,66.2,74.7,486,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
-PRAMS Total,FALSE,65.9,63.8,67.9,2467,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-PRAMS Total,TRUE,34.1,32.1,36.2,1348,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Maryland,FALSE,73.2,66.2,79.3,212,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Minnesota,TRUE,36.9,32.7,41.2,217,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Utah,TRUE,34,29.8,38.4,200,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-New Jersey,FALSE,66.4,61.4,71.1,292,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-New Jersey,TRUE,33.6,28.9,38.6,142,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Michigan,TRUE,35.6,31.2,40.3,199,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-West Virginia,TRUE,33.4,28.5,38.7,161,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Maine,TRUE,35.5,30.2,41.2,141,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Michigan,FALSE,64.4,59.7,68.8,345,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Maine,FALSE,64.5,58.8,69.8,238,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Hawaii,TRUE,43.5,38,49.2,199,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Utah,FALSE,66,61.6,70.2,370,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Hawaii,FALSE,56.5,50.8,62,303,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Minnesota,FALSE,63.1,58.8,67.3,352,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-Maryland,TRUE,26.8,20.7,33.8,89,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-West Virginia,FALSE,66.6,61.3,71.5,355,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
-PRAMS Total,FALSE,60.8,58.8,62.8,2563,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-PRAMS Total,TRUE,39.2,37.2,41.2,1652,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Maine,FALSE,58.6,52.6,64.4,190,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-West Virginia,TRUE,31,24.8,38,101,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Utah,FALSE,66.1,60.8,71.1,298,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Minnesota,FALSE,56,51.1,60.8,253,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Michigan,FALSE,58.5,53.6,63.3,294,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Utah,TRUE,33.9,28.9,39.2,139,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-West Virginia,FALSE,69,62,75.2,219,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Maryland,TRUE,36.7,31.9,41.7,364,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Minnesota,TRUE,44,39.2,48.9,211,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Michigan,TRUE,41.5,36.7,46.4,212,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Hawaii,TRUE,43.9,38.8,49.2,248,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-New Jersey,TRUE,38.2,34.1,42.4,226,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Hawaii,FALSE,56.1,50.8,61.2,347,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Maryland,FALSE,63.3,58.3,68.1,565,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-Maine,TRUE,41.4,35.6,47.4,151,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-New Jersey,FALSE,61.8,57.6,65.9,397,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
-PRAMS Total,FALSE,76.7,67.6,83.8,188,Age < 18,Maternal Age - 18 to 44 years in groupings
-PRAMS Total,TRUE,23.3,16.2,32.4,53,Age < 18,Maternal Age - 18 to 44 years in groupings
-Michigan,TRUE,15.3,6.9,30.4,9,Age < 18,Maternal Age - 18 to 44 years in groupings
-Hawaii,FALSE,67.6,43.4,85,28,Age < 18,Maternal Age - 18 to 44 years in groupings
-Hawaii,TRUE,32.4,15,56.6,9,Age < 18,Maternal Age - 18 to 44 years in groupings
-West Virginia,FALSE,84.6,70.2,92.7,49,Age < 18,Maternal Age - 18 to 44 years in groupings
-Michigan,FALSE,84.7,69.6,93.1,37,Age < 18,Maternal Age - 18 to 44 years in groupings
-West Virginia,TRUE,15.4,7.3,29.8,10,Age < 18,Maternal Age - 18 to 44 years in groupings
-PRAMS Total,FALSE,66.2,65,67.4,7263,Age 18 - 44,Maternal Age - 18 to 44 years only
-PRAMS Total,TRUE,33.8,32.6,35,3881,Age 18 - 44,Maternal Age - 18 to 44 years only
-Maryland,TRUE,30.4,26.9,34.2,503,Age 18 - 44,Maternal Age - 18 to 44 years only
-New Jersey,TRUE,33.2,30.5,36,442,Age 18 - 44,Maternal Age - 18 to 44 years only
-Michigan,TRUE,33.5,30.9,36.2,565,Age 18 - 44,Maternal Age - 18 to 44 years only
-West Virginia,TRUE,31.1,28.2,34.1,456,Age 18 - 44,Maternal Age - 18 to 44 years only
-Hawaii,FALSE,59.1,55.8,62.2,930,Age 18 - 44,Maternal Age - 18 to 44 years only
-Utah,TRUE,31.2,28.5,34,436,Age 18 - 44,Maternal Age - 18 to 44 years only
-Maine,FALSE,65.2,61.7,68.5,637,Age 18 - 44,Maternal Age - 18 to 44 years only
-Maine,TRUE,34.8,31.5,38.3,368,Age 18 - 44,Maternal Age - 18 to 44 years only
-Minnesota,FALSE,61,58.1,63.8,801,Age 18 - 44,Maternal Age - 18 to 44 years only
-Michigan,FALSE,66.5,63.8,69.1,1029,Age 18 - 44,Maternal Age - 18 to 44 years only
-West Virginia,FALSE,68.9,65.9,71.8,1060,Age 18 - 44,Maternal Age - 18 to 44 years only
-Utah,FALSE,68.8,66,71.5,966,Age 18 - 44,Maternal Age - 18 to 44 years only
-Hawaii,TRUE,40.9,37.8,44.2,577,Age 18 - 44,Maternal Age - 18 to 44 years only
-Minnesota,TRUE,39,36.2,41.9,534,Age 18 - 44,Maternal Age - 18 to 44 years only
-Maryland,FALSE,69.6,65.8,73.1,920,Age 18 - 44,Maternal Age - 18 to 44 years only
-New Jersey,FALSE,66.8,64,69.5,920,Age 18 - 44,Maternal Age - 18 to 44 years only
-PRAMS Total,FALSE,73.6,71.2,75.8,2215,12 yrs,Maternal Education
-PRAMS Total,TRUE,26.4,24.2,28.8,867,12 yrs,Maternal Education
-Utah,FALSE,74.6,68.3,80,190,12 yrs,Maternal Education
-Maryland,TRUE,21.6,14.9,30.3,63,12 yrs,Maternal Education
-Michigan,FALSE,74.5,69.3,79,310,12 yrs,Maternal Education
-Hawaii,FALSE,62.2,57.2,66.9,417,12 yrs,Maternal Education
-Utah,TRUE,25.4,20,31.7,61,12 yrs,Maternal Education
-Maryland,FALSE,78.4,69.7,85.1,194,12 yrs,Maternal Education
-Hawaii,TRUE,37.8,33.1,42.8,235,12 yrs,Maternal Education
-New Jersey,FALSE,75.9,70.4,80.6,260,12 yrs,Maternal Education
-Maine,FALSE,75.6,69.9,80.6,247,12 yrs,Maternal Education
-Maine,TRUE,24.4,19.4,30.1,88,12 yrs,Maternal Education
-West Virginia,FALSE,76.2,71.5,80.4,439,12 yrs,Maternal Education
-Minnesota,FALSE,65.9,58.4,72.6,158,12 yrs,Maternal Education
-Minnesota,TRUE,34.1,27.4,41.6,84,12 yrs,Maternal Education
-West Virginia,TRUE,23.8,19.6,28.5,135,12 yrs,Maternal Education
-Michigan,TRUE,25.5,21,30.7,118,12 yrs,Maternal Education
-New Jersey,TRUE,24.1,19.4,29.6,83,12 yrs,Maternal Education
-PRAMS Total,FALSE,74.5,71,77.6,1029,< 12 yrs,Maternal Education
-PRAMS Total,TRUE,25.5,22.4,29,397,< 12 yrs,Maternal Education
-Maryland,TRUE,24.9,16.1,36.5,33,< 12 yrs,Maternal Education
-Michigan,TRUE,26.4,20.1,33.7,72,< 12 yrs,Maternal Education
-Utah,FALSE,76.6,71.2,81.3,214,< 12 yrs,Maternal Education
-Maine,FALSE,75.3,61.3,85.5,54,< 12 yrs,Maternal Education
-Maine,TRUE,24.7,14.5,38.7,21,< 12 yrs,Maternal Education
-Hawaii,TRUE,35.4,24.3,48.4,35,< 12 yrs,Maternal Education
-Michigan,FALSE,73.6,66.3,79.9,143,< 12 yrs,Maternal Education
-Maryland,FALSE,75.1,63.5,83.9,117,< 12 yrs,Maternal Education
-Minnesota,FALSE,68.1,57.6,77.1,85,< 12 yrs,Maternal Education
-New Jersey,FALSE,80.1,72.8,85.8,122,< 12 yrs,Maternal Education
-Utah,TRUE,23.4,18.7,28.8,68,< 12 yrs,Maternal Education
-New Jersey,TRUE,19.9,14.2,27.2,39,< 12 yrs,Maternal Education
-West Virginia,TRUE,30.9,24.5,38.1,88,< 12 yrs,Maternal Education
-West Virginia,FALSE,69.1,61.9,75.5,228,< 12 yrs,Maternal Education
-Hawaii,FALSE,64.6,51.6,75.7,66,< 12 yrs,Maternal Education
-Minnesota,TRUE,31.9,22.9,42.4,41,< 12 yrs,Maternal Education
-PRAMS Total,FALSE,62.1,60.6,63.6,4147,>12 yrs,Maternal Education
-PRAMS Total,TRUE,37.9,36.4,39.4,2654,>12 yrs,Maternal Education
-West Virginia,FALSE,65,60.6,69.2,442,>12 yrs,Maternal Education
-Maine,FALSE,59,54.6,63.3,350,>12 yrs,Maternal Education
-Minnesota,FALSE,57.6,54.3,60.8,562,>12 yrs,Maternal Education
-Maryland,TRUE,34.1,29.7,38.7,411,>12 yrs,Maternal Education
-Michigan,TRUE,37.5,34.2,41,383,>12 yrs,Maternal Education
-Minnesota,TRUE,42.4,39.2,45.7,424,>12 yrs,Maternal Education
-Hawaii,FALSE,56.6,52,61,468,>12 yrs,Maternal Education
-Michigan,FALSE,62.5,59,65.8,610,>12 yrs,Maternal Education
-Maine,TRUE,41,36.7,45.4,261,>12 yrs,Maternal Education
-Hawaii,TRUE,43.4,39,48,312,>12 yrs,Maternal Education
-Utah,FALSE,66,62.3,69.5,539,>12 yrs,Maternal Education
-West Virginia,TRUE,35,30.8,39.4,244,>12 yrs,Maternal Education
-New Jersey,TRUE,39,35.5,42.6,322,>12 yrs,Maternal Education
-New Jersey,FALSE,61,57.4,64.5,553,>12 yrs,Maternal Education
-Maryland,FALSE,65.9,61.3,70.3,623,>12 yrs,Maternal Education
-Utah,TRUE,34,30.5,37.7,297,>12 yrs,Maternal Education
-PRAMS Total,FALSE,69.9,66.8,72.8,1039,"Black, non-Hispanic",Maternal Race/Ethnicity
-PRAMS Total,TRUE,30.1,27.2,33.2,533,"Black, non-Hispanic",Maternal Race/Ethnicity
-Minnesota,TRUE,45.6,36,55.6,65,"Black, non-Hispanic",Maternal Race/Ethnicity
-Michigan,FALSE,66.8,62.7,70.6,403,"Black, non-Hispanic",Maternal Race/Ethnicity
-Minnesota,FALSE,54.4,44.4,64,74,"Black, non-Hispanic",Maternal Race/Ethnicity
-Maryland,TRUE,23.5,17.7,30.3,136,"Black, non-Hispanic",Maternal Race/Ethnicity
-West Virginia,FALSE,62,40.5,79.6,25,"Black, non-Hispanic",Maternal Race/Ethnicity
-West Virginia,TRUE,38,20.4,59.5,16,"Black, non-Hispanic",Maternal Race/Ethnicity
-New Jersey,TRUE,30.9,25,37.6,77,"Black, non-Hispanic",Maternal Race/Ethnicity
-New Jersey,FALSE,69.1,62.4,75,173,"Black, non-Hispanic",Maternal Race/Ethnicity
-Michigan,TRUE,33.2,29.4,37.3,216,"Black, non-Hispanic",Maternal Race/Ethnicity
-Maryland,FALSE,76.5,69.7,82.3,330,"Black, non-Hispanic",Maternal Race/Ethnicity
-PRAMS Total,FALSE,73.8,70.5,76.9,935,TRUE,Maternal Race/Ethnicity
-PRAMS Total,TRUE,26.2,23.1,29.5,347,TRUE,Maternal Race/Ethnicity
-Michigan,TRUE,31.5,20.7,44.8,19,TRUE,Maternal Race/Ethnicity
-Minnesota,FALSE,66.7,54.1,77.3,51,TRUE,Maternal Race/Ethnicity
-Maryland,TRUE,24.1,16.3,34,53,TRUE,Maternal Race/Ethnicity
-Hawaii,TRUE,33.6,26.7,41.3,86,TRUE,Maternal Race/Ethnicity
-Utah,TRUE,27,21.3,33.6,75,TRUE,Maternal Race/Ethnicity
-Hawaii,FALSE,66.4,58.7,73.3,184,TRUE,Maternal Race/Ethnicity
-Maryland,FALSE,75.9,66,83.7,145,TRUE,Maternal Race/Ethnicity
-Minnesota,TRUE,33.3,22.7,45.9,27,TRUE,Maternal Race/Ethnicity
-Utah,FALSE,73,66.4,78.7,225,TRUE,Maternal Race/Ethnicity
-New Jersey,TRUE,23.2,18.9,28.2,79,TRUE,Maternal Race/Ethnicity
-Michigan,FALSE,68.5,55.2,79.3,47,TRUE,Maternal Race/Ethnicity
-New Jersey,FALSE,76.8,71.8,81.1,267,TRUE,Maternal Race/Ethnicity
-PRAMS Total,FALSE,64.1,61,67.2,1184,Other non-Hispanic,Maternal Race/Ethnicity
-PRAMS Total,TRUE,35.9,32.8,39,720,Other non-Hispanic,Maternal Race/Ethnicity
-Maine,FALSE,64.3,43.6,80.7,23,Other non-Hispanic,Maternal Race/Ethnicity
-Hawaii,FALSE,57.1,52.9,61.1,562,Other non-Hispanic,Maternal Race/Ethnicity
-Utah,TRUE,31.4,20.2,45.3,20,Other non-Hispanic,Maternal Race/Ethnicity
-Maine,TRUE,35.7,19.3,56.4,8,Other non-Hispanic,Maternal Race/Ethnicity
-Hawaii,TRUE,42.9,38.9,47.1,379,Other non-Hispanic,Maternal Race/Ethnicity
-Maryland,FALSE,75,63.2,83.9,88,Other non-Hispanic,Maternal Race/Ethnicity
-Maryland,TRUE,25,16.1,36.8,51,Other non-Hispanic,Maternal Race/Ethnicity
-Utah,FALSE,68.6,54.7,79.8,45,Other non-Hispanic,Maternal Race/Ethnicity
-New Jersey,TRUE,31.5,26.4,37.1,103,Other non-Hispanic,Maternal Race/Ethnicity
-Michigan,TRUE,35.1,24.9,46.9,31,Other non-Hispanic,Maternal Race/Ethnicity
-New Jersey,FALSE,68.5,62.9,73.6,207,Other non-Hispanic,Maternal Race/Ethnicity
-Michigan,FALSE,64.9,53.1,75.1,56,Other non-Hispanic,Maternal Race/Ethnicity
-Minnesota,TRUE,40.3,32.7,48.4,117,Other non-Hispanic,Maternal Race/Ethnicity
-Minnesota,FALSE,59.7,51.6,67.3,194,Other non-Hispanic,Maternal Race/Ethnicity
-PRAMS Total,FALSE,64.4,62.8,66,4282,"White, non-Hispanic",Maternal Race/Ethnicity
-PRAMS Total,TRUE,35.6,34,37.2,2339,"White, non-Hispanic",Maternal Race/Ethnicity
-Hawaii,TRUE,39.7,32.8,47,111,"White, non-Hispanic",Maternal Race/Ethnicity
-Minnesota,TRUE,39.8,36.5,43.1,340,"White, non-Hispanic",Maternal Race/Ethnicity
-Utah,TRUE,32,28.9,35.2,335,"White, non-Hispanic",Maternal Race/Ethnicity
-West Virginia,TRUE,29.8,27,32.8,436,"White, non-Hispanic",Maternal Race/Ethnicity
-Hawaii,FALSE,60.3,53,67.2,200,"White, non-Hispanic",Maternal Race/Ethnicity
-New Jersey,TRUE,39.8,35.3,44.5,187,"White, non-Hispanic",Maternal Race/Ethnicity
-Maryland,TRUE,37.5,32.1,43.3,271,"White, non-Hispanic",Maternal Race/Ethnicity
-Michigan,FALSE,67.1,63.7,70.3,558,"White, non-Hispanic",Maternal Race/Ethnicity
-Maine,TRUE,34.4,31.1,38,351,"White, non-Hispanic",Maternal Race/Ethnicity
-West Virginia,FALSE,70.2,67.2,73,1071,"White, non-Hispanic",Maternal Race/Ethnicity
-Maryland,FALSE,62.5,56.7,67.9,375,"White, non-Hispanic",Maternal Race/Ethnicity
-Michigan,TRUE,32.9,29.7,36.3,308,"White, non-Hispanic",Maternal Race/Ethnicity
-Utah,FALSE,68,64.8,71.1,692,"White, non-Hispanic",Maternal Race/Ethnicity
-Minnesota,FALSE,60.2,56.9,63.5,487,"White, non-Hispanic",Maternal Race/Ethnicity
-New Jersey,FALSE,60.2,55.5,64.7,290,"White, non-Hispanic",Maternal Race/Ethnicity
-Maine,FALSE,65.6,62,68.9,609,"White, non-Hispanic",Maternal Race/Ethnicity
-PRAMS Total,FALSE,76.1,74.4,77.7,3924,TRUE,Medicaid Recipient
-PRAMS Total,TRUE,23.9,22.3,25.6,1394,TRUE,Medicaid Recipient
-Maryland,FALSE,82.6,76.8,87.2,399,TRUE,Medicaid Recipient
-Michigan,TRUE,23,20,26.3,254,TRUE,Medicaid Recipient
-Minnesota,TRUE,28.5,24,33.5,157,TRUE,Medicaid Recipient
-New Jersey,FALSE,76.9,72.6,80.7,397,TRUE,Medicaid Recipient
-Utah,TRUE,26.4,22.4,30.9,148,TRUE,Medicaid Recipient
-New Jersey,TRUE,23.1,19.3,27.4,122,TRUE,Medicaid Recipient
-West Virginia,TRUE,25.9,22.6,29.4,265,TRUE,Medicaid Recipient
-Utah,FALSE,73.6,69.1,77.6,424,TRUE,Medicaid Recipient
-Minnesota,FALSE,71.5,66.5,76,348,TRUE,Medicaid Recipient
-Hawaii,TRUE,34.7,29.9,39.7,205,TRUE,Medicaid Recipient
-Maine,FALSE,75.7,71.2,79.7,422,TRUE,Medicaid Recipient
-Michigan,FALSE,77,73.7,80,688,TRUE,Medicaid Recipient
-Hawaii,FALSE,65.3,60.3,70.1,447,TRUE,Medicaid Recipient
-West Virginia,FALSE,74.1,70.6,77.4,799,TRUE,Medicaid Recipient
-Maine,TRUE,24.3,20.3,28.8,143,TRUE,Medicaid Recipient
-Maryland,TRUE,17.4,12.8,23.2,100,TRUE,Medicaid Recipient
-PRAMS Total,FALSE,59.4,57.7,61,3544,FALSE,Medicaid Recipient
-PRAMS Total,TRUE,40.6,39,42.3,2553,FALSE,Medicaid Recipient
-Hawaii,FALSE,55.6,51.4,59.7,513,FALSE,Medicaid Recipient
-Maryland,TRUE,38,33.3,42.9,412,FALSE,Medicaid Recipient
-Utah,FALSE,66.4,62.8,69.9,565,FALSE,Medicaid Recipient
-Minnesota,TRUE,45.2,41.7,48.7,392,FALSE,Medicaid Recipient
-Michigan,FALSE,55.5,51.4,59.5,380,FALSE,Medicaid Recipient
-Hawaii,TRUE,44.4,40.3,48.6,382,FALSE,Medicaid Recipient
-Maine,TRUE,46.1,41.1,51.2,227,FALSE,Medicaid Recipient
-Maine,FALSE,53.9,48.8,58.9,233,FALSE,Medicaid Recipient
-West Virginia,FALSE,61.9,56.8,66.8,312,FALSE,Medicaid Recipient
-Minnesota,FALSE,54.8,51.3,58.3,461,FALSE,Medicaid Recipient
-Utah,TRUE,33.6,30.1,37.2,293,FALSE,Medicaid Recipient
-New Jersey,FALSE,61.3,57.6,64.7,540,FALSE,Medicaid Recipient
-Maryland,FALSE,62,57.1,66.7,540,FALSE,Medicaid Recipient
-New Jersey,TRUE,38.7,35.3,42.4,324,FALSE,Medicaid Recipient
-West Virginia,TRUE,38.1,33.2,43.2,202,FALSE,Medicaid Recipient
-Michigan,TRUE,44.5,40.5,48.6,321,FALSE,Medicaid Recipient
-PRAMS Total,TRUE,26.2,23.1,29.5,347,TRUE,Mother Hispanic
-PRAMS Total,FALSE,73.8,70.5,76.9,935,TRUE,Mother Hispanic
-Minnesota,TRUE,33.3,22.7,45.9,27,TRUE,Mother Hispanic
-Michigan,TRUE,31.5,20.7,44.8,19,TRUE,Mother Hispanic
-Utah,TRUE,27,21.3,33.6,75,TRUE,Mother Hispanic
-Utah,FALSE,73,66.4,78.7,225,TRUE,Mother Hispanic
-New Jersey,FALSE,76.8,71.8,81.1,267,TRUE,Mother Hispanic
-Hawaii,FALSE,66.4,58.7,73.3,184,TRUE,Mother Hispanic
-Maryland,TRUE,24.1,16.3,34,53,TRUE,Mother Hispanic
-Maryland,FALSE,75.9,66,83.7,145,TRUE,Mother Hispanic
-New Jersey,TRUE,23.2,18.9,28.2,79,TRUE,Mother Hispanic
-Minnesota,FALSE,66.7,54.1,77.3,51,TRUE,Mother Hispanic
-Michigan,FALSE,68.5,55.2,79.3,47,TRUE,Mother Hispanic
-Hawaii,TRUE,33.6,26.7,41.3,86,TRUE,Mother Hispanic
-PRAMS Total,FALSE,65.3,64,66.5,6514,FALSE,Mother Hispanic
-PRAMS Total,TRUE,34.7,33.5,36,3593,FALSE,Mother Hispanic
-Minnesota,FALSE,59.9,56.9,62.8,748,FALSE,Mother Hispanic
-Minnesota,TRUE,40.1,37.2,43.1,518,FALSE,Mother Hispanic
-West Virginia,FALSE,69.8,66.9,72.6,1102,FALSE,Mother Hispanic
-Utah,FALSE,68.2,65.1,71.1,764,FALSE,Mother Hispanic
-Maine,TRUE,34.4,31.1,37.9,366,FALSE,Mother Hispanic
-Maryland,TRUE,31.4,27.5,35.5,459,FALSE,Mother Hispanic
-Maryland,FALSE,68.6,64.5,72.5,794,FALSE,Mother Hispanic
-Michigan,TRUE,33.1,30.5,35.8,555,FALSE,Mother Hispanic
-Hawaii,TRUE,42.2,38.7,45.7,501,FALSE,Mother Hispanic
-Utah,TRUE,31.8,28.9,34.9,366,FALSE,Mother Hispanic
-New Jersey,FALSE,63.4,60.1,66.7,669,FALSE,Mother Hispanic
-Michigan,FALSE,66.9,64.2,69.5,1017,FALSE,Mother Hispanic
-Hawaii,FALSE,57.8,54.3,61.3,776,FALSE,Mother Hispanic
-New Jersey,TRUE,36.6,33.3,39.9,366,FALSE,Mother Hispanic
-Maine,FALSE,65.6,62.1,68.9,644,FALSE,Mother Hispanic
-West Virginia,TRUE,30.2,27.4,33.1,462,FALSE,Mother Hispanic
-PRAMS Total,FALSE,66.4,65.2,67.6,7468,None,None
-PRAMS Total,TRUE,33.6,32.4,34.8,3947,None,None
-Utah,TRUE,31,28.3,33.8,441,None,None
-West Virginia,FALSE,69.6,66.6,72.3,1111,None,None
-New Jersey,FALSE,67,64.2,69.6,937,None,None
-Michigan,FALSE,67.1,64.4,69.6,1068,None,None
-Maryland,TRUE,30.2,26.7,34,512,None,None
-West Virginia,TRUE,30.4,27.7,33.4,467,None,None
-Michigan,TRUE,32.9,30.4,35.6,575,None,None
-Minnesota,TRUE,39.5,36.7,42.5,549,None,None
-Maine,FALSE,65.8,62.4,69.1,655,None,None
-New Jersey,TRUE,33,30.4,35.8,446,None,None
-Maine,TRUE,34.2,30.9,37.6,370,None,None
-Maryland,FALSE,69.8,66,73.3,939,None,None
-Hawaii,FALSE,59.3,56.1,62.4,960,None,None
-Minnesota,FALSE,60.5,57.5,63.3,809,None,None
-Hawaii,TRUE,40.7,37.6,43.9,587,None,None
-Utah,FALSE,69,66.2,71.7,989,None,None
-PRAMS Total,FALSE,63.7,61.7,65.6,2984,0,Number of Previous Live Births
-PRAMS Total,TRUE,36.3,34.4,38.3,1671,0,Number of Previous Live Births
-West Virginia,FALSE,71.7,67.3,75.7,509,0,Number of Previous Live Births
-Minnesota,TRUE,42.2,37.8,46.8,240,0,Number of Previous Live Births
-Minnesota,FALSE,57.8,53.2,62.2,316,0,Number of Previous Live Births
-Michigan,FALSE,66.4,62.3,70.3,452,0,Number of Previous Live Births
-Maryland,FALSE,66.4,59.8,72.3,307,0,Number of Previous Live Births
-Utah,FALSE,69.3,64.2,74,298,0,Number of Previous Live Births
-Hawaii,FALSE,61.1,56,65.9,413,0,Number of Previous Live Births
-Michigan,TRUE,33.6,29.7,37.7,247,0,Number of Previous Live Births
-Maine,FALSE,64,59.1,68.6,323,0,Number of Previous Live Births
-Hawaii,TRUE,38.9,34.1,44,238,0,Number of Previous Live Births
-Utah,TRUE,30.7,26,35.8,142,0,Number of Previous Live Births
-New Jersey,FALSE,59.3,54.9,63.6,366,0,Number of Previous Live Births
-West Virginia,TRUE,28.3,24.3,32.7,190,0,Number of Previous Live Births
-Maryland,TRUE,33.6,27.7,40.2,201,0,Number of Previous Live Births
-Maine,TRUE,36,31.4,40.9,189,0,Number of Previous Live Births
-New Jersey,TRUE,40.7,36.4,45.1,224,0,Number of Previous Live Births
-PRAMS Total,FALSE,68.3,66.8,69.8,4438,1 or more,Number of Previous Live Births
-PRAMS Total,TRUE,31.7,30.2,33.2,2243,1 or more,Number of Previous Live Births
-West Virginia,FALSE,67.9,63.9,71.7,602,1 or more,Number of Previous Live Births
-Maryland,TRUE,28.2,23.9,33,290,1 or more,Number of Previous Live Births
-Michigan,TRUE,32.5,29.2,36,328,1 or more,Number of Previous Live Births
-Minnesota,TRUE,37.6,33.9,41.5,299,1 or more,Number of Previous Live Births
-Hawaii,FALSE,58.1,53.9,62.2,547,1 or more,Number of Previous Live Births
-New Jersey,TRUE,27.6,24.4,31.2,222,1 or more,Number of Previous Live Births
-Maine,TRUE,32.6,28.1,37.5,181,1 or more,Number of Previous Live Births
-Maine,FALSE,67.4,62.5,71.9,332,1 or more,Number of Previous Live Births
-Maryland,FALSE,71.8,67,76.1,604,1 or more,Number of Previous Live Births
-New Jersey,FALSE,72.4,68.8,75.6,571,1 or more,Number of Previous Live Births
-Minnesota,FALSE,62.4,58.5,66.1,476,1 or more,Number of Previous Live Births
-West Virginia,TRUE,32.1,28.3,36.1,277,1 or more,Number of Previous Live Births
-Utah,FALSE,68.9,65.5,72.1,691,1 or more,Number of Previous Live Births
-Hawaii,TRUE,41.9,37.8,46.1,348,1 or more,Number of Previous Live Births
-Utah,TRUE,31.1,27.9,34.5,298,1 or more,Number of Previous Live Births
-Michigan,FALSE,67.5,64,70.8,615,1 or more,Number of Previous Live Births
-PRAMS Total,FALSE,60.8,59.1,62.4,3711,FALSE,On WIC during Pregnancy
-PRAMS Total,TRUE,39.2,37.6,40.9,2485,FALSE,On WIC during Pregnancy
-Maine,FALSE,60.3,55.7,64.6,335,FALSE,On WIC during Pregnancy
-Minnesota,FALSE,56.4,52.8,60,449,FALSE,On WIC during Pregnancy
-Maryland,FALSE,61.9,56.9,66.7,504,FALSE,On WIC during Pregnancy
-Minnesota,TRUE,43.6,40,47.2,348,FALSE,On WIC during Pregnancy
-Hawaii,FALSE,56.7,52.3,61,476,FALSE,On WIC during Pregnancy
-Maine,TRUE,39.7,35.4,44.3,252,FALSE,On WIC during Pregnancy
-Utah,TRUE,32.7,29.4,36.2,307,FALSE,On WIC during Pregnancy
-West Virginia,FALSE,63.8,58.9,68.4,365,FALSE,On WIC during Pregnancy
-Michigan,FALSE,58.5,54.5,62.4,422,FALSE,On WIC during Pregnancy
-West Virginia,TRUE,36.2,31.6,41.1,214,FALSE,On WIC during Pregnancy
-Michigan,TRUE,41.5,37.6,45.5,320,FALSE,On WIC during Pregnancy
-Maryland,TRUE,38.1,33.3,43.1,389,FALSE,On WIC during Pregnancy
-New Jersey,TRUE,38.5,35,42.1,318,FALSE,On WIC during Pregnancy
-Utah,FALSE,67.3,63.8,70.6,614,FALSE,On WIC during Pregnancy
-Hawaii,TRUE,43.3,39,47.7,337,FALSE,On WIC during Pregnancy
-New Jersey,FALSE,61.5,57.9,65,546,FALSE,On WIC during Pregnancy
-PRAMS Total,FALSE,74.2,72.4,75.9,3688,TRUE,On WIC during Pregnancy
-PRAMS Total,TRUE,25.8,24.1,27.6,1424,TRUE,On WIC during Pregnancy
-Maine,TRUE,26.3,21.6,31.6,117,TRUE,On WIC during Pregnancy
-Utah,FALSE,72.7,67.9,77.1,364,TRUE,On WIC during Pregnancy
-Michigan,TRUE,24.4,21.2,27.9,247,TRUE,On WIC during Pregnancy
-Maryland,TRUE,20.7,15.9,26.5,120,TRUE,On WIC during Pregnancy
-Hawaii,FALSE,62.7,58,67.3,476,TRUE,On WIC during Pregnancy
-Maine,FALSE,73.7,68.4,78.4,316,TRUE,On WIC during Pregnancy
-New Jersey,FALSE,76,71.7,79.9,377,TRUE,On WIC during Pregnancy
-West Virginia,TRUE,26.7,23.3,30.3,251,TRUE,On WIC during Pregnancy
-Hawaii,TRUE,37.3,32.7,42,245,TRUE,On WIC during Pregnancy
-West Virginia,FALSE,73.3,69.7,76.7,742,TRUE,On WIC during Pregnancy
-Minnesota,TRUE,32.1,27.6,37.1,190,TRUE,On WIC during Pregnancy
-Utah,TRUE,27.3,22.9,32.1,128,TRUE,On WIC during Pregnancy
-Minnesota,FALSE,67.9,62.9,72.4,350,TRUE,On WIC during Pregnancy
-New Jersey,TRUE,24,20.1,28.3,126,TRUE,On WIC during Pregnancy
-Maryland,FALSE,79.3,73.5,84.1,425,TRUE,On WIC during Pregnancy
-Michigan,FALSE,75.6,72.1,78.8,638,TRUE,On WIC during Pregnancy
-PRAMS Total,FALSE,58.5,56.8,60,3833,TRUE,Pregnancy Intendedness
-PRAMS Total,TRUE,41.5,40,43.2,2886,TRUE,Pregnancy Intendedness
-Minnesota,TRUE,46.1,42.6,49.7,418,TRUE,Pregnancy Intendedness
-Minnesota,FALSE,53.9,50.3,57.4,462,TRUE,Pregnancy Intendedness
-Utah,TRUE,36.7,33.3,40.2,348,TRUE,Pregnancy Intendedness
-New Jersey,FALSE,60.1,56.3,63.7,500,TRUE,Pregnancy Intendedness
-Michigan,FALSE,58.6,54.9,62.2,494,TRUE,Pregnancy Intendedness
-Maryland,TRUE,42.6,37.4,47.8,427,TRUE,Pregnancy Intendedness
-West Virginia,FALSE,62.6,58.3,66.6,505,TRUE,Pregnancy Intendedness
-Maine,TRUE,43.7,39.4,48.1,296,TRUE,Pregnancy Intendedness
-Hawaii,FALSE,52.7,48.3,56.9,471,TRUE,Pregnancy Intendedness
-Michigan,TRUE,41.4,37.8,45.1,393,TRUE,Pregnancy Intendedness
-Maine,FALSE,56.3,51.9,60.6,357,TRUE,Pregnancy Intendedness
-Utah,FALSE,63.3,59.8,66.7,603,TRUE,Pregnancy Intendedness
-West Virginia,TRUE,37.4,33.4,41.7,301,TRUE,Pregnancy Intendedness
-Hawaii,TRUE,47.3,43.1,51.7,384,TRUE,Pregnancy Intendedness
-Maryland,FALSE,57.4,52.2,62.6,441,TRUE,Pregnancy Intendedness
-New Jersey,TRUE,39.9,36.3,43.7,319,TRUE,Pregnancy Intendedness
-PRAMS Total,FALSE,78.9,77.2,80.5,3520,FALSE,Pregnancy Intendedness
-PRAMS Total,TRUE,21.1,19.5,22.8,1004,FALSE,Pregnancy Intendedness
-Maryland,FALSE,83.7,78.4,87.9,474,FALSE,Pregnancy Intendedness
-Michigan,TRUE,21,17.8,24.7,174,FALSE,Pregnancy Intendedness
-New Jersey,TRUE,21.4,17.8,25.5,117,FALSE,Pregnancy Intendedness
-Maine,TRUE,17.4,13.2,22.6,68,FALSE,Pregnancy Intendedness
-Michigan,FALSE,79,75.3,82.2,559,FALSE,Pregnancy Intendedness
-Utah,TRUE,18.5,14.8,22.9,84,FALSE,Pregnancy Intendedness
-Utah,FALSE,81.5,77.1,85.2,373,FALSE,Pregnancy Intendedness
-Minnesota,TRUE,25.1,20.7,30.1,118,FALSE,Pregnancy Intendedness
-West Virginia,TRUE,22.8,19.2,26.8,165,FALSE,Pregnancy Intendedness
-Maryland,TRUE,16.3,12.1,21.6,81,FALSE,Pregnancy Intendedness
-New Jersey,FALSE,78.6,74.5,82.2,423,FALSE,Pregnancy Intendedness
-Maine,FALSE,82.6,77.4,86.8,284,FALSE,Pregnancy Intendedness
-Minnesota,FALSE,74.9,69.9,79.3,333,FALSE,Pregnancy Intendedness
-Hawaii,FALSE,67.4,62.5,71.9,478,FALSE,Pregnancy Intendedness
-Hawaii,TRUE,32.6,28.1,37.5,197,FALSE,Pregnancy Intendedness
-West Virginia,FALSE,77.2,73.2,80.8,596,FALSE,Pregnancy Intendedness
-PRAMS Total,FALSE,64.2,62.8,65.6,5196,FALSE,Smoked 3 months before Pregnancy
-PRAMS Total,TRUE,35.8,34.4,37.2,3095,FALSE,Smoked 3 months before Pregnancy
-Michigan,TRUE,36.8,33.7,40.1,434,FALSE,Smoked 3 months before Pregnancy
-Hawaii,FALSE,57.9,54.3,61.4,745,FALSE,Smoked 3 months before Pregnancy
-Utah,FALSE,68,65,70.9,835,FALSE,Smoked 3 months before Pregnancy
-New Jersey,TRUE,33.3,30.4,36.4,351,FALSE,Smoked 3 months before Pregnancy
-Maine,FALSE,59.6,55.3,63.8,374,FALSE,Smoked 3 months before Pregnancy
-Minnesota,FALSE,58.2,54.8,61.4,559,FALSE,Smoked 3 months before Pregnancy
-New Jersey,FALSE,66.7,63.6,69.6,701,FALSE,Smoked 3 months before Pregnancy
-Maryland,TRUE,33.4,29.4,37.7,458,FALSE,Smoked 3 months before Pregnancy
-Minnesota,TRUE,41.8,38.6,45.2,418,FALSE,Smoked 3 months before Pregnancy
-Michigan,FALSE,63.2,59.9,66.3,722,FALSE,Smoked 3 months before Pregnancy
-Hawaii,TRUE,42.1,38.6,45.7,484,FALSE,Smoked 3 months before Pregnancy
-West Virginia,FALSE,66.2,62.1,70,520,FALSE,Smoked 3 months before Pregnancy
-Maryland,FALSE,66.6,62.3,70.6,740,FALSE,Smoked 3 months before Pregnancy
-West Virginia,TRUE,33.8,30,37.9,276,FALSE,Smoked 3 months before Pregnancy
-Maine,TRUE,40.4,36.2,44.7,279,FALSE,Smoked 3 months before Pregnancy
-Utah,TRUE,32,29.1,35,395,FALSE,Smoked 3 months before Pregnancy
-PRAMS Total,FALSE,74,71.6,76.3,2160,TRUE,Smoked 3 months before Pregnancy
-PRAMS Total,TRUE,26,23.7,28.4,801,TRUE,Smoked 3 months before Pregnancy
-New Jersey,FALSE,68.1,61.4,74.2,224,TRUE,Smoked 3 months before Pregnancy
-West Virginia,TRUE,26.4,22.5,30.7,185,TRUE,Smoked 3 months before Pregnancy
-Michigan,FALSE,76.1,71.4,80.3,332,TRUE,Smoked 3 months before Pregnancy
-Utah,TRUE,24.9,18.1,33.4,41,TRUE,Smoked 3 months before Pregnancy
-West Virginia,FALSE,73.6,69.3,77.5,572,TRUE,Smoked 3 months before Pregnancy
-Michigan,TRUE,23.9,19.7,28.6,134,TRUE,Smoked 3 months before Pregnancy
-Utah,FALSE,75.1,66.6,81.9,139,TRUE,Smoked 3 months before Pregnancy
-New Jersey,TRUE,31.9,25.8,38.6,90,TRUE,Smoked 3 months before Pregnancy
-Hawaii,FALSE,65.5,58.3,72.1,202,TRUE,Smoked 3 months before Pregnancy
-Hawaii,TRUE,34.5,27.9,41.7,100,TRUE,Smoked 3 months before Pregnancy
-Maryland,TRUE,17.9,11.6,26.5,47,TRUE,Smoked 3 months before Pregnancy
-Minnesota,FALSE,69.7,63.6,75.1,240,TRUE,Smoked 3 months before Pregnancy
-Maine,TRUE,22.3,17.4,28,85,TRUE,Smoked 3 months before Pregnancy
-Minnesota,TRUE,30.3,24.9,36.4,119,TRUE,Smoked 3 months before Pregnancy
-Maine,FALSE,77.7,72,82.6,265,TRUE,Smoked 3 months before Pregnancy
-Maryland,FALSE,82.1,73.5,88.4,186,TRUE,Smoked 3 months before Pregnancy
-PRAMS Total,FALSE,65.3,64,66.6,6217,FALSE,Smoked last 3 months of Pregnancy
-PRAMS Total,TRUE,34.7,33.4,36,3500,FALSE,Smoked last 3 months of Pregnancy
-Hawaii,FALSE,59.2,55.9,62.5,882,FALSE,Smoked last 3 months of Pregnancy
-Maryland,TRUE,31.3,27.7,35.3,489,FALSE,Smoked last 3 months of Pregnancy
-Maryland,FALSE,68.7,64.7,72.3,844,FALSE,Smoked last 3 months of Pregnancy
-Minnesota,TRUE,40.4,37.4,43.5,487,FALSE,Smoked last 3 months of Pregnancy
-Maine,TRUE,36.8,33.1,40.6,312,FALSE,Smoked last 3 months of Pregnancy
-Utah,FALSE,68.3,65.5,71.1,916,FALSE,Smoked last 3 months of Pregnancy
-Utah,TRUE,31.7,28.9,34.5,421,FALSE,Smoked last 3 months of Pregnancy
-Michigan,FALSE,65,62.1,67.8,884,FALSE,Smoked last 3 months of Pregnancy
-Minnesota,FALSE,59.6,56.5,62.6,697,FALSE,Smoked last 3 months of Pregnancy
-West Virginia,TRUE,31.7,28.4,35.3,326,FALSE,Smoked last 3 months of Pregnancy
-Maine,FALSE,63.2,59.4,66.9,486,FALSE,Smoked last 3 months of Pregnancy
-New Jersey,FALSE,66.4,63.6,69.2,822,FALSE,Smoked last 3 months of Pregnancy
-New Jersey,TRUE,33.6,30.8,36.4,408,FALSE,Smoked last 3 months of Pregnancy
-Michigan,TRUE,35,32.2,37.9,504,FALSE,Smoked last 3 months of Pregnancy
-Hawaii,TRUE,40.8,37.5,44.1,553,FALSE,Smoked last 3 months of Pregnancy
-West Virginia,FALSE,68.3,64.7,71.6,686,FALSE,Smoked last 3 months of Pregnancy
-PRAMS Total,FALSE,76.8,73.4,80,1144,TRUE,Smoked last 3 months of Pregnancy
-PRAMS Total,TRUE,23.2,20,26.6,396,TRUE,Smoked last 3 months of Pregnancy
-Utah,TRUE,19.8,11,32.9,15,TRUE,Smoked last 3 months of Pregnancy
-Maine,TRUE,22.7,16.3,30.7,53,TRUE,Smoked last 3 months of Pregnancy
-Maryland,TRUE,14.7,6.3,30.8,15,TRUE,Smoked last 3 months of Pregnancy
-West Virginia,TRUE,27.6,22.8,33,135,TRUE,Smoked last 3 months of Pregnancy
-Hawaii,TRUE,38.3,26.6,51.6,31,TRUE,Smoked last 3 months of Pregnancy
-Michigan,TRUE,22,16.5,28.7,64,TRUE,Smoked last 3 months of Pregnancy
-Michigan,FALSE,78,71.3,83.5,170,TRUE,Smoked last 3 months of Pregnancy
-Minnesota,FALSE,73.9,64.5,81.6,102,TRUE,Smoked last 3 months of Pregnancy
-New Jersey,TRUE,25.4,17.4,35.5,33,TRUE,Smoked last 3 months of Pregnancy
-Minnesota,TRUE,26.1,18.4,35.5,50,TRUE,Smoked last 3 months of Pregnancy
-Maryland,FALSE,85.3,69.2,93.7,83,TRUE,Smoked last 3 months of Pregnancy
-Utah,FALSE,80.2,67.1,89,57,TRUE,Smoked last 3 months of Pregnancy
-Maine,FALSE,77.3,69.3,83.7,158,TRUE,Smoked last 3 months of Pregnancy
-West Virginia,FALSE,72.4,67,77.2,406,TRUE,Smoked last 3 months of Pregnancy
-New Jersey,FALSE,74.6,64.5,82.6,104,TRUE,Smoked last 3 months of Pregnancy
-Hawaii,FALSE,61.7,48.4,73.4,64,TRUE,Smoked last 3 months of Pregnancy
+location,breakOutCategory,breakOut,response,value,lowConfidenceLimit,highConfidenceLimit,sampleSize
+PRAMS Total,Adequacy of Prenatal care,Adequate PNC,FALSE,64.1,62.6,65.5,5178
+PRAMS Total,Adequacy of Prenatal care,Adequate PNC,TRUE,35.9,34.5,37.4,2949
+Utah,Adequacy of Prenatal care,Adequate PNC,FALSE,67.4,64.1,70.4,727
+Hawaii,Adequacy of Prenatal care,Adequate PNC,FALSE,58.9,55.1,62.6,669
+Maryland,Adequacy of Prenatal care,Adequate PNC,FALSE,66.7,61.7,71.3,546
+Michigan,Adequacy of Prenatal care,Adequate PNC,FALSE,64.7,61.6,67.7,759
+Maine,Adequacy of Prenatal care,Adequate PNC,TRUE,35.1,31.6,38.9,324
+Minnesota,Adequacy of Prenatal care,Adequate PNC,TRUE,41.5,38.3,44.9,412
+Maine,Adequacy of Prenatal care,Adequate PNC,FALSE,64.9,61.1,68.4,547
+Utah,Adequacy of Prenatal care,Adequate PNC,TRUE,32.6,29.6,35.9,354
+Hawaii,Adequacy of Prenatal care,Adequate PNC,TRUE,41.1,37.4,44.9,441
+Maryland,Adequacy of Prenatal care,Adequate PNC,TRUE,33.3,28.7,38.3,321
+New Jersey,Adequacy of Prenatal care,Adequate PNC,FALSE,63.9,60.4,67.2,595
+West Virginia,Adequacy of Prenatal care,Adequate PNC,FALSE,67.8,64.4,71.1,757
+West Virginia,Adequacy of Prenatal care,Adequate PNC,TRUE,32.2,28.9,35.6,342
+New Jersey,Adequacy of Prenatal care,Adequate PNC,TRUE,36.1,32.8,39.6,320
+Minnesota,Adequacy of Prenatal care,Adequate PNC,FALSE,58.5,55.1,61.7,578
+Michigan,Adequacy of Prenatal care,Adequate PNC,TRUE,35.3,32.3,38.4,435
+PRAMS Total,Adequacy of Prenatal care,Inadequate PNC,FALSE,73.9,68.2,78.9,389
+PRAMS Total,Adequacy of Prenatal care,Inadequate PNC,TRUE,26.1,21.1,31.8,171
+New Jersey,Adequacy of Prenatal care,Inadequate PNC,TRUE,29,19.5,40.9,25
+West Virginia,Adequacy of Prenatal care,Inadequate PNC,FALSE,70.6,57.5,81,75
+Minnesota,Adequacy of Prenatal care,Inadequate PNC,TRUE,37.5,21.1,57.2,16
+West Virginia,Adequacy of Prenatal care,Inadequate PNC,TRUE,29.4,19,42.5,38
+Maryland,Adequacy of Prenatal care,Inadequate PNC,FALSE,80.8,68.1,89.3,87
+Utah,Adequacy of Prenatal care,Inadequate PNC,TRUE,38.3,23.6,55.5,15
+Hawaii,Adequacy of Prenatal care,Inadequate PNC,FALSE,54.3,39,68.9,47
+Utah,Adequacy of Prenatal care,Inadequate PNC,FALSE,61.7,44.5,76.4,28
+Minnesota,Adequacy of Prenatal care,Inadequate PNC,FALSE,62.5,42.8,78.9,34
+New Jersey,Adequacy of Prenatal care,Inadequate PNC,FALSE,71,59.1,80.5,63
+Maryland,Adequacy of Prenatal care,Inadequate PNC,TRUE,19.2,10.7,31.9,35
+Michigan,Adequacy of Prenatal care,Inadequate PNC,FALSE,81.9,68.7,90.4,42
+Hawaii,Adequacy of Prenatal care,Inadequate PNC,TRUE,45.7,31.1,61,24
+Michigan,Adequacy of Prenatal care,Inadequate PNC,TRUE,18.1,9.6,31.3,14
+PRAMS Total,Adequacy of Prenatal care,Intermediate PNC,FALSE,73.1,70.3,75.6,1523
+PRAMS Total,Adequacy of Prenatal care,Intermediate PNC,TRUE,26.9,24.4,29.7,618
+West Virginia,Adequacy of Prenatal care,Intermediate PNC,TRUE,24.5,19,31.1,85
+Maine,Adequacy of Prenatal care,Intermediate PNC,FALSE,70.7,61,78.9,93
+Hawaii,Adequacy of Prenatal care,Intermediate PNC,FALSE,61.9,54.3,68.9,192
+Michigan,Adequacy of Prenatal care,Intermediate PNC,FALSE,75,67.9,81.1,179
+Hawaii,Adequacy of Prenatal care,Intermediate PNC,TRUE,38.1,31.1,45.7,94
+Minnesota,Adequacy of Prenatal care,Intermediate PNC,FALSE,67.9,60.7,74.4,149
+Michigan,Adequacy of Prenatal care,Intermediate PNC,TRUE,25,18.9,32.1,74
+Maryland,Adequacy of Prenatal care,Intermediate PNC,FALSE,72.8,64.4,79.9,195
+Utah,Adequacy of Prenatal care,Intermediate PNC,TRUE,20,14.8,26.4,50
+West Virginia,Adequacy of Prenatal care,Intermediate PNC,FALSE,75.5,68.9,81,264
+Maryland,Adequacy of Prenatal care,Intermediate PNC,TRUE,27.2,20.1,35.6,86
+Minnesota,Adequacy of Prenatal care,Intermediate PNC,TRUE,32.1,25.6,39.3,86
+Maine,Adequacy of Prenatal care,Intermediate PNC,TRUE,29.3,21.1,39,42
+New Jersey,Adequacy of Prenatal care,Intermediate PNC,TRUE,26.6,22,31.8,101
+New Jersey,Adequacy of Prenatal care,Intermediate PNC,FALSE,73.4,68.2,78,269
+Utah,Adequacy of Prenatal care,Intermediate PNC,FALSE,80,73.6,85.2,182
+PRAMS Total,Adequacy of Prenatal care,NA,FALSE,68.1,62.7,73.1,378
+PRAMS Total,Adequacy of Prenatal care,NA,TRUE,31.9,26.9,37.3,209
+Michigan,Adequacy of Prenatal care,NA,TRUE,32.5,24.2,42.1,52
+Utah,Adequacy of Prenatal care,NA,FALSE,63.4,49.5,75.3,52
+Minnesota,Adequacy of Prenatal care,NA,FALSE,62.3,50.1,73.1,48
+Maryland,Adequacy of Prenatal care,NA,FALSE,72.3,60.7,81.5,111
+Hawaii,Adequacy of Prenatal care,NA,TRUE,41.3,28,56,28
+Hawaii,Adequacy of Prenatal care,NA,FALSE,58.7,44,72,52
+Michigan,Adequacy of Prenatal care,NA,FALSE,67.5,57.9,75.8,88
+Minnesota,Adequacy of Prenatal care,NA,TRUE,37.7,26.9,49.9,35
+Maryland,Adequacy of Prenatal care,NA,TRUE,27.7,18.5,39.3,70
+Utah,Adequacy of Prenatal care,NA,TRUE,36.6,24.7,50.5,22
+PRAMS Total,Birth Weight,FALSE,FALSE,60.9,57.5,64.2,1886
+PRAMS Total,Birth Weight,FALSE,TRUE,39.1,35.8,42.5,1010
+Utah,Birth Weight,FALSE,FALSE,68.5,63.9,72.8,246
+Hawaii,Birth Weight,FALSE,FALSE,63.1,57.5,68.3,171
+Michigan,Birth Weight,FALSE,FALSE,65.3,59.2,70.9,177
+Hawaii,Birth Weight,FALSE,TRUE,36.9,31.7,42.5,107
+Minnesota,Birth Weight,FALSE,FALSE,41.9,30.7,54,45
+New Jersey,Birth Weight,FALSE,FALSE,56.5,46.2,66.2,68
+Maine,Birth Weight,FALSE,FALSE,63,59.4,66.5,224
+Maine,Birth Weight,FALSE,TRUE,37,33.5,40.6,141
+West Virginia,Birth Weight,FALSE,FALSE,71.7,69.4,73.9,550
+Maryland,Birth Weight,FALSE,FALSE,66,61.9,69.8,405
+Michigan,Birth Weight,FALSE,TRUE,34.7,29.1,40.8,95
+Utah,Birth Weight,FALSE,TRUE,31.5,27.2,36.1,118
+Minnesota,Birth Weight,FALSE,TRUE,58.1,46,69.3,44
+West Virginia,Birth Weight,FALSE,TRUE,28.3,26.1,30.6,220
+Maryland,Birth Weight,FALSE,TRUE,34,30.2,38.1,238
+New Jersey,Birth Weight,FALSE,TRUE,43.5,33.8,53.8,47
+PRAMS Total,Birth Weight,TRUE,FALSE,66.9,65.6,68.1,5576
+PRAMS Total,Birth Weight,TRUE,TRUE,33.1,31.9,34.4,2937
+Hawaii,Birth Weight,TRUE,FALSE,59,55.5,62.4,789
+Michigan,Birth Weight,TRUE,FALSE,67.2,64.4,69.9,890
+New Jersey,Birth Weight,TRUE,TRUE,32.2,29.4,35,399
+Maryland,Birth Weight,TRUE,FALSE,70.1,66,73.9,531
+West Virginia,Birth Weight,TRUE,TRUE,30.6,27.6,33.8,247
+Maine,Birth Weight,TRUE,TRUE,34,30.5,37.6,229
+West Virginia,Birth Weight,TRUE,FALSE,69.4,66.2,72.4,559
+Utah,Birth Weight,TRUE,TRUE,31,28.2,33.9,323
+Minnesota,Birth Weight,TRUE,FALSE,61.6,58.7,64.5,764
+Maryland,Birth Weight,TRUE,TRUE,29.9,26.1,34,274
+Hawaii,Birth Weight,TRUE,TRUE,41,37.6,44.5,480
+New Jersey,Birth Weight,TRUE,FALSE,67.8,65,70.6,869
+Michigan,Birth Weight,TRUE,TRUE,32.8,30.1,35.6,480
+Minnesota,Birth Weight,TRUE,TRUE,38.4,35.5,41.3,505
+Maine,Birth Weight,TRUE,FALSE,66,62.4,69.5,431
+Utah,Birth Weight,TRUE,FALSE,69,66.1,71.8,743
+PRAMS Total,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,78.4,76,80.6,1704
+PRAMS Total,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,21.6,19.4,24,580
+Maine,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,26.5,20.1,33.9,61
+Minnesota,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,27.3,20.8,34.8,68
+Minnesota,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,72.7,65.2,79.2,148
+Michigan,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,80.2,75,84.6,259
+Hawaii,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,60.1,52.7,67,200
+Michigan,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,19.8,15.4,25,82
+Utah,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,77,71.3,81.9,248
+Utah,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,23,18.1,28.7,72
+West Virginia,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,76.3,70.9,81.1,310
+Maryland,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,90.4,83.5,94.6,200
+New Jersey,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,23.8,18.2,30.6,53
+Maryland,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,9.6,5.4,16.5,38
+Hawaii,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,39.9,33,47.3,112
+New Jersey,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,76.2,69.4,81.8,169
+Maine,Income (years 2004 and beyond),"$10,000 to $24,999",FALSE,73.5,66.1,79.9,170
+West Virginia,Income (years 2004 and beyond),"$10,000 to $24,999",TRUE,23.7,18.9,29.1,94
+PRAMS Total,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,71.6,69,74.1,1511
+PRAMS Total,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,28.4,25.9,31,681
+New Jersey,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,22.6,16.6,30,44
+Maine,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,63.6,55.7,70.7,126
+Hawaii,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,40.7,34.4,47.3,140
+West Virginia,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,37.1,30.2,44.5,85
+Utah,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,70.3,65,75.1,270
+Minnesota,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,71.3,65.5,76.5,209
+Michigan,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,71,64.7,76.6,208
+Michigan,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,29,23.4,35.3,82
+Maryland,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,21.5,14.1,31.3,50
+Hawaii,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,59.3,52.7,65.6,217
+West Virginia,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,62.9,55.5,69.8,176
+Maine,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,36.4,29.3,44.3,70
+Utah,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,29.7,24.9,35,117
+New Jersey,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,77.4,70,83.4,143
+Maryland,Income (years 2004 and beyond),"$25,000 to $49,999",FALSE,78.5,68.7,85.9,162
+Minnesota,Income (years 2004 and beyond),"$25,000 to $49,999",TRUE,28.7,23.5,34.5,93
+PRAMS Total,Income (years 2004 and beyond),"$50,000 or more",FALSE,54.7,52.7,56.7,2183
+PRAMS Total,Income (years 2004 and beyond),"$50,000 or more",TRUE,45.3,43.3,47.3,1848
+New Jersey,Income (years 2004 and beyond),"$50,000 or more",FALSE,54.9,50.4,59.2,334
+New Jersey,Income (years 2004 and beyond),"$50,000 or more",TRUE,45.1,40.8,49.6,259
+Maine,Income (years 2004 and beyond),"$50,000 or more",TRUE,47.1,41.4,53,181
+West Virginia,Income (years 2004 and beyond),"$50,000 or more",TRUE,39.4,33.4,45.8,144
+Maryland,Income (years 2004 and beyond),"$50,000 or more",FALSE,56.9,51.2,62.3,390
+Maine,Income (years 2004 and beyond),"$50,000 or more",FALSE,52.9,47,58.6,170
+Maryland,Income (years 2004 and beyond),"$50,000 or more",TRUE,43.1,37.7,48.8,346
+Michigan,Income (years 2004 and beyond),"$50,000 or more",FALSE,51.6,46.8,56.4,240
+Minnesota,Income (years 2004 and beyond),"$50,000 or more",TRUE,48.5,44.4,52.7,284
+Hawaii,Income (years 2004 and beyond),"$50,000 or more",FALSE,57.5,51.9,63,287
+Utah,Income (years 2004 and beyond),"$50,000 or more",TRUE,39.2,34.3,44.4,178
+Utah,Income (years 2004 and beyond),"$50,000 or more",FALSE,60.8,55.6,65.7,268
+Michigan,Income (years 2004 and beyond),"$50,000 or more",TRUE,48.4,43.6,53.2,246
+West Virginia,Income (years 2004 and beyond),"$50,000 or more",FALSE,60.6,54.2,66.6,197
+Minnesota,Income (years 2004 and beyond),"$50,000 or more",FALSE,51.5,47.3,55.6,297
+Hawaii,Income (years 2004 and beyond),"$50,000 or more",TRUE,42.5,37,48.1,210
+PRAMS Total,Income (years 2004 and beyond),"Less than $10,000",FALSE,72.8,69.9,75.6,1555
+PRAMS Total,Income (years 2004 and beyond),"Less than $10,000",TRUE,27.2,24.4,30.1,579
+Utah,Income (years 2004 and beyond),"Less than $10,000",TRUE,28.1,21.3,36.1,53
+Maine,Income (years 2004 and beyond),"Less than $10,000",FALSE,78.4,69.9,85,134
+Hawaii,Income (years 2004 and beyond),"Less than $10,000",FALSE,61.5,53.8,68.6,209
+Hawaii,Income (years 2004 and beyond),"Less than $10,000",TRUE,38.5,31.4,46.2,93
+New Jersey,Income (years 2004 and beyond),"Less than $10,000",FALSE,78.5,71.8,83.9,167
+West Virginia,Income (years 2004 and beyond),"Less than $10,000",TRUE,20.5,15.9,26,95
+Michigan,Income (years 2004 and beyond),"Less than $10,000",FALSE,73.5,68.1,78.3,301
+Michigan,Income (years 2004 and beyond),"Less than $10,000",TRUE,26.5,21.7,31.9,127
+New Jersey,Income (years 2004 and beyond),"Less than $10,000",TRUE,21.5,16.1,28.2,47
+Utah,Income (years 2004 and beyond),"Less than $10,000",FALSE,71.9,63.9,78.7,143
+Minnesota,Income (years 2004 and beyond),"Less than $10,000",TRUE,36,27.8,45.2,71
+Maine,Income (years 2004 and beyond),"Less than $10,000",TRUE,21.6,15,30.1,42
+Minnesota,Income (years 2004 and beyond),"Less than $10,000",FALSE,64,54.8,72.2,132
+West Virginia,Income (years 2004 and beyond),"Less than $10,000",FALSE,79.5,74,84.1,338
+Maryland,Income (years 2004 and beyond),"Less than $10,000",FALSE,70.2,59.1,79.3,131
+Maryland,Income (years 2004 and beyond),"Less than $10,000",TRUE,29.8,20.7,40.9,51
+PRAMS Total,Marital Status,TRUE,FALSE,60.9,59.4,62.5,4194
+PRAMS Total,Marital Status,TRUE,TRUE,39.1,37.5,40.6,2824
+Maine,Marital Status,TRUE,FALSE,55.8,51.3,60.2,327
+New Jersey,Marital Status,TRUE,TRUE,38,34.5,41.6,316
+Minnesota,Marital Status,TRUE,TRUE,42.6,39.2,46,394
+Utah,Marital Status,TRUE,FALSE,66.7,63.6,69.7,753
+Minnesota,Marital Status,TRUE,FALSE,57.4,54,60.8,500
+Michigan,Marital Status,TRUE,TRUE,40.1,36.6,43.8,367
+Michigan,Marital Status,TRUE,FALSE,59.9,56.2,63.4,498
+Hawaii,Marital Status,TRUE,FALSE,54.6,50.5,58.7,515
+Maryland,Marital Status,TRUE,TRUE,38.8,34.1,43.7,416
+West Virginia,Marital Status,TRUE,FALSE,63.8,59.7,67.8,523
+Maryland,Marital Status,TRUE,FALSE,61.2,56.3,65.9,545
+West Virginia,Marital Status,TRUE,TRUE,36.2,32.2,40.3,284
+New Jersey,Marital Status,TRUE,FALSE,62,58.4,65.5,533
+Maine,Marital Status,TRUE,TRUE,44.2,39.8,48.7,280
+Utah,Marital Status,TRUE,TRUE,33.3,30.3,36.4,380
+Hawaii,Marital Status,TRUE,TRUE,45.4,41.3,49.5,387
+PRAMS Total,Marital Status,FALSE,FALSE,76,74.1,77.8,3265
+PRAMS Total,Marital Status,FALSE,TRUE,24,22.2,25.9,1122
+New Jersey,Marital Status,FALSE,TRUE,25,21.1,29.4,130
+Maryland,Marital Status,FALSE,TRUE,17.8,13.2,23.6,96
+Hawaii,Marital Status,FALSE,FALSE,66.9,61.8,71.7,445
+West Virginia,Marital Status,FALSE,TRUE,23.5,19.8,27.5,183
+Hawaii,Marital Status,FALSE,TRUE,33.1,28.3,38.2,200
+Minnesota,Marital Status,FALSE,FALSE,67.8,62.2,72.9,309
+West Virginia,Marital Status,FALSE,FALSE,76.5,72.5,80.2,588
+New Jersey,Marital Status,FALSE,FALSE,75,70.6,78.9,404
+Maine,Marital Status,FALSE,TRUE,19.4,15.3,24.4,90
+Michigan,Marital Status,FALSE,TRUE,23,19.6,26.6,208
+Maine,Marital Status,FALSE,FALSE,80.6,75.6,84.7,328
+Michigan,Marital Status,FALSE,FALSE,77,73.4,80.4,569
+Maryland,Marital Status,FALSE,FALSE,82.2,76.4,86.8,394
+Utah,Marital Status,FALSE,TRUE,22.2,17.1,28.4,60
+Utah,Marital Status,FALSE,FALSE,77.8,71.6,82.9,228
+Minnesota,Marital Status,FALSE,TRUE,32.2,27.1,37.8,155
+PRAMS Total,Maternal Age (3 Levels),20-29 yrs,FALSE,69.8,68.1,71.4,3853
+PRAMS Total,Maternal Age (3 Levels),20-29 yrs,TRUE,30.2,28.6,31.9,1803
+Michigan,Maternal Age (3 Levels),20-29 yrs,FALSE,70.9,67.3,74.2,609
+Maryland,Maternal Age (3 Levels),20-29 yrs,TRUE,25.5,20.2,31.6,110
+Maryland,Maternal Age (3 Levels),20-29 yrs,FALSE,74.5,68.4,79.8,289
+West Virginia,Maternal Age (3 Levels),20-29 yrs,FALSE,68,64.3,71.5,674
+Maine,Maternal Age (3 Levels),20-29 yrs,TRUE,31,26.7,35.7,182
+Utah,Maternal Age (3 Levels),20-29 yrs,FALSE,70,66.4,73.4,567
+Minnesota,Maternal Age (3 Levels),20-29 yrs,FALSE,63.2,59.1,67,451
+West Virginia,Maternal Age (3 Levels),20-29 yrs,TRUE,32,28.5,35.7,296
+Maine,Maternal Age (3 Levels),20-29 yrs,FALSE,69,64.3,73.3,374
+Minnesota,Maternal Age (3 Levels),20-29 yrs,TRUE,36.8,33,40.9,270
+New Jersey,Maternal Age (3 Levels),20-29 yrs,FALSE,72.3,68.1,76.2,409
+Hawaii,Maternal Age (3 Levels),20-29 yrs,FALSE,61.9,57.2,66.3,480
+Michigan,Maternal Age (3 Levels),20-29 yrs,TRUE,29.1,25.8,32.7,277
+Hawaii,Maternal Age (3 Levels),20-29 yrs,TRUE,38.1,33.7,42.8,256
+New Jersey,Maternal Age (3 Levels),20-29 yrs,TRUE,27.7,23.8,31.9,162
+Utah,Maternal Age (3 Levels),20-29 yrs,TRUE,30,26.6,33.6,250
+PRAMS Total,Maternal Age (3 Levels),30+ yrs,FALSE,61.1,59.3,62.9,2994
+PRAMS Total,Maternal Age (3 Levels),30+ yrs,TRUE,38.9,37.1,40.7,1926
+Maine,Maternal Age (3 Levels),30+ yrs,TRUE,42.5,37.1,48.1,179
+New Jersey,Maternal Age (3 Levels),30+ yrs,TRUE,38.1,34.3,42.1,262
+Minnesota,Maternal Age (3 Levels),30+ yrs,TRUE,42.4,38.1,46.7,250
+Utah,Maternal Age (3 Levels),30+ yrs,TRUE,34.3,29.8,39.2,171
+West Virginia,Maternal Age (3 Levels),30+ yrs,FALSE,68,61.8,73.6,272
+Maryland,Maternal Age (3 Levels),30+ yrs,FALSE,65,60.2,69.5,611
+Utah,Maternal Age (3 Levels),30+ yrs,FALSE,65.7,60.8,70.2,351
+Maryland,Maternal Age (3 Levels),30+ yrs,TRUE,35,30.5,39.8,387
+Michigan,Maternal Age (3 Levels),30+ yrs,TRUE,41.9,37.5,46.4,251
+Michigan,Maternal Age (3 Levels),30+ yrs,FALSE,58.1,53.6,62.5,346
+New Jersey,Maternal Age (3 Levels),30+ yrs,FALSE,61.9,57.9,65.7,463
+Hawaii,Maternal Age (3 Levels),30+ yrs,TRUE,43.7,39,48.5,298
+West Virginia,Maternal Age (3 Levels),30+ yrs,TRUE,32,26.4,38.2,128
+Maine,Maternal Age (3 Levels),30+ yrs,FALSE,57.5,51.9,62.9,224
+Hawaii,Maternal Age (3 Levels),30+ yrs,FALSE,56.3,51.5,61,410
+Minnesota,Maternal Age (3 Levels),30+ yrs,FALSE,57.6,53.3,61.9,317
+PRAMS Total,Maternal Age (3 Levels),<20 yrs,FALSE,73.4,68.6,77.6,620
+PRAMS Total,Maternal Age (3 Levels),<20 yrs,TRUE,26.6,22.4,31.4,218
+West Virginia,Maternal Age (3 Levels),<20 yrs,TRUE,19.9,14,27.4,43
+Michigan,Maternal Age (3 Levels),<20 yrs,TRUE,23.5,16.8,31.7,47
+Minnesota,Maternal Age (3 Levels),<20 yrs,FALSE,56.5,41.2,70.6,41
+Minnesota,Maternal Age (3 Levels),<20 yrs,TRUE,43.5,29.4,58.8,29
+Utah,Maternal Age (3 Levels),<20 yrs,TRUE,19.6,12.2,30.1,20
+Hawaii,Maternal Age (3 Levels),<20 yrs,FALSE,60.2,46.8,72.2,70
+New Jersey,Maternal Age (3 Levels),<20 yrs,TRUE,26.6,17.7,37.9,22
+Maryland,Maternal Age (3 Levels),<20 yrs,FALSE,69.7,51.4,83.3,39
+Utah,Maternal Age (3 Levels),<20 yrs,FALSE,80.4,69.9,87.8,70
+Michigan,Maternal Age (3 Levels),<20 yrs,FALSE,76.5,68.3,83.2,113
+New Jersey,Maternal Age (3 Levels),<20 yrs,FALSE,73.4,62.1,82.3,65
+Hawaii,Maternal Age (3 Levels),<20 yrs,TRUE,39.8,27.8,53.2,33
+Maryland,Maternal Age (3 Levels),<20 yrs,TRUE,30.3,16.7,48.6,15
+Maine,Maternal Age (3 Levels),<20 yrs,FALSE,86.4,72.7,93.8,57
+West Virginia,Maternal Age (3 Levels),<20 yrs,FALSE,80.1,72.6,86,165
+Maine,Maternal Age (3 Levels),<20 yrs,TRUE,13.6,6.2,27.3,9
+PRAMS Total,Maternal Age (4 Levels),20-24 yrs,FALSE,74.4,71.9,76.7,1801
+PRAMS Total,Maternal Age (4 Levels),20-24 yrs,TRUE,25.6,23.3,28.1,716
+Maine,Maternal Age (4 Levels),20-24 yrs,TRUE,28.3,21.9,35.7,68
+West Virginia,Maternal Age (4 Levels),20-24 yrs,FALSE,68.7,63.6,73.3,370
+West Virginia,Maternal Age (4 Levels),20-24 yrs,TRUE,31.3,26.7,36.4,161
+Maryland,Maternal Age (4 Levels),20-24 yrs,TRUE,21.7,14,32.1,37
+Maine,Maternal Age (4 Levels),20-24 yrs,FALSE,71.7,64.3,78.1,167
+Utah,Maternal Age (4 Levels),20-24 yrs,FALSE,75.4,69.8,80.3,250
+Minnesota,Maternal Age (4 Levels),20-24 yrs,TRUE,35.7,29,43,91
+Hawaii,Maternal Age (4 Levels),20-24 yrs,TRUE,32.2,26.1,38.9,106
+Minnesota,Maternal Age (4 Levels),20-24 yrs,FALSE,64.3,57,71,163
+Hawaii,Maternal Age (4 Levels),20-24 yrs,FALSE,67.8,61.1,73.9,238
+New Jersey,Maternal Age (4 Levels),20-24 yrs,FALSE,78.5,72.2,83.7,181
+Michigan,Maternal Age (4 Levels),20-24 yrs,TRUE,23.3,18.9,28.3,116
+Michigan,Maternal Age (4 Levels),20-24 yrs,FALSE,76.7,71.7,81.1,314
+Utah,Maternal Age (4 Levels),20-24 yrs,TRUE,24.6,19.7,30.2,81
+Maryland,Maternal Age (4 Levels),20-24 yrs,FALSE,78.3,67.9,86,118
+New Jersey,Maternal Age (4 Levels),20-24 yrs,TRUE,21.5,16.3,27.8,56
+PRAMS Total,Maternal Age (4 Levels),25-34 yrs,FALSE,63.8,62.1,65.4,3758
+PRAMS Total,Maternal Age (4 Levels),25-34 yrs,TRUE,36.2,34.6,37.9,2193
+Maryland,Maternal Age (4 Levels),25-34 yrs,FALSE,69.6,64.2,74.4,337
+Utah,Maternal Age (4 Levels),25-34 yrs,FALSE,66.6,63,70.1,570
+West Virginia,Maternal Age (4 Levels),25-34 yrs,FALSE,64.9,60.3,69.2,483
+Minnesota,Maternal Age (4 Levels),25-34 yrs,TRUE,39.4,35.9,42.9,352
+New Jersey,Maternal Age (4 Levels),25-34 yrs,TRUE,34.9,31.3,38.7,259
+New Jersey,Maternal Age (4 Levels),25-34 yrs,FALSE,65.1,61.3,68.7,524
+Minnesota,Maternal Age (4 Levels),25-34 yrs,FALSE,60.6,57.1,64.1,508
+Michigan,Maternal Age (4 Levels),25-34 yrs,TRUE,39.3,35.7,43.1,337
+Hawaii,Maternal Age (4 Levels),25-34 yrs,TRUE,44.5,40.2,48.9,334
+Maryland,Maternal Age (4 Levels),25-34 yrs,TRUE,30.4,25.6,35.8,168
+Hawaii,Maternal Age (4 Levels),25-34 yrs,FALSE,55.5,51.1,59.8,480
+Maine,Maternal Age (4 Levels),25-34 yrs,TRUE,37,32.6,41.7,224
+Michigan,Maternal Age (4 Levels),25-34 yrs,FALSE,60.7,56.9,64.3,506
+Utah,Maternal Age (4 Levels),25-34 yrs,TRUE,33.4,29.9,37,288
+West Virginia,Maternal Age (4 Levels),25-34 yrs,TRUE,35.1,30.8,39.7,231
+Maine,Maternal Age (4 Levels),25-34 yrs,FALSE,63,58.3,67.4,350
+PRAMS Total,Maternal Age (4 Levels),35+ yrs,FALSE,61.9,58.9,64.7,1288
+PRAMS Total,Maternal Age (4 Levels),35+ yrs,TRUE,38.1,35.3,41.1,820
+Utah,Maternal Age (4 Levels),35+ yrs,FALSE,62.3,52.7,71,98
+New Jersey,Maternal Age (4 Levels),35+ yrs,FALSE,60.2,53.8,66.3,167
+Minnesota,Maternal Age (4 Levels),35+ yrs,TRUE,44.1,36.4,52.1,77
+West Virginia,Maternal Age (4 Levels),35+ yrs,TRUE,14.4,8.2,24,32
+New Jersey,Maternal Age (4 Levels),35+ yrs,TRUE,39.8,33.7,46.2,109
+Michigan,Maternal Age (4 Levels),35+ yrs,FALSE,66.4,58.9,73.2,135
+Maryland,Maternal Age (4 Levels),35+ yrs,FALSE,62.6,58.4,66.6,445
+Maine,Maternal Age (4 Levels),35+ yrs,FALSE,57.6,48.4,66.4,81
+Maine,Maternal Age (4 Levels),35+ yrs,TRUE,42.4,33.6,51.6,69
+Hawaii,Maternal Age (4 Levels),35+ yrs,FALSE,59,51.3,66.2,172
+Utah,Maternal Age (4 Levels),35+ yrs,TRUE,37.7,29,47.3,52
+Maryland,Maternal Age (4 Levels),35+ yrs,TRUE,37.4,33.4,41.6,292
+West Virginia,Maternal Age (4 Levels),35+ yrs,FALSE,85.6,76,91.8,93
+Minnesota,Maternal Age (4 Levels),35+ yrs,FALSE,55.9,47.9,63.6,97
+Hawaii,Maternal Age (4 Levels),35+ yrs,TRUE,41,33.8,48.7,114
+Michigan,Maternal Age (4 Levels),35+ yrs,TRUE,33.6,26.8,41.1,75
+PRAMS Total,Maternal Age (4 Levels),<20 yrs,FALSE,73.4,68.6,77.6,620
+PRAMS Total,Maternal Age (4 Levels),<20 yrs,TRUE,26.6,22.4,31.4,218
+Maryland,Maternal Age (4 Levels),<20 yrs,TRUE,30.3,16.7,48.6,15
+Michigan,Maternal Age (4 Levels),<20 yrs,FALSE,76.5,68.3,83.2,113
+West Virginia,Maternal Age (4 Levels),<20 yrs,FALSE,80.1,72.6,86,165
+Hawaii,Maternal Age (4 Levels),<20 yrs,TRUE,39.8,27.8,53.2,33
+Utah,Maternal Age (4 Levels),<20 yrs,FALSE,80.4,69.9,87.8,70
+Maryland,Maternal Age (4 Levels),<20 yrs,FALSE,69.7,51.4,83.3,39
+Minnesota,Maternal Age (4 Levels),<20 yrs,TRUE,43.5,29.4,58.8,29
+Utah,Maternal Age (4 Levels),<20 yrs,TRUE,19.6,12.2,30.1,20
+New Jersey,Maternal Age (4 Levels),<20 yrs,TRUE,26.6,17.7,37.9,22
+Hawaii,Maternal Age (4 Levels),<20 yrs,FALSE,60.2,46.8,72.2,70
+West Virginia,Maternal Age (4 Levels),<20 yrs,TRUE,19.9,14,27.4,43
+Maine,Maternal Age (4 Levels),<20 yrs,FALSE,86.4,72.7,93.8,57
+New Jersey,Maternal Age (4 Levels),<20 yrs,FALSE,73.4,62.1,82.3,65
+Minnesota,Maternal Age (4 Levels),<20 yrs,FALSE,56.5,41.2,70.6,41
+Maine,Maternal Age (4 Levels),<20 yrs,TRUE,13.6,6.2,27.3,9
+Michigan,Maternal Age (4 Levels),<20 yrs,TRUE,23.5,16.8,31.7,47
+PRAMS Total,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,74,71.7,76.1,2233
+PRAMS Total,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,26,23.9,28.3,881
+Maine,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,26.2,20.5,32.7,76
+New Jersey,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,22.8,18,28.3,74
+Minnesota,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,35,28.9,41.7,106
+Utah,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,24.1,19.7,29.2,97
+Maryland,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,75.1,65.8,82.5,143
+Minnesota,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,65,58.3,71.1,196
+West Virginia,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,29.3,25.3,33.8,194
+Maine,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,73.8,67.3,79.5,209
+Utah,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,75.9,70.8,80.3,298
+Hawaii,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,66.2,60,72,280
+New Jersey,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,77.2,71.7,82,231
+Michigan,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,24.1,20.2,28.5,154
+Maryland,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,24.9,17.5,34.2,50
+Hawaii,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,TRUE,33.8,28,40,130
+Michigan,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,75.9,71.5,79.8,390
+West Virginia,Maternal Age - 18 to 44 years in groupings,Age 18 - 24,FALSE,70.7,66.2,74.7,486
+PRAMS Total,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,65.9,63.8,67.9,2467
+PRAMS Total,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,34.1,32.1,36.2,1348
+Maryland,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,73.2,66.2,79.3,212
+Minnesota,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,36.9,32.7,41.2,217
+Utah,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,34,29.8,38.4,200
+New Jersey,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,66.4,61.4,71.1,292
+New Jersey,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,33.6,28.9,38.6,142
+Michigan,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,35.6,31.2,40.3,199
+West Virginia,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,33.4,28.5,38.7,161
+Maine,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,35.5,30.2,41.2,141
+Michigan,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,64.4,59.7,68.8,345
+Maine,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,64.5,58.8,69.8,238
+Hawaii,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,43.5,38,49.2,199
+Utah,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,66,61.6,70.2,370
+Hawaii,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,56.5,50.8,62,303
+Minnesota,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,63.1,58.8,67.3,352
+Maryland,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,TRUE,26.8,20.7,33.8,89
+West Virginia,Maternal Age - 18 to 44 years in groupings,Age 25 - 29,FALSE,66.6,61.3,71.5,355
+PRAMS Total,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,60.8,58.8,62.8,2563
+PRAMS Total,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,39.2,37.2,41.2,1652
+Maine,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,58.6,52.6,64.4,190
+West Virginia,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,31,24.8,38,101
+Utah,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,66.1,60.8,71.1,298
+Minnesota,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,56,51.1,60.8,253
+Michigan,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,58.5,53.6,63.3,294
+Utah,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,33.9,28.9,39.2,139
+West Virginia,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,69,62,75.2,219
+Maryland,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,36.7,31.9,41.7,364
+Minnesota,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,44,39.2,48.9,211
+Michigan,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,41.5,36.7,46.4,212
+Hawaii,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,43.9,38.8,49.2,248
+New Jersey,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,38.2,34.1,42.4,226
+Hawaii,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,56.1,50.8,61.2,347
+Maryland,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,63.3,58.3,68.1,565
+Maine,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,TRUE,41.4,35.6,47.4,151
+New Jersey,Maternal Age - 18 to 44 years in groupings,Age 30 - 44,FALSE,61.8,57.6,65.9,397
+PRAMS Total,Maternal Age - 18 to 44 years in groupings,Age < 18,FALSE,76.7,67.6,83.8,188
+PRAMS Total,Maternal Age - 18 to 44 years in groupings,Age < 18,TRUE,23.3,16.2,32.4,53
+Michigan,Maternal Age - 18 to 44 years in groupings,Age < 18,TRUE,15.3,6.9,30.4,9
+Hawaii,Maternal Age - 18 to 44 years in groupings,Age < 18,FALSE,67.6,43.4,85,28
+Hawaii,Maternal Age - 18 to 44 years in groupings,Age < 18,TRUE,32.4,15,56.6,9
+West Virginia,Maternal Age - 18 to 44 years in groupings,Age < 18,FALSE,84.6,70.2,92.7,49
+Michigan,Maternal Age - 18 to 44 years in groupings,Age < 18,FALSE,84.7,69.6,93.1,37
+West Virginia,Maternal Age - 18 to 44 years in groupings,Age < 18,TRUE,15.4,7.3,29.8,10
+PRAMS Total,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,66.2,65,67.4,7263
+PRAMS Total,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,33.8,32.6,35,3881
+Maryland,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,30.4,26.9,34.2,503
+New Jersey,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,33.2,30.5,36,442
+Michigan,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,33.5,30.9,36.2,565
+West Virginia,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,31.1,28.2,34.1,456
+Hawaii,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,59.1,55.8,62.2,930
+Utah,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,31.2,28.5,34,436
+Maine,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,65.2,61.7,68.5,637
+Maine,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,34.8,31.5,38.3,368
+Minnesota,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,61,58.1,63.8,801
+Michigan,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,66.5,63.8,69.1,1029
+West Virginia,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,68.9,65.9,71.8,1060
+Utah,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,68.8,66,71.5,966
+Hawaii,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,40.9,37.8,44.2,577
+Minnesota,Maternal Age - 18 to 44 years only,Age 18 - 44,TRUE,39,36.2,41.9,534
+Maryland,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,69.6,65.8,73.1,920
+New Jersey,Maternal Age - 18 to 44 years only,Age 18 - 44,FALSE,66.8,64,69.5,920
+PRAMS Total,Maternal Education,12 yrs,FALSE,73.6,71.2,75.8,2215
+PRAMS Total,Maternal Education,12 yrs,TRUE,26.4,24.2,28.8,867
+Utah,Maternal Education,12 yrs,FALSE,74.6,68.3,80,190
+Maryland,Maternal Education,12 yrs,TRUE,21.6,14.9,30.3,63
+Michigan,Maternal Education,12 yrs,FALSE,74.5,69.3,79,310
+Hawaii,Maternal Education,12 yrs,FALSE,62.2,57.2,66.9,417
+Utah,Maternal Education,12 yrs,TRUE,25.4,20,31.7,61
+Maryland,Maternal Education,12 yrs,FALSE,78.4,69.7,85.1,194
+Hawaii,Maternal Education,12 yrs,TRUE,37.8,33.1,42.8,235
+New Jersey,Maternal Education,12 yrs,FALSE,75.9,70.4,80.6,260
+Maine,Maternal Education,12 yrs,FALSE,75.6,69.9,80.6,247
+Maine,Maternal Education,12 yrs,TRUE,24.4,19.4,30.1,88
+West Virginia,Maternal Education,12 yrs,FALSE,76.2,71.5,80.4,439
+Minnesota,Maternal Education,12 yrs,FALSE,65.9,58.4,72.6,158
+Minnesota,Maternal Education,12 yrs,TRUE,34.1,27.4,41.6,84
+West Virginia,Maternal Education,12 yrs,TRUE,23.8,19.6,28.5,135
+Michigan,Maternal Education,12 yrs,TRUE,25.5,21,30.7,118
+New Jersey,Maternal Education,12 yrs,TRUE,24.1,19.4,29.6,83
+PRAMS Total,Maternal Education,< 12 yrs,FALSE,74.5,71,77.6,1029
+PRAMS Total,Maternal Education,< 12 yrs,TRUE,25.5,22.4,29,397
+Maryland,Maternal Education,< 12 yrs,TRUE,24.9,16.1,36.5,33
+Michigan,Maternal Education,< 12 yrs,TRUE,26.4,20.1,33.7,72
+Utah,Maternal Education,< 12 yrs,FALSE,76.6,71.2,81.3,214
+Maine,Maternal Education,< 12 yrs,FALSE,75.3,61.3,85.5,54
+Maine,Maternal Education,< 12 yrs,TRUE,24.7,14.5,38.7,21
+Hawaii,Maternal Education,< 12 yrs,TRUE,35.4,24.3,48.4,35
+Michigan,Maternal Education,< 12 yrs,FALSE,73.6,66.3,79.9,143
+Maryland,Maternal Education,< 12 yrs,FALSE,75.1,63.5,83.9,117
+Minnesota,Maternal Education,< 12 yrs,FALSE,68.1,57.6,77.1,85
+New Jersey,Maternal Education,< 12 yrs,FALSE,80.1,72.8,85.8,122
+Utah,Maternal Education,< 12 yrs,TRUE,23.4,18.7,28.8,68
+New Jersey,Maternal Education,< 12 yrs,TRUE,19.9,14.2,27.2,39
+West Virginia,Maternal Education,< 12 yrs,TRUE,30.9,24.5,38.1,88
+West Virginia,Maternal Education,< 12 yrs,FALSE,69.1,61.9,75.5,228
+Hawaii,Maternal Education,< 12 yrs,FALSE,64.6,51.6,75.7,66
+Minnesota,Maternal Education,< 12 yrs,TRUE,31.9,22.9,42.4,41
+PRAMS Total,Maternal Education,>12 yrs,FALSE,62.1,60.6,63.6,4147
+PRAMS Total,Maternal Education,>12 yrs,TRUE,37.9,36.4,39.4,2654
+West Virginia,Maternal Education,>12 yrs,FALSE,65,60.6,69.2,442
+Maine,Maternal Education,>12 yrs,FALSE,59,54.6,63.3,350
+Minnesota,Maternal Education,>12 yrs,FALSE,57.6,54.3,60.8,562
+Maryland,Maternal Education,>12 yrs,TRUE,34.1,29.7,38.7,411
+Michigan,Maternal Education,>12 yrs,TRUE,37.5,34.2,41,383
+Minnesota,Maternal Education,>12 yrs,TRUE,42.4,39.2,45.7,424
+Hawaii,Maternal Education,>12 yrs,FALSE,56.6,52,61,468
+Michigan,Maternal Education,>12 yrs,FALSE,62.5,59,65.8,610
+Maine,Maternal Education,>12 yrs,TRUE,41,36.7,45.4,261
+Hawaii,Maternal Education,>12 yrs,TRUE,43.4,39,48,312
+Utah,Maternal Education,>12 yrs,FALSE,66,62.3,69.5,539
+West Virginia,Maternal Education,>12 yrs,TRUE,35,30.8,39.4,244
+New Jersey,Maternal Education,>12 yrs,TRUE,39,35.5,42.6,322
+New Jersey,Maternal Education,>12 yrs,FALSE,61,57.4,64.5,553
+Maryland,Maternal Education,>12 yrs,FALSE,65.9,61.3,70.3,623
+Utah,Maternal Education,>12 yrs,TRUE,34,30.5,37.7,297
+PRAMS Total,Maternal Race/Ethnicity,"Black, non-Hispanic",FALSE,69.9,66.8,72.8,1039
+PRAMS Total,Maternal Race/Ethnicity,"Black, non-Hispanic",TRUE,30.1,27.2,33.2,533
+Minnesota,Maternal Race/Ethnicity,"Black, non-Hispanic",TRUE,45.6,36,55.6,65
+Michigan,Maternal Race/Ethnicity,"Black, non-Hispanic",FALSE,66.8,62.7,70.6,403
+Minnesota,Maternal Race/Ethnicity,"Black, non-Hispanic",FALSE,54.4,44.4,64,74
+Maryland,Maternal Race/Ethnicity,"Black, non-Hispanic",TRUE,23.5,17.7,30.3,136
+West Virginia,Maternal Race/Ethnicity,"Black, non-Hispanic",FALSE,62,40.5,79.6,25
+West Virginia,Maternal Race/Ethnicity,"Black, non-Hispanic",TRUE,38,20.4,59.5,16
+New Jersey,Maternal Race/Ethnicity,"Black, non-Hispanic",TRUE,30.9,25,37.6,77
+New Jersey,Maternal Race/Ethnicity,"Black, non-Hispanic",FALSE,69.1,62.4,75,173
+Michigan,Maternal Race/Ethnicity,"Black, non-Hispanic",TRUE,33.2,29.4,37.3,216
+Maryland,Maternal Race/Ethnicity,"Black, non-Hispanic",FALSE,76.5,69.7,82.3,330
+PRAMS Total,Maternal Race/Ethnicity,TRUE,FALSE,73.8,70.5,76.9,935
+PRAMS Total,Maternal Race/Ethnicity,TRUE,TRUE,26.2,23.1,29.5,347
+Michigan,Maternal Race/Ethnicity,TRUE,TRUE,31.5,20.7,44.8,19
+Minnesota,Maternal Race/Ethnicity,TRUE,FALSE,66.7,54.1,77.3,51
+Maryland,Maternal Race/Ethnicity,TRUE,TRUE,24.1,16.3,34,53
+Hawaii,Maternal Race/Ethnicity,TRUE,TRUE,33.6,26.7,41.3,86
+Utah,Maternal Race/Ethnicity,TRUE,TRUE,27,21.3,33.6,75
+Hawaii,Maternal Race/Ethnicity,TRUE,FALSE,66.4,58.7,73.3,184
+Maryland,Maternal Race/Ethnicity,TRUE,FALSE,75.9,66,83.7,145
+Minnesota,Maternal Race/Ethnicity,TRUE,TRUE,33.3,22.7,45.9,27
+Utah,Maternal Race/Ethnicity,TRUE,FALSE,73,66.4,78.7,225
+New Jersey,Maternal Race/Ethnicity,TRUE,TRUE,23.2,18.9,28.2,79
+Michigan,Maternal Race/Ethnicity,TRUE,FALSE,68.5,55.2,79.3,47
+New Jersey,Maternal Race/Ethnicity,TRUE,FALSE,76.8,71.8,81.1,267
+PRAMS Total,Maternal Race/Ethnicity,Other non-Hispanic,FALSE,64.1,61,67.2,1184
+PRAMS Total,Maternal Race/Ethnicity,Other non-Hispanic,TRUE,35.9,32.8,39,720
+Maine,Maternal Race/Ethnicity,Other non-Hispanic,FALSE,64.3,43.6,80.7,23
+Hawaii,Maternal Race/Ethnicity,Other non-Hispanic,FALSE,57.1,52.9,61.1,562
+Utah,Maternal Race/Ethnicity,Other non-Hispanic,TRUE,31.4,20.2,45.3,20
+Maine,Maternal Race/Ethnicity,Other non-Hispanic,TRUE,35.7,19.3,56.4,8
+Hawaii,Maternal Race/Ethnicity,Other non-Hispanic,TRUE,42.9,38.9,47.1,379
+Maryland,Maternal Race/Ethnicity,Other non-Hispanic,FALSE,75,63.2,83.9,88
+Maryland,Maternal Race/Ethnicity,Other non-Hispanic,TRUE,25,16.1,36.8,51
+Utah,Maternal Race/Ethnicity,Other non-Hispanic,FALSE,68.6,54.7,79.8,45
+New Jersey,Maternal Race/Ethnicity,Other non-Hispanic,TRUE,31.5,26.4,37.1,103
+Michigan,Maternal Race/Ethnicity,Other non-Hispanic,TRUE,35.1,24.9,46.9,31
+New Jersey,Maternal Race/Ethnicity,Other non-Hispanic,FALSE,68.5,62.9,73.6,207
+Michigan,Maternal Race/Ethnicity,Other non-Hispanic,FALSE,64.9,53.1,75.1,56
+Minnesota,Maternal Race/Ethnicity,Other non-Hispanic,TRUE,40.3,32.7,48.4,117
+Minnesota,Maternal Race/Ethnicity,Other non-Hispanic,FALSE,59.7,51.6,67.3,194
+PRAMS Total,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,64.4,62.8,66,4282
+PRAMS Total,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,35.6,34,37.2,2339
+Hawaii,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,39.7,32.8,47,111
+Minnesota,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,39.8,36.5,43.1,340
+Utah,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,32,28.9,35.2,335
+West Virginia,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,29.8,27,32.8,436
+Hawaii,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,60.3,53,67.2,200
+New Jersey,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,39.8,35.3,44.5,187
+Maryland,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,37.5,32.1,43.3,271
+Michigan,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,67.1,63.7,70.3,558
+Maine,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,34.4,31.1,38,351
+West Virginia,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,70.2,67.2,73,1071
+Maryland,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,62.5,56.7,67.9,375
+Michigan,Maternal Race/Ethnicity,"White, non-Hispanic",TRUE,32.9,29.7,36.3,308
+Utah,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,68,64.8,71.1,692
+Minnesota,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,60.2,56.9,63.5,487
+New Jersey,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,60.2,55.5,64.7,290
+Maine,Maternal Race/Ethnicity,"White, non-Hispanic",FALSE,65.6,62,68.9,609
+PRAMS Total,Medicaid Recipient,TRUE,FALSE,76.1,74.4,77.7,3924
+PRAMS Total,Medicaid Recipient,TRUE,TRUE,23.9,22.3,25.6,1394
+Maryland,Medicaid Recipient,TRUE,FALSE,82.6,76.8,87.2,399
+Michigan,Medicaid Recipient,TRUE,TRUE,23,20,26.3,254
+Minnesota,Medicaid Recipient,TRUE,TRUE,28.5,24,33.5,157
+New Jersey,Medicaid Recipient,TRUE,FALSE,76.9,72.6,80.7,397
+Utah,Medicaid Recipient,TRUE,TRUE,26.4,22.4,30.9,148
+New Jersey,Medicaid Recipient,TRUE,TRUE,23.1,19.3,27.4,122
+West Virginia,Medicaid Recipient,TRUE,TRUE,25.9,22.6,29.4,265
+Utah,Medicaid Recipient,TRUE,FALSE,73.6,69.1,77.6,424
+Minnesota,Medicaid Recipient,TRUE,FALSE,71.5,66.5,76,348
+Hawaii,Medicaid Recipient,TRUE,TRUE,34.7,29.9,39.7,205
+Maine,Medicaid Recipient,TRUE,FALSE,75.7,71.2,79.7,422
+Michigan,Medicaid Recipient,TRUE,FALSE,77,73.7,80,688
+Hawaii,Medicaid Recipient,TRUE,FALSE,65.3,60.3,70.1,447
+West Virginia,Medicaid Recipient,TRUE,FALSE,74.1,70.6,77.4,799
+Maine,Medicaid Recipient,TRUE,TRUE,24.3,20.3,28.8,143
+Maryland,Medicaid Recipient,TRUE,TRUE,17.4,12.8,23.2,100
+PRAMS Total,Medicaid Recipient,FALSE,FALSE,59.4,57.7,61,3544
+PRAMS Total,Medicaid Recipient,FALSE,TRUE,40.6,39,42.3,2553
+Hawaii,Medicaid Recipient,FALSE,FALSE,55.6,51.4,59.7,513
+Maryland,Medicaid Recipient,FALSE,TRUE,38,33.3,42.9,412
+Utah,Medicaid Recipient,FALSE,FALSE,66.4,62.8,69.9,565
+Minnesota,Medicaid Recipient,FALSE,TRUE,45.2,41.7,48.7,392
+Michigan,Medicaid Recipient,FALSE,FALSE,55.5,51.4,59.5,380
+Hawaii,Medicaid Recipient,FALSE,TRUE,44.4,40.3,48.6,382
+Maine,Medicaid Recipient,FALSE,TRUE,46.1,41.1,51.2,227
+Maine,Medicaid Recipient,FALSE,FALSE,53.9,48.8,58.9,233
+West Virginia,Medicaid Recipient,FALSE,FALSE,61.9,56.8,66.8,312
+Minnesota,Medicaid Recipient,FALSE,FALSE,54.8,51.3,58.3,461
+Utah,Medicaid Recipient,FALSE,TRUE,33.6,30.1,37.2,293
+New Jersey,Medicaid Recipient,FALSE,FALSE,61.3,57.6,64.7,540
+Maryland,Medicaid Recipient,FALSE,FALSE,62,57.1,66.7,540
+New Jersey,Medicaid Recipient,FALSE,TRUE,38.7,35.3,42.4,324
+West Virginia,Medicaid Recipient,FALSE,TRUE,38.1,33.2,43.2,202
+Michigan,Medicaid Recipient,FALSE,TRUE,44.5,40.5,48.6,321
+PRAMS Total,Mother Hispanic,TRUE,TRUE,26.2,23.1,29.5,347
+PRAMS Total,Mother Hispanic,TRUE,FALSE,73.8,70.5,76.9,935
+Minnesota,Mother Hispanic,TRUE,TRUE,33.3,22.7,45.9,27
+Michigan,Mother Hispanic,TRUE,TRUE,31.5,20.7,44.8,19
+Utah,Mother Hispanic,TRUE,TRUE,27,21.3,33.6,75
+Utah,Mother Hispanic,TRUE,FALSE,73,66.4,78.7,225
+New Jersey,Mother Hispanic,TRUE,FALSE,76.8,71.8,81.1,267
+Hawaii,Mother Hispanic,TRUE,FALSE,66.4,58.7,73.3,184
+Maryland,Mother Hispanic,TRUE,TRUE,24.1,16.3,34,53
+Maryland,Mother Hispanic,TRUE,FALSE,75.9,66,83.7,145
+New Jersey,Mother Hispanic,TRUE,TRUE,23.2,18.9,28.2,79
+Minnesota,Mother Hispanic,TRUE,FALSE,66.7,54.1,77.3,51
+Michigan,Mother Hispanic,TRUE,FALSE,68.5,55.2,79.3,47
+Hawaii,Mother Hispanic,TRUE,TRUE,33.6,26.7,41.3,86
+PRAMS Total,Mother Hispanic,FALSE,FALSE,65.3,64,66.5,6514
+PRAMS Total,Mother Hispanic,FALSE,TRUE,34.7,33.5,36,3593
+Minnesota,Mother Hispanic,FALSE,FALSE,59.9,56.9,62.8,748
+Minnesota,Mother Hispanic,FALSE,TRUE,40.1,37.2,43.1,518
+West Virginia,Mother Hispanic,FALSE,FALSE,69.8,66.9,72.6,1102
+Utah,Mother Hispanic,FALSE,FALSE,68.2,65.1,71.1,764
+Maine,Mother Hispanic,FALSE,TRUE,34.4,31.1,37.9,366
+Maryland,Mother Hispanic,FALSE,TRUE,31.4,27.5,35.5,459
+Maryland,Mother Hispanic,FALSE,FALSE,68.6,64.5,72.5,794
+Michigan,Mother Hispanic,FALSE,TRUE,33.1,30.5,35.8,555
+Hawaii,Mother Hispanic,FALSE,TRUE,42.2,38.7,45.7,501
+Utah,Mother Hispanic,FALSE,TRUE,31.8,28.9,34.9,366
+New Jersey,Mother Hispanic,FALSE,FALSE,63.4,60.1,66.7,669
+Michigan,Mother Hispanic,FALSE,FALSE,66.9,64.2,69.5,1017
+Hawaii,Mother Hispanic,FALSE,FALSE,57.8,54.3,61.3,776
+New Jersey,Mother Hispanic,FALSE,TRUE,36.6,33.3,39.9,366
+Maine,Mother Hispanic,FALSE,FALSE,65.6,62.1,68.9,644
+West Virginia,Mother Hispanic,FALSE,TRUE,30.2,27.4,33.1,462
+PRAMS Total,None,None,FALSE,66.4,65.2,67.6,7468
+PRAMS Total,None,None,TRUE,33.6,32.4,34.8,3947
+Utah,None,None,TRUE,31,28.3,33.8,441
+West Virginia,None,None,FALSE,69.6,66.6,72.3,1111
+New Jersey,None,None,FALSE,67,64.2,69.6,937
+Michigan,None,None,FALSE,67.1,64.4,69.6,1068
+Maryland,None,None,TRUE,30.2,26.7,34,512
+West Virginia,None,None,TRUE,30.4,27.7,33.4,467
+Michigan,None,None,TRUE,32.9,30.4,35.6,575
+Minnesota,None,None,TRUE,39.5,36.7,42.5,549
+Maine,None,None,FALSE,65.8,62.4,69.1,655
+New Jersey,None,None,TRUE,33,30.4,35.8,446
+Maine,None,None,TRUE,34.2,30.9,37.6,370
+Maryland,None,None,FALSE,69.8,66,73.3,939
+Hawaii,None,None,FALSE,59.3,56.1,62.4,960
+Minnesota,None,None,FALSE,60.5,57.5,63.3,809
+Hawaii,None,None,TRUE,40.7,37.6,43.9,587
+Utah,None,None,FALSE,69,66.2,71.7,989
+PRAMS Total,Number of Previous Live Births,0,FALSE,63.7,61.7,65.6,2984
+PRAMS Total,Number of Previous Live Births,0,TRUE,36.3,34.4,38.3,1671
+West Virginia,Number of Previous Live Births,0,FALSE,71.7,67.3,75.7,509
+Minnesota,Number of Previous Live Births,0,TRUE,42.2,37.8,46.8,240
+Minnesota,Number of Previous Live Births,0,FALSE,57.8,53.2,62.2,316
+Michigan,Number of Previous Live Births,0,FALSE,66.4,62.3,70.3,452
+Maryland,Number of Previous Live Births,0,FALSE,66.4,59.8,72.3,307
+Utah,Number of Previous Live Births,0,FALSE,69.3,64.2,74,298
+Hawaii,Number of Previous Live Births,0,FALSE,61.1,56,65.9,413
+Michigan,Number of Previous Live Births,0,TRUE,33.6,29.7,37.7,247
+Maine,Number of Previous Live Births,0,FALSE,64,59.1,68.6,323
+Hawaii,Number of Previous Live Births,0,TRUE,38.9,34.1,44,238
+Utah,Number of Previous Live Births,0,TRUE,30.7,26,35.8,142
+New Jersey,Number of Previous Live Births,0,FALSE,59.3,54.9,63.6,366
+West Virginia,Number of Previous Live Births,0,TRUE,28.3,24.3,32.7,190
+Maryland,Number of Previous Live Births,0,TRUE,33.6,27.7,40.2,201
+Maine,Number of Previous Live Births,0,TRUE,36,31.4,40.9,189
+New Jersey,Number of Previous Live Births,0,TRUE,40.7,36.4,45.1,224
+PRAMS Total,Number of Previous Live Births,1 or more,FALSE,68.3,66.8,69.8,4438
+PRAMS Total,Number of Previous Live Births,1 or more,TRUE,31.7,30.2,33.2,2243
+West Virginia,Number of Previous Live Births,1 or more,FALSE,67.9,63.9,71.7,602
+Maryland,Number of Previous Live Births,1 or more,TRUE,28.2,23.9,33,290
+Michigan,Number of Previous Live Births,1 or more,TRUE,32.5,29.2,36,328
+Minnesota,Number of Previous Live Births,1 or more,TRUE,37.6,33.9,41.5,299
+Hawaii,Number of Previous Live Births,1 or more,FALSE,58.1,53.9,62.2,547
+New Jersey,Number of Previous Live Births,1 or more,TRUE,27.6,24.4,31.2,222
+Maine,Number of Previous Live Births,1 or more,TRUE,32.6,28.1,37.5,181
+Maine,Number of Previous Live Births,1 or more,FALSE,67.4,62.5,71.9,332
+Maryland,Number of Previous Live Births,1 or more,FALSE,71.8,67,76.1,604
+New Jersey,Number of Previous Live Births,1 or more,FALSE,72.4,68.8,75.6,571
+Minnesota,Number of Previous Live Births,1 or more,FALSE,62.4,58.5,66.1,476
+West Virginia,Number of Previous Live Births,1 or more,TRUE,32.1,28.3,36.1,277
+Utah,Number of Previous Live Births,1 or more,FALSE,68.9,65.5,72.1,691
+Hawaii,Number of Previous Live Births,1 or more,TRUE,41.9,37.8,46.1,348
+Utah,Number of Previous Live Births,1 or more,TRUE,31.1,27.9,34.5,298
+Michigan,Number of Previous Live Births,1 or more,FALSE,67.5,64,70.8,615
+PRAMS Total,On WIC during Pregnancy,FALSE,FALSE,60.8,59.1,62.4,3711
+PRAMS Total,On WIC during Pregnancy,FALSE,TRUE,39.2,37.6,40.9,2485
+Maine,On WIC during Pregnancy,FALSE,FALSE,60.3,55.7,64.6,335
+Minnesota,On WIC during Pregnancy,FALSE,FALSE,56.4,52.8,60,449
+Maryland,On WIC during Pregnancy,FALSE,FALSE,61.9,56.9,66.7,504
+Minnesota,On WIC during Pregnancy,FALSE,TRUE,43.6,40,47.2,348
+Hawaii,On WIC during Pregnancy,FALSE,FALSE,56.7,52.3,61,476
+Maine,On WIC during Pregnancy,FALSE,TRUE,39.7,35.4,44.3,252
+Utah,On WIC during Pregnancy,FALSE,TRUE,32.7,29.4,36.2,307
+West Virginia,On WIC during Pregnancy,FALSE,FALSE,63.8,58.9,68.4,365
+Michigan,On WIC during Pregnancy,FALSE,FALSE,58.5,54.5,62.4,422
+West Virginia,On WIC during Pregnancy,FALSE,TRUE,36.2,31.6,41.1,214
+Michigan,On WIC during Pregnancy,FALSE,TRUE,41.5,37.6,45.5,320
+Maryland,On WIC during Pregnancy,FALSE,TRUE,38.1,33.3,43.1,389
+New Jersey,On WIC during Pregnancy,FALSE,TRUE,38.5,35,42.1,318
+Utah,On WIC during Pregnancy,FALSE,FALSE,67.3,63.8,70.6,614
+Hawaii,On WIC during Pregnancy,FALSE,TRUE,43.3,39,47.7,337
+New Jersey,On WIC during Pregnancy,FALSE,FALSE,61.5,57.9,65,546
+PRAMS Total,On WIC during Pregnancy,TRUE,FALSE,74.2,72.4,75.9,3688
+PRAMS Total,On WIC during Pregnancy,TRUE,TRUE,25.8,24.1,27.6,1424
+Maine,On WIC during Pregnancy,TRUE,TRUE,26.3,21.6,31.6,117
+Utah,On WIC during Pregnancy,TRUE,FALSE,72.7,67.9,77.1,364
+Michigan,On WIC during Pregnancy,TRUE,TRUE,24.4,21.2,27.9,247
+Maryland,On WIC during Pregnancy,TRUE,TRUE,20.7,15.9,26.5,120
+Hawaii,On WIC during Pregnancy,TRUE,FALSE,62.7,58,67.3,476
+Maine,On WIC during Pregnancy,TRUE,FALSE,73.7,68.4,78.4,316
+New Jersey,On WIC during Pregnancy,TRUE,FALSE,76,71.7,79.9,377
+West Virginia,On WIC during Pregnancy,TRUE,TRUE,26.7,23.3,30.3,251
+Hawaii,On WIC during Pregnancy,TRUE,TRUE,37.3,32.7,42,245
+West Virginia,On WIC during Pregnancy,TRUE,FALSE,73.3,69.7,76.7,742
+Minnesota,On WIC during Pregnancy,TRUE,TRUE,32.1,27.6,37.1,190
+Utah,On WIC during Pregnancy,TRUE,TRUE,27.3,22.9,32.1,128
+Minnesota,On WIC during Pregnancy,TRUE,FALSE,67.9,62.9,72.4,350
+New Jersey,On WIC during Pregnancy,TRUE,TRUE,24,20.1,28.3,126
+Maryland,On WIC during Pregnancy,TRUE,FALSE,79.3,73.5,84.1,425
+Michigan,On WIC during Pregnancy,TRUE,FALSE,75.6,72.1,78.8,638
+PRAMS Total,Pregnancy Intendedness,TRUE,FALSE,58.5,56.8,60,3833
+PRAMS Total,Pregnancy Intendedness,TRUE,TRUE,41.5,40,43.2,2886
+Minnesota,Pregnancy Intendedness,TRUE,TRUE,46.1,42.6,49.7,418
+Minnesota,Pregnancy Intendedness,TRUE,FALSE,53.9,50.3,57.4,462
+Utah,Pregnancy Intendedness,TRUE,TRUE,36.7,33.3,40.2,348
+New Jersey,Pregnancy Intendedness,TRUE,FALSE,60.1,56.3,63.7,500
+Michigan,Pregnancy Intendedness,TRUE,FALSE,58.6,54.9,62.2,494
+Maryland,Pregnancy Intendedness,TRUE,TRUE,42.6,37.4,47.8,427
+West Virginia,Pregnancy Intendedness,TRUE,FALSE,62.6,58.3,66.6,505
+Maine,Pregnancy Intendedness,TRUE,TRUE,43.7,39.4,48.1,296
+Hawaii,Pregnancy Intendedness,TRUE,FALSE,52.7,48.3,56.9,471
+Michigan,Pregnancy Intendedness,TRUE,TRUE,41.4,37.8,45.1,393
+Maine,Pregnancy Intendedness,TRUE,FALSE,56.3,51.9,60.6,357
+Utah,Pregnancy Intendedness,TRUE,FALSE,63.3,59.8,66.7,603
+West Virginia,Pregnancy Intendedness,TRUE,TRUE,37.4,33.4,41.7,301
+Hawaii,Pregnancy Intendedness,TRUE,TRUE,47.3,43.1,51.7,384
+Maryland,Pregnancy Intendedness,TRUE,FALSE,57.4,52.2,62.6,441
+New Jersey,Pregnancy Intendedness,TRUE,TRUE,39.9,36.3,43.7,319
+PRAMS Total,Pregnancy Intendedness,FALSE,FALSE,78.9,77.2,80.5,3520
+PRAMS Total,Pregnancy Intendedness,FALSE,TRUE,21.1,19.5,22.8,1004
+Maryland,Pregnancy Intendedness,FALSE,FALSE,83.7,78.4,87.9,474
+Michigan,Pregnancy Intendedness,FALSE,TRUE,21,17.8,24.7,174
+New Jersey,Pregnancy Intendedness,FALSE,TRUE,21.4,17.8,25.5,117
+Maine,Pregnancy Intendedness,FALSE,TRUE,17.4,13.2,22.6,68
+Michigan,Pregnancy Intendedness,FALSE,FALSE,79,75.3,82.2,559
+Utah,Pregnancy Intendedness,FALSE,TRUE,18.5,14.8,22.9,84
+Utah,Pregnancy Intendedness,FALSE,FALSE,81.5,77.1,85.2,373
+Minnesota,Pregnancy Intendedness,FALSE,TRUE,25.1,20.7,30.1,118
+West Virginia,Pregnancy Intendedness,FALSE,TRUE,22.8,19.2,26.8,165
+Maryland,Pregnancy Intendedness,FALSE,TRUE,16.3,12.1,21.6,81
+New Jersey,Pregnancy Intendedness,FALSE,FALSE,78.6,74.5,82.2,423
+Maine,Pregnancy Intendedness,FALSE,FALSE,82.6,77.4,86.8,284
+Minnesota,Pregnancy Intendedness,FALSE,FALSE,74.9,69.9,79.3,333
+Hawaii,Pregnancy Intendedness,FALSE,FALSE,67.4,62.5,71.9,478
+Hawaii,Pregnancy Intendedness,FALSE,TRUE,32.6,28.1,37.5,197
+West Virginia,Pregnancy Intendedness,FALSE,FALSE,77.2,73.2,80.8,596
+PRAMS Total,Smoked 3 months before Pregnancy,FALSE,FALSE,64.2,62.8,65.6,5196
+PRAMS Total,Smoked 3 months before Pregnancy,FALSE,TRUE,35.8,34.4,37.2,3095
+Michigan,Smoked 3 months before Pregnancy,FALSE,TRUE,36.8,33.7,40.1,434
+Hawaii,Smoked 3 months before Pregnancy,FALSE,FALSE,57.9,54.3,61.4,745
+Utah,Smoked 3 months before Pregnancy,FALSE,FALSE,68,65,70.9,835
+New Jersey,Smoked 3 months before Pregnancy,FALSE,TRUE,33.3,30.4,36.4,351
+Maine,Smoked 3 months before Pregnancy,FALSE,FALSE,59.6,55.3,63.8,374
+Minnesota,Smoked 3 months before Pregnancy,FALSE,FALSE,58.2,54.8,61.4,559
+New Jersey,Smoked 3 months before Pregnancy,FALSE,FALSE,66.7,63.6,69.6,701
+Maryland,Smoked 3 months before Pregnancy,FALSE,TRUE,33.4,29.4,37.7,458
+Minnesota,Smoked 3 months before Pregnancy,FALSE,TRUE,41.8,38.6,45.2,418
+Michigan,Smoked 3 months before Pregnancy,FALSE,FALSE,63.2,59.9,66.3,722
+Hawaii,Smoked 3 months before Pregnancy,FALSE,TRUE,42.1,38.6,45.7,484
+West Virginia,Smoked 3 months before Pregnancy,FALSE,FALSE,66.2,62.1,70,520
+Maryland,Smoked 3 months before Pregnancy,FALSE,FALSE,66.6,62.3,70.6,740
+West Virginia,Smoked 3 months before Pregnancy,FALSE,TRUE,33.8,30,37.9,276
+Maine,Smoked 3 months before Pregnancy,FALSE,TRUE,40.4,36.2,44.7,279
+Utah,Smoked 3 months before Pregnancy,FALSE,TRUE,32,29.1,35,395
+PRAMS Total,Smoked 3 months before Pregnancy,TRUE,FALSE,74,71.6,76.3,2160
+PRAMS Total,Smoked 3 months before Pregnancy,TRUE,TRUE,26,23.7,28.4,801
+New Jersey,Smoked 3 months before Pregnancy,TRUE,FALSE,68.1,61.4,74.2,224
+West Virginia,Smoked 3 months before Pregnancy,TRUE,TRUE,26.4,22.5,30.7,185
+Michigan,Smoked 3 months before Pregnancy,TRUE,FALSE,76.1,71.4,80.3,332
+Utah,Smoked 3 months before Pregnancy,TRUE,TRUE,24.9,18.1,33.4,41
+West Virginia,Smoked 3 months before Pregnancy,TRUE,FALSE,73.6,69.3,77.5,572
+Michigan,Smoked 3 months before Pregnancy,TRUE,TRUE,23.9,19.7,28.6,134
+Utah,Smoked 3 months before Pregnancy,TRUE,FALSE,75.1,66.6,81.9,139
+New Jersey,Smoked 3 months before Pregnancy,TRUE,TRUE,31.9,25.8,38.6,90
+Hawaii,Smoked 3 months before Pregnancy,TRUE,FALSE,65.5,58.3,72.1,202
+Hawaii,Smoked 3 months before Pregnancy,TRUE,TRUE,34.5,27.9,41.7,100
+Maryland,Smoked 3 months before Pregnancy,TRUE,TRUE,17.9,11.6,26.5,47
+Minnesota,Smoked 3 months before Pregnancy,TRUE,FALSE,69.7,63.6,75.1,240
+Maine,Smoked 3 months before Pregnancy,TRUE,TRUE,22.3,17.4,28,85
+Minnesota,Smoked 3 months before Pregnancy,TRUE,TRUE,30.3,24.9,36.4,119
+Maine,Smoked 3 months before Pregnancy,TRUE,FALSE,77.7,72,82.6,265
+Maryland,Smoked 3 months before Pregnancy,TRUE,FALSE,82.1,73.5,88.4,186
+PRAMS Total,Smoked last 3 months of Pregnancy,FALSE,FALSE,65.3,64,66.6,6217
+PRAMS Total,Smoked last 3 months of Pregnancy,FALSE,TRUE,34.7,33.4,36,3500
+Hawaii,Smoked last 3 months of Pregnancy,FALSE,FALSE,59.2,55.9,62.5,882
+Maryland,Smoked last 3 months of Pregnancy,FALSE,TRUE,31.3,27.7,35.3,489
+Maryland,Smoked last 3 months of Pregnancy,FALSE,FALSE,68.7,64.7,72.3,844
+Minnesota,Smoked last 3 months of Pregnancy,FALSE,TRUE,40.4,37.4,43.5,487
+Maine,Smoked last 3 months of Pregnancy,FALSE,TRUE,36.8,33.1,40.6,312
+Utah,Smoked last 3 months of Pregnancy,FALSE,FALSE,68.3,65.5,71.1,916
+Utah,Smoked last 3 months of Pregnancy,FALSE,TRUE,31.7,28.9,34.5,421
+Michigan,Smoked last 3 months of Pregnancy,FALSE,FALSE,65,62.1,67.8,884
+Minnesota,Smoked last 3 months of Pregnancy,FALSE,FALSE,59.6,56.5,62.6,697
+West Virginia,Smoked last 3 months of Pregnancy,FALSE,TRUE,31.7,28.4,35.3,326
+Maine,Smoked last 3 months of Pregnancy,FALSE,FALSE,63.2,59.4,66.9,486
+New Jersey,Smoked last 3 months of Pregnancy,FALSE,FALSE,66.4,63.6,69.2,822
+New Jersey,Smoked last 3 months of Pregnancy,FALSE,TRUE,33.6,30.8,36.4,408
+Michigan,Smoked last 3 months of Pregnancy,FALSE,TRUE,35,32.2,37.9,504
+Hawaii,Smoked last 3 months of Pregnancy,FALSE,TRUE,40.8,37.5,44.1,553
+West Virginia,Smoked last 3 months of Pregnancy,FALSE,FALSE,68.3,64.7,71.6,686
+PRAMS Total,Smoked last 3 months of Pregnancy,TRUE,FALSE,76.8,73.4,80,1144
+PRAMS Total,Smoked last 3 months of Pregnancy,TRUE,TRUE,23.2,20,26.6,396
+Utah,Smoked last 3 months of Pregnancy,TRUE,TRUE,19.8,11,32.9,15
+Maine,Smoked last 3 months of Pregnancy,TRUE,TRUE,22.7,16.3,30.7,53
+Maryland,Smoked last 3 months of Pregnancy,TRUE,TRUE,14.7,6.3,30.8,15
+West Virginia,Smoked last 3 months of Pregnancy,TRUE,TRUE,27.6,22.8,33,135
+Hawaii,Smoked last 3 months of Pregnancy,TRUE,TRUE,38.3,26.6,51.6,31
+Michigan,Smoked last 3 months of Pregnancy,TRUE,TRUE,22,16.5,28.7,64
+Michigan,Smoked last 3 months of Pregnancy,TRUE,FALSE,78,71.3,83.5,170
+Minnesota,Smoked last 3 months of Pregnancy,TRUE,FALSE,73.9,64.5,81.6,102
+New Jersey,Smoked last 3 months of Pregnancy,TRUE,TRUE,25.4,17.4,35.5,33
+Minnesota,Smoked last 3 months of Pregnancy,TRUE,TRUE,26.1,18.4,35.5,50
+Maryland,Smoked last 3 months of Pregnancy,TRUE,FALSE,85.3,69.2,93.7,83
+Utah,Smoked last 3 months of Pregnancy,TRUE,FALSE,80.2,67.1,89,57
+Maine,Smoked last 3 months of Pregnancy,TRUE,FALSE,77.3,69.3,83.7,158
+West Virginia,Smoked last 3 months of Pregnancy,TRUE,FALSE,72.4,67,77.2,406
+New Jersey,Smoked last 3 months of Pregnancy,TRUE,FALSE,74.6,64.5,82.6,104
+Hawaii,Smoked last 3 months of Pregnancy,TRUE,FALSE,61.7,48.4,73.4,64
