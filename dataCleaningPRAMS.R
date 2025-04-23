@@ -77,8 +77,8 @@ cleanedData <- data %>%
 filteredData <- cleanedData %>%
   filter(questionID %in% c("QUO91", "QUO65")) %>%
   select(
-    question, location, response, value, lowConfidenceLimit, highConfidenceLimit,
-    sampleSize, breakOut, breakOutCategory) %>%
+    question, location, breakOutCategory, breakOut, response, value, lowConfidenceLimit, highConfidenceLimit,
+    sampleSize) %>%
   arrange(question, breakOutCategory, breakOut)
 
 # Rename questions for data legibility and to account for typos  
@@ -133,10 +133,12 @@ filteredData <- filteredData %>%
 
 # Split into two smaller data frames
 multivitaminResponses <- filteredData %>%
-  filter(question == "Multivitamin?")
+  filter(question == "Multivitamin?") %>%
+  select(-question)
 
 healthCareInteractionResponses <- filteredData %>%
-  filter(question == "Spoke to health care?")
+  filter(question == "Spoke to health care?")  %>%
+  select(-question)
 
 # Export each to its own CSV on your desktop
 write_csv(multivitaminResponses,            "~/Desktop/multivitaminResponses.csv")
