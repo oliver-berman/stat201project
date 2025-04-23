@@ -1,611 +1,795 @@
-geolocation,question,location,response,value,lowConfidenceLimit,highConfidenceLimit,sampleSize,breakOut,breakOutCategory,questionID,locationID
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,17.1,6,39.8,6,Inadequate PNC,Adequacy of Prenatal care,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,82.9,60.2,94,35,Inadequate PNC,Adequacy of Prenatal care,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,32,27.2,37.3,182,Adequate PNC,Adequacy of Prenatal care,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,68,62.7,72.8,358,Adequate PNC,Adequacy of Prenatal care,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,16.9,9,29.4,19,Intermediate PNC,Adequacy of Prenatal care,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,83.1,70.6,91,93,Intermediate PNC,Adequacy of Prenatal care,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,24.5,14.6,38.1,28,Unknown PNC,Adequacy of Prenatal care,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,75.5,61.9,85.4,73,Unknown PNC,Adequacy of Prenatal care,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,28.4,24.1,33.1,115,NBW (>2500g),Birth Weight,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,71.6,66.9,75.9,286,NBW (>2500g),Birth Weight,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,30,24.7,35.9,120,LBW (<=2500g),Birth Weight,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,70,64.1,75.3,273,LBW (<=2500g),Birth Weight,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,21.4,13.7,31.8,33,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,76,65.5,84,116,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,24,16,34.5,32,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,57,48.9,64.8,108,"$50,000 or more",Income (years 2004 and beyond),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,43,35.2,51.1,110,"$50,000 or more",Income (years 2004 and beyond),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,76.9,67.5,84.2,176,"Less than $10,000",Income (years 2004 and beyond),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,23.1,15.8,32.5,40,"Less than $10,000",Income (years 2004 and beyond),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,78.6,68.2,86.3,103,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,30.6,25.6,35.9,168,Married,Marital Status,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,74.2,66.8,80.5,257,Other,Marital Status,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,69.4,64.1,74.4,301,Married,Marital Status,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,25.8,19.5,33.2,67,Other,Marital Status,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,35.1,27.9,43,106,30+ yrs,Maternal Age (3 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,71.5,58.1,81.9,75,<20 yrs,Maternal Age (3 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,64.9,57,72.1,132,30+ yrs,Maternal Age (3 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,28.5,18.1,41.9,21,<20 yrs,Maternal Age (3 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,74.9,69.1,80,352,20-29 yrs,Maternal Age (3 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,25.1,20,30.9,108,20-29 yrs,Maternal Age (3 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,81.7,73.4,87.8,187,20-24 yrs,Maternal Age (4 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,71.5,58.1,81.9,75,<20 yrs,Maternal Age (4 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,28.5,18.1,41.9,21,<20 yrs,Maternal Age (4 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,72.7,59.8,82.7,56,35+ yrs,Maternal Age (4 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,27.3,17.3,40.2,35,35+ yrs,Maternal Age (4 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,65.5,59.1,71.4,241,25-34 yrs,Maternal Age (4 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,18.3,12.2,26.6,41,20-24 yrs,Maternal Age (4 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,34.5,28.6,40.9,138,25-34 yrs,Maternal Age (4 Levels),QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,79.7,72.4,85.5,242,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,67.5,59.5,74.6,178,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,66.3,58,73.7,119,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,32.5,25.4,40.5,79,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,20.3,14.5,27.6,55,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,33.7,26.3,42,92,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,71.7,67.3,75.7,539,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,28.3,24.3,32.7,226,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,69.8,64,75,260,>12 yrs,Maternal Education,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,22.2,15.5,30.7,46,12 yrs,Maternal Education,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,67.8,56.7,77.2,118,< 12 yrs,Maternal Education,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,77.8,69.3,84.5,180,12 yrs,Maternal Education,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,30.2,25,36,148,>12 yrs,Maternal Education,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,32.2,22.8,43.3,40,< 12 yrs,Maternal Education,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,71.7,66.7,76.2,389,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,74.6,63.7,83.1,123,"Black, non-Hispanic",Maternal Race/Ethnicity,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,63.8,45.1,79,31,Hispanic,Maternal Race/Ethnicity,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,36.2,21,54.9,15,Hispanic,Maternal Race/Ethnicity,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,25.4,16.9,36.3,43,"Black, non-Hispanic",Maternal Race/Ethnicity,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,28.3,23.8,33.3,169,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,61.9,55.5,68,198,Non-Medicaid,Medicaid Recipient,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,79.3,73.4,84.2,361,Medicaid,Medicaid Recipient,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,38.1,32,44.5,156,Non-Medicaid,Medicaid Recipient,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,20.7,15.8,26.6,79,Medicaid,Medicaid Recipient,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,36.2,21,54.9,15,Hispanic,Mother Hispanic,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,72.1,67.7,76.2,528,Non-Hispanic,Mother Hispanic,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,27.9,23.8,32.3,220,Non-Hispanic,Mother Hispanic,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,63.8,45.1,79,31,Hispanic,Mother Hispanic,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,28.5,24.5,32.8,235,None,None,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,71.5,67.2,75.5,559,None,None,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,27,21.9,32.8,114,1 or more,Number of Previous Live Births,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,73,67.2,78.1,326,1 or more,Number of Previous Live Births,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,69.4,62.7,75.4,231,0,Number of Previous Live Births,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,30.6,24.6,37.3,118,0,Number of Previous Live Births,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,24.3,18.8,30.8,84,WIC,On WIC during Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,33.2,27.5,39.3,147,Non-WIC,On WIC during Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,75.7,69.2,81.2,319,WIC,On WIC during Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,66.8,60.7,72.5,231,Non-WIC,On WIC during Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,19.4,14.4,25.7,61,Unintended,Pregnancy Intendedness,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,37.7,31.9,44,173,Intended,Pregnancy Intendedness,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,62.3,56,68.1,239,Intended,Pregnancy Intendedness,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,80.6,74.3,85.6,312,Unintended,Pregnancy Intendedness,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,81.3,73.6,87.1,207,Smoker,Smoked 3 months before Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,66.9,61.5,71.9,338,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,33.1,28.1,38.5,187,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,18.7,12.9,26.4,44,Smoker,Smoked 3 months before Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,81.1,71.3,88.2,140,Smoker,Smoked last 3 months of Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,18.9,11.8,28.7,28,Smoker,Smoked last 3 months of Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,TRUE,31.1,26.5,36.1,203,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,47
-"(35.68094058, -85.774490914)",Spoke to health care?,Tennessee,FALSE,68.9,63.9,73.5,404,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,47
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,71.9,69.1,74.6,908,Adequate PNC,Adequacy of Prenatal care,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,82.1,71.5,89.4,73,Inadequate PNC,Adequacy of Prenatal care,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,85.3,80.9,88.9,336,Intermediate PNC,Adequacy of Prenatal care,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,28.1,25.4,30.9,354,Adequate PNC,Adequacy of Prenatal care,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,17.9,10.6,28.5,15,Inadequate PNC,Adequacy of Prenatal care,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,73.4,53,87.1,27,Unknown PNC,Adequacy of Prenatal care,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,14.7,11.1,19.1,61,Intermediate PNC,Adequacy of Prenatal care,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,26.6,12.9,47,9,Unknown PNC,Adequacy of Prenatal care,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,75.4,73,77.7,1067,NBW (>2500g),Birth Weight,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,29.2,25.3,33.4,121,LBW (<=2500g),Birth Weight,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,24.6,22.3,27,318,NBW (>2500g),Birth Weight,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,70.8,66.6,74.7,277,LBW (<=2500g),Birth Weight,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,84.4,80,88,319,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,37.4,33,41.9,209,"$50,000 or more",Income (years 2004 and beyond),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,15.6,12,20,62,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,12.8,8.9,18.2,31,"Less than $10,000",Income (years 2004 and beyond),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,77.9,73.5,81.7,357,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,62.6,58.1,67,335,"$50,000 or more",Income (years 2004 and beyond),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,87.2,81.8,91.1,239,"Less than $10,000",Income (years 2004 and beyond),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,22.1,18.3,26.5,111,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,11.2,8.3,15,48,Other,Marital Status,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,28.3,25.7,31,391,Married,Marital Status,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,88.8,85,91.7,380,Other,Marital Status,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,71.7,69,74.3,964,Married,Marital Status,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,12.1,7.3,19.4,16,<20 yrs,Maternal Age (3 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,69.7,65.3,73.8,390,30+ yrs,Maternal Age (3 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,87.9,80.6,92.7,144,<20 yrs,Maternal Age (3 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,76.7,73.7,79.4,810,20-29 yrs,Maternal Age (3 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,23.3,20.6,26.3,256,20-29 yrs,Maternal Age (3 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,30.3,26.2,34.7,167,30+ yrs,Maternal Age (3 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,87.9,80.6,92.7,144,<20 yrs,Maternal Age (4 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,12.1,7.3,19.4,16,<20 yrs,Maternal Age (4 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,66.8,58.7,74,126,35+ yrs,Maternal Age (4 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,82,77.8,85.6,380,20-24 yrs,Maternal Age (4 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,18,14.4,22.2,85,20-24 yrs,Maternal Age (4 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,33.2,26,41.3,62,35+ yrs,Maternal Age (4 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,72.1,68.9,75.1,694,25-34 yrs,Maternal Age (4 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,27.9,24.9,31.1,276,25-34 yrs,Maternal Age (4 Levels),QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,30,25.5,34.9,139,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,82.9,79.1,86.1,473,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,17.1,13.9,20.9,96,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,10.3,4.4,22.2,5,Age < 18,Maternal Age - 18 to 44 years in groupings,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,89.7,77.8,95.6,51,Age < 18,Maternal Age - 18 to 44 years in groupings,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,72.1,68.2,75.6,500,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,70,65.1,74.5,319,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,27.9,24.4,31.8,199,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,74.9,72.5,77.1,1292,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,25.1,22.9,27.5,434,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,68.4,64.8,71.9,520,>12 yrs,Maternal Education,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,85.5,81.7,88.6,356,< 12 yrs,Maternal Education,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,14.5,11.4,18.3,59,< 12 yrs,Maternal Education,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,17.8,14.7,21.5,99,12 yrs,Maternal Education,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,82.2,78.5,85.3,421,12 yrs,Maternal Education,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,31.6,28.1,35.2,269,>12 yrs,Maternal Education,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,26,16.2,38.9,19,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,27.4,24.9,30.2,358,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,86.5,82.3,89.9,322,Hispanic,Maternal Race/Ethnicity,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,74,61.1,83.8,51,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,72.6,69.8,75.1,945,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,13.5,10.1,17.7,56,Hispanic,Maternal Race/Ethnicity,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,30.8,27.8,33.9,343,Non-Medicaid,Medicaid Recipient,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,86.7,83.6,89.3,616,Medicaid,Medicaid Recipient,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,13.3,10.7,16.4,96,Medicaid,Medicaid Recipient,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,69.2,66.1,72.2,728,Non-Medicaid,Medicaid Recipient,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,72.7,70.1,75.2,1007,Non-Hispanic,Mother Hispanic,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,13.5,10.1,17.7,56,Hispanic,Mother Hispanic,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,86.5,82.3,89.9,322,Hispanic,Mother Hispanic,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,27.3,24.8,29.9,381,Non-Hispanic,Mother Hispanic,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,24.8,22.7,27.1,439,None,None,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,75.2,72.9,77.3,1344,None,None,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,72.5,68.3,76.4,451,0,Number of Previous Live Births,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,27.5,23.6,31.7,160,0,Number of Previous Live Births,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,23.5,20.9,26.3,279,1 or more,Number of Previous Live Births,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,76.5,73.7,79.1,891,1 or more,Number of Previous Live Births,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,29.3,26.6,32.3,357,Non-WIC,On WIC during Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,13.3,10.5,16.7,76,WIC,On WIC during Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,70.7,67.7,73.4,831,Non-WIC,On WIC during Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,86.7,83.3,89.5,492,WIC,On WIC during Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,33,30,36.1,377,Intended,Pregnancy Intendedness,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,67,63.9,70,763,Intended,Pregnancy Intendedness,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,91.4,88.6,93.5,560,Unintended,Pregnancy Intendedness,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,8.6,6.5,11.4,60,Unintended,Pregnancy Intendedness,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,26.2,23.9,28.7,402,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,11.8,7.6,17.8,23,Smoker,Smoked 3 months before Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,73.8,71.3,76.1,1119,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,88.2,82.2,92.4,200,Smoker,Smoked 3 months before Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,89.9,82.2,94.5,111,Smoker,Smoked last 3 months of Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,10.1,5.5,17.8,12,Smoker,Smoked last 3 months of Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,FALSE,74.4,72,76.7,1206,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,49
-"(39.360700171, -111.587130635)",Spoke to health care?,Utah,TRUE,25.6,23.3,28,414,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,49
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,18,10.6,29,32,Inadequate PNC,Adequacy of Prenatal care,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,80.1,74,85.1,268,Intermediate PNC,Adequacy of Prenatal care,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,19.9,14.9,26,84,Intermediate PNC,Adequacy of Prenatal care,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,69.9,65.6,73.9,498,Adequate PNC,Adequacy of Prenatal care,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,23.8,17.4,31.6,75,Unknown PNC,Adequacy of Prenatal care,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,76.2,68.4,82.6,203,Unknown PNC,Adequacy of Prenatal care,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,30.1,26.1,34.4,245,Adequate PNC,Adequacy of Prenatal care,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,82,71,89.4,100,Inadequate PNC,Adequacy of Prenatal care,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,31,27.5,34.8,212,LBW (<=2500g),Birth Weight,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,25.8,22.7,29.1,222,NBW (>2500g),Birth Weight,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,69,65.2,72.5,432,LBW (<=2500g),Birth Weight,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,74.2,70.9,77.3,632,NBW (>2500g),Birth Weight,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,47,41.2,52.9,222,"$50,000 or more",Income (years 2004 and beyond),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,79.9,73.3,85.2,298,"Less than $10,000",Income (years 2004 and beyond),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,13.6,9.4,19.3,59,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,86.4,80.7,90.6,223,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,10.1,6.4,15.5,38,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,89.9,84.5,93.6,261,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,20.1,14.8,26.7,86,"Less than $10,000",Income (years 2004 and beyond),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,53,47.1,58.8,196,"$50,000 or more",Income (years 2004 and beyond),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,85.4,81.5,88.6,622,Other,Marital Status,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,14.6,11.4,18.5,142,Other,Marital Status,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,33.9,29.8,38.2,294,Married,Marital Status,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,66.1,61.8,70.2,443,Married,Marital Status,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,37,31.8,42.7,203,30+ yrs,Maternal Age (3 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,63,57.3,68.2,294,30+ yrs,Maternal Age (3 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,80.8,71.4,87.6,157,<20 yrs,Maternal Age (3 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,19.2,12.4,28.6,40,<20 yrs,Maternal Age (3 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,20.8,17.3,24.7,193,20-29 yrs,Maternal Age (3 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,79.2,75.3,82.7,618,20-29 yrs,Maternal Age (3 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,30.4,26.3,34.8,250,25-34 yrs,Maternal Age (4 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,69.6,65.2,73.7,480,25-34 yrs,Maternal Age (4 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,69.1,60,77,116,35+ yrs,Maternal Age (4 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,17.3,12.6,23.2,73,20-24 yrs,Maternal Age (4 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,19.2,12.4,28.6,40,<20 yrs,Maternal Age (4 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,82.7,76.8,87.4,316,20-24 yrs,Maternal Age (4 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,80.8,71.4,87.6,157,<20 yrs,Maternal Age (4 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,30.9,23,40,73,35+ yrs,Maternal Age (4 Levels),QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,37.9,32.2,44,174,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,29.1,14.7,49.5,18,Age < 18,Maternal Age - 18 to 44 years in groupings,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,62.1,56,67.8,246,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,24.5,20,29.6,146,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,75.5,70.4,80,350,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,70.9,50.5,85.3,49,Age < 18,Maternal Age - 18 to 44 years in groupings,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,16.7,12.7,21.6,95,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,83.3,78.4,87.3,424,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,74.2,71.1,77,1020,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,25.8,23,28.9,415,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,33.3,29.3,37.6,291,>12 yrs,Maternal Education,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,20.1,14,27.9,60,< 12 yrs,Maternal Education,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,66.7,62.4,70.7,510,>12 yrs,Maternal Education,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,15.5,11.4,20.8,83,12 yrs,Maternal Education,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,84.5,79.2,88.6,329,12 yrs,Maternal Education,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,79.9,72.1,86,219,< 12 yrs,Maternal Education,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,74.3,70.5,77.6,575,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,61.3,43.2,76.7,25,Hispanic,Maternal Race/Ethnicity,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,38.7,23.3,56.8,14,Hispanic,Maternal Race/Ethnicity,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,72.5,54.7,85.2,34,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,27.5,14.8,45.3,17,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,25.7,22.4,29.5,249,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,75.5,71,79.5,430,"Black, non-Hispanic",Maternal Race/Ethnicity,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,24.5,20.5,29,156,"Black, non-Hispanic",Maternal Race/Ethnicity,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,14.4,11.2,18.1,134,Medicaid,Medicaid Recipient,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,34.8,30.7,39.2,302,Non-Medicaid,Medicaid Recipient,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,65.2,60.8,69.3,479,Non-Medicaid,Medicaid Recipient,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,85.6,81.9,88.8,589,Medicaid,Medicaid Recipient,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,25.8,22.9,28.9,419,Non-Hispanic,Mother Hispanic,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,74.2,71.1,77.1,1030,Non-Hispanic,Mother Hispanic,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,61.3,43.2,76.7,25,Hispanic,Mother Hispanic,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,38.7,23.3,56.8,14,Hispanic,Mother Hispanic,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,74,71,76.9,1069,None,None,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,26,23.1,29,436,None,None,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,21.6,18.2,25.4,219,1 or more,Number of Previous Live Births,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,32.7,27.9,37.8,208,0,Number of Previous Live Births,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,67.3,62.2,72.1,418,0,Number of Previous Live Births,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,78.4,74.6,81.8,628,1 or more,Number of Previous Live Births,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,17.7,14.1,22,152,WIC,On WIC during Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,82.3,78,85.9,573,WIC,On WIC during Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,68.2,63.9,72.2,469,Non-WIC,On WIC during Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,31.8,27.8,36.1,271,Non-WIC,On WIC during Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,13.4,10.4,17.1,117,Unintended,Pregnancy Intendedness,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,86.6,82.9,89.6,614,Unintended,Pregnancy Intendedness,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,61.6,56.9,66.1,416,Intended,Pregnancy Intendedness,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,38.4,33.9,43.1,313,Intended,Pregnancy Intendedness,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,14.2,10.4,19,75,Smoker,Smoked 3 months before Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,68.8,64.9,72.5,658,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,85.8,81,89.6,371,Smoker,Smoked 3 months before Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,31.2,27.5,35.1,342,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,71,67.5,74.3,801,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,12.5,8.1,18.6,47,Smoker,Smoked last 3 months of Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,FALSE,87.5,81.4,91.9,227,Smoker,Smoked last 3 months of Pregnancy,QUO91,39
-"(40.060210141, -82.404260056)",Spoke to health care?,Ohio,TRUE,29,25.7,32.5,371,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,39
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,76.9,72.4,80.8,329,Intermediate PNC,Adequacy of Prenatal care,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,37.9,34.6,41.2,340,Adequate PNC,Adequacy of Prenatal care,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,62.1,58.8,65.4,618,Adequate PNC,Adequacy of Prenatal care,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,84.5,75,90.8,92,Inadequate PNC,Adequacy of Prenatal care,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,15.5,9.2,25,17,Inadequate PNC,Adequacy of Prenatal care,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,23.1,19.2,27.6,114,Intermediate PNC,Adequacy of Prenatal care,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,32.2,29.6,34.9,434,NBW (>2500g),Birth Weight,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,65.7,55.9,74.3,84,LBW (<=2500g),Birth Weight,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,67.8,65.1,70.4,959,NBW (>2500g),Birth Weight,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,34.3,25.7,44.1,41,LBW (<=2500g),Birth Weight,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,79.8,73.9,84.6,206,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,19.5,14.1,26.3,37,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,20.2,15.2,26.3,52,"Less than $10,000",Income (years 2004 and beyond),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,79.8,73.7,84.8,197,"Less than $10,000",Income (years 2004 and beyond),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,20.2,15.4,26.1,52,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,80.5,73.7,85.9,154,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,53.4,49.3,57.5,367,"$50,000 or more",Income (years 2004 and beyond),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,46.6,42.5,50.7,298,"$50,000 or more",Income (years 2004 and beyond),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,59,55.5,62.4,559,Married,Marital Status,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,41,37.6,44.5,368,Married,Marital Status,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,82,78.3,85.2,484,Other,Marital Status,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,18,14.8,21.7,107,Other,Marital Status,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,77.6,74,80.9,519,20-29 yrs,Maternal Age (3 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,22.7,14.6,33.4,22,<20 yrs,Maternal Age (3 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,42.3,38.5,46.1,302,30+ yrs,Maternal Age (3 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,22.4,19.1,26,151,20-29 yrs,Maternal Age (3 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,57.7,53.9,61.5,453,30+ yrs,Maternal Age (3 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,77.3,66.6,85.4,71,<20 yrs,Maternal Age (3 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,87.3,82.4,91,230,20-24 yrs,Maternal Age (4 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,37.5,34,41.1,305,25-34 yrs,Maternal Age (4 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,77.3,66.6,85.4,71,<20 yrs,Maternal Age (4 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,62.5,58.9,66,554,25-34 yrs,Maternal Age (4 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,38.7,32.9,44.8,112,35+ yrs,Maternal Age (4 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,61.3,55.2,67.1,188,35+ yrs,Maternal Age (4 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,22.7,14.6,33.4,22,<20 yrs,Maternal Age (4 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,12.7,9,17.6,36,20-24 yrs,Maternal Age (4 Levels),QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,41.8,37.7,46,253,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,67.5,62.9,71.7,347,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,14.8,11.1,19.5,51,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,32.5,28.3,37.1,164,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,85.2,80.5,88.9,283,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,58.2,54,62.3,395,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,67.5,64.9,70,1025,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,32.5,30,35.1,468,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,76.8,71.9,81,323,12 yrs,Maternal Education,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,40.3,36.9,43.8,350,>12 yrs,Maternal Education,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,85.8,79.6,90.3,155,< 12 yrs,Maternal Education,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,59.7,56.2,63.1,555,>12 yrs,Maternal Education,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,23.2,19,28.1,90,12 yrs,Maternal Education,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,14.2,9.7,20.4,31,< 12 yrs,Maternal Education,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,76.6,70.6,81.6,213,"Black, non-Hispanic",Maternal Race/Ethnicity,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,23.5,19.3,28.4,86,Hispanic,Maternal Race/Ethnicity,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,39,34.8,43.3,202,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,38.5,33,44.2,123,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,61,56.7,65.2,364,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,61.5,55.8,67,191,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,76.5,71.6,80.7,275,Hispanic,Maternal Race/Ethnicity,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,23.4,18.4,29.4,64,"Black, non-Hispanic",Maternal Race/Ethnicity,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,40.6,37.2,44,360,Non-Medicaid,Medicaid Recipient,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,19.1,15.9,22.8,115,Medicaid,Medicaid Recipient,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,59.4,56,62.8,556,Non-Medicaid,Medicaid Recipient,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,80.9,77.2,84.1,487,Medicaid,Medicaid Recipient,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,76.5,71.6,80.7,275,Hispanic,Mother Hispanic,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,64.5,61.4,67.5,768,Non-Hispanic,Mother Hispanic,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,23.5,19.3,28.4,86,Hispanic,Mother Hispanic,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,35.5,32.5,38.6,388,Non-Hispanic,Mother Hispanic,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,32.3,29.8,34.9,475,None,None,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,67.7,65.1,70.2,1043,None,None,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,28.9,25.8,32.3,244,1 or more,Number of Previous Live Births,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,37.1,33.1,41.3,231,0,Number of Previous Live Births,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,62.9,58.7,66.9,402,0,Number of Previous Live Births,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,71.1,67.7,74.2,641,1 or more,Number of Previous Live Births,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,19.5,16.1,23.4,108,WIC,On WIC during Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,60.7,57.2,64,599,Non-WIC,On WIC during Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,39.3,36,42.8,360,Non-WIC,On WIC during Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,80.5,76.6,83.9,430,WIC,On WIC during Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,85.7,82.2,88.6,491,Unintended,Pregnancy Intendedness,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,14.3,11.4,17.8,80,Unintended,Pregnancy Intendedness,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,57.2,53.7,60.6,536,Intended,Pregnancy Intendedness,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,42.8,39.4,46.3,390,Intended,Pregnancy Intendedness,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,83,77.6,87.4,279,Smoker,Smoked 3 months before Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,64.7,61.8,67.5,743,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,35.3,32.5,38.2,412,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,17,12.6,22.4,57,Smoker,Smoked 3 months before Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,87.7,81,92.2,157,Smoker,Smoked last 3 months of Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,FALSE,66.1,63.4,68.8,864,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,33.9,31.2,36.6,444,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,34
-"(40.130570048, -74.273691288)",Spoke to health care?,New Jersey,TRUE,12.3,7.8,19,25,Smoker,Smoked last 3 months of Pregnancy,QUO91,34
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,68.4,65.2,71.4,583,Adequate PNC,Adequacy of Prenatal care,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,74.1,63.7,82.4,74,Unknown PNC,Adequacy of Prenatal care,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,83.8,75.9,89.4,110,Intermediate PNC,Adequacy of Prenatal care,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,25.9,17.6,36.3,30,Unknown PNC,Adequacy of Prenatal care,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,16.2,10.6,24.1,22,Intermediate PNC,Adequacy of Prenatal care,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,31.6,28.6,34.8,284,Adequate PNC,Adequacy of Prenatal care,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,71.1,68.1,73.9,568,NBW (>2500g),Birth Weight,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,28.6,26.6,30.6,92,LBW (<=2500g),Birth Weight,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,71.4,69.4,73.4,220,LBW (<=2500g),Birth Weight,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,28.9,26.1,31.9,245,NBW (>2500g),Birth Weight,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,14.1,9.1,21.2,23,"Less than $10,000",Income (years 2004 and beyond),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,85.9,78.8,90.9,134,"Less than $10,000",Income (years 2004 and beyond),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,15,10.5,21,29,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,23.3,18.7,28.6,71,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,85,79,89.5,185,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,76.7,71.4,81.3,208,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,46.2,41.4,51,201,"$50,000 or more",Income (years 2004 and beyond),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,53.8,49,58.6,217,"$50,000 or more",Income (years 2004 and beyond),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,87.4,83.5,90.5,368,Other,Marital Status,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,62.2,58.5,65.7,420,Married,Marital Status,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,12.6,9.5,16.5,53,Other,Marital Status,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,37.8,34.3,41.5,284,Married,Marital Status,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,23.7,20.3,27.5,134,20-29 yrs,Maternal Age (3 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,17.1,9.6,28.4,13,<20 yrs,Maternal Age (3 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,82.9,71.6,90.4,66,<20 yrs,Maternal Age (3 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,62.7,58.2,67,287,30+ yrs,Maternal Age (3 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,37.3,33,41.8,190,30+ yrs,Maternal Age (3 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,76.3,72.5,79.7,437,20-29 yrs,Maternal Age (3 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,65.5,61.6,69.2,377,25-34 yrs,Maternal Age (4 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,63.9,56.7,70.5,125,35+ yrs,Maternal Age (4 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,36.1,29.5,43.3,72,35+ yrs,Maternal Age (4 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,34.5,30.8,38.4,221,25-34 yrs,Maternal Age (4 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,82.9,71.6,90.4,66,<20 yrs,Maternal Age (4 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,86.5,81.3,90.4,222,20-24 yrs,Maternal Age (4 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,17.1,9.6,28.4,13,<20 yrs,Maternal Age (4 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,13.5,9.6,18.7,31,20-24 yrs,Maternal Age (4 Levels),QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,32.6,28.1,37.4,136,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,85.1,80.3,88.9,272,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,62.8,57.9,67.5,244,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,67.4,62.6,71.9,257,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,37.2,32.5,42.1,156,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,14.9,11.1,19.7,43,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,70.8,68,73.5,773,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,29.2,26.5,32,335,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,35.8,32.3,39.5,262,>12 yrs,Maternal Education,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,64.2,60.5,67.7,426,>12 yrs,Maternal Education,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,88.6,80.6,93.5,99,< 12 yrs,Maternal Education,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,21.1,16.7,26.4,58,12 yrs,Maternal Education,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,78.9,73.6,83.3,256,12 yrs,Maternal Education,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,11.4,6.5,19.4,17,< 12 yrs,Maternal Education,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,71.3,68.5,74,748,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,28.7,26,31.5,317,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,83.6,80.1,86.5,477,Medicaid,Medicaid Recipient,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,58.5,54.4,62.6,313,Non-Medicaid,Medicaid Recipient,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,16.4,13.5,19.9,90,Medicaid,Medicaid Recipient,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,41.5,37.4,45.6,247,Non-Medicaid,Medicaid Recipient,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,28.9,26.2,31.7,334,Non-Hispanic,Mother Hispanic,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,71.1,68.3,73.8,779,Non-Hispanic,Mother Hispanic,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,28.9,26.3,31.7,337,None,None,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,71.1,68.3,73.7,790,None,None,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,31.8,27.8,36.1,173,0,Number of Previous Live Births,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,68.2,63.9,72.2,346,0,Number of Previous Live Births,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,73.3,69.5,76.7,443,1 or more,Number of Previous Live Births,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,26.7,23.3,30.5,164,1 or more,Number of Previous Live Births,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,16.6,13.4,20.5,80,WIC,On WIC during Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,83.4,79.5,86.6,397,WIC,On WIC during Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,62.8,58.9,66.5,390,Non-WIC,On WIC during Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,37.2,33.5,41.1,252,Non-WIC,On WIC during Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,39.3,35.7,43,292,Intended,Pregnancy Intendedness,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,60.7,57,64.3,420,Intended,Pregnancy Intendedness,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,90.6,87,93.3,352,Unintended,Pregnancy Intendedness,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,9.4,6.7,13,37,Unintended,Pregnancy Intendedness,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,14.1,10.7,18.4,47,Smoker,Smoked 3 months before Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,85.9,81.6,89.3,314,Smoker,Smoked 3 months before Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,34.9,31.6,38.4,286,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,65.1,61.6,68.4,471,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,14,9.8,19.6,30,Smoker,Smoked last 3 months of Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,67.8,64.7,70.9,573,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,TRUE,32.2,29.1,35.3,304,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,50
-"(43.625381239, -72.517640791)",Spoke to health care?,Vermont,FALSE,86,80.4,90.2,210,Smoker,Smoked last 3 months of Pregnancy,QUO91,50
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,69.9,66.5,73.1,634,Adequate PNC,Adequacy of Prenatal care,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,30.9,23,40.1,49,Intermediate PNC,Adequacy of Prenatal care,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,69.1,59.9,77,130,Intermediate PNC,Adequacy of Prenatal care,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,30.1,26.9,33.5,289,Adequate PNC,Adequacy of Prenatal care,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,30.4,27.2,33.9,120,LBW (<=2500g),Birth Weight,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,70.1,66.7,73.2,513,NBW (>2500g),Birth Weight,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,69.6,66.1,72.8,272,LBW (<=2500g),Birth Weight,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,29.9,26.8,33.3,226,NBW (>2500g),Birth Weight,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,26.9,20.9,34,61,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,82.1,74.3,87.9,160,"Less than $10,000",Income (years 2004 and beyond),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,73.1,66,79.1,176,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,17.9,12.1,25.7,35,"Less than $10,000",Income (years 2004 and beyond),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,47.9,42.3,53.5,194,"$50,000 or more",Income (years 2004 and beyond),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,52.1,46.5,57.7,177,"$50,000 or more",Income (years 2004 and beyond),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,17.2,12.4,23.3,38,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,82.8,76.7,87.6,210,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,82.6,78.1,86.3,401,Other,Marital Status,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,39.2,35.1,43.4,267,Married,Marital Status,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,60.8,56.6,64.9,386,Married,Marital Status,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,17.4,13.7,21.9,79,Other,Marital Status,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,78.3,74.3,81.8,484,20-29 yrs,Maternal Age (3 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,75.7,63.8,84.6,74,<20 yrs,Maternal Age (3 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,21.7,18.2,25.7,139,20-29 yrs,Maternal Age (3 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,56.3,51,61.6,229,30+ yrs,Maternal Age (3 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,24.3,15.4,36.2,20,<20 yrs,Maternal Age (3 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,43.7,38.4,49,187,30+ yrs,Maternal Age (3 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,75.7,63.8,84.6,74,<20 yrs,Maternal Age (4 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,46.3,38,54.9,76,35+ yrs,Maternal Age (4 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,24.3,15.4,36.2,20,<20 yrs,Maternal Age (4 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,66.8,62.3,70.9,367,25-34 yrs,Maternal Age (4 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,53.7,45.1,62,93,35+ yrs,Maternal Age (4 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,16.6,12.2,22.3,52,20-24 yrs,Maternal Age (4 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,83.4,77.7,87.8,253,20-24 yrs,Maternal Age (4 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,33.2,29.1,37.7,198,25-34 yrs,Maternal Age (4 Levels),QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,18.3,14,23.5,67,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,45.8,40,51.6,166,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,81.7,76.5,86,312,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,72.7,67.4,77.5,275,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,54.2,48.4,60,185,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,27.3,22.5,32.6,108,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,30.1,27.1,33.3,341,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,69.9,66.7,72.9,772,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,35.7,31.8,39.9,240,>12 yrs,Maternal Education,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,26,17.1,37.3,26,< 12 yrs,Maternal Education,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,21.8,17.3,27.1,79,12 yrs,Maternal Education,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,78.2,72.9,82.7,300,12 yrs,Maternal Education,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,74,62.7,82.9,68,< 12 yrs,Maternal Education,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,64.3,60.1,68.2,416,>12 yrs,Maternal Education,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,30,15.5,50.1,10,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,70,49.9,84.5,20,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,30.2,27.1,33.4,328,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,69.8,66.6,72.9,741,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,18.2,14.8,22.2,107,Medicaid,Medicaid Recipient,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,56.2,51.4,60.9,285,Non-Medicaid,Medicaid Recipient,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,81.8,77.8,85.2,502,Medicaid,Medicaid Recipient,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,43.8,39.1,48.6,239,Non-Medicaid,Medicaid Recipient,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,30.1,27.1,33.3,342,Non-Hispanic,Mother Hispanic,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,69.9,66.7,72.9,771,Non-Hispanic,Mother Hispanic,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,30,27,33.1,346,None,None,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,70,66.9,73,787,None,None,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,34,29.6,38.7,185,0,Number of Previous Live Births,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,73.8,69.5,77.6,415,1 or more,Number of Previous Live Births,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,26.2,22.4,30.5,161,1 or more,Number of Previous Live Births,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,66,61.3,70.4,372,0,Number of Previous Live Births,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,62.4,58.2,66.4,407,Non-WIC,On WIC during Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,81,76.4,84.9,378,WIC,On WIC during Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,19,15.1,23.6,88,WIC,On WIC during Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,37.6,33.6,41.8,254,Non-WIC,On WIC during Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,88.3,84.2,91.5,361,Unintended,Pregnancy Intendedness,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,11.7,8.5,15.8,49,Unintended,Pregnancy Intendedness,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,58.9,54.7,63,401,Intended,Pregnancy Intendedness,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,41.1,37,45.3,293,Intended,Pregnancy Intendedness,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,20.7,16.1,26.2,70,Smoker,Smoked 3 months before Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,79.3,73.8,83.9,302,Smoker,Smoked 3 months before Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,65.7,61.8,69.4,480,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,34.3,30.6,38.2,273,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,32.1,28.7,35.6,304,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,TRUE,20.5,14.6,28,39,Smoker,Smoked last 3 months of Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,79.5,72,85.4,190,Smoker,Smoked last 3 months of Pregnancy,QUO91,23
-"(45.254228894001, -68.985031336)",Spoke to health care?,Maine,FALSE,67.9,64.4,71.3,591,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,23
-NA,Spoke to health care?,PRAMS Total,FALSE,67.8,65.8,69.7,3599,Adequate PNC,Adequacy of Prenatal care,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,32.2,30.3,34.2,1694,Adequate PNC,Adequacy of Prenatal care,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,82.9,76.8,87.7,344,Inadequate PNC,Adequacy of Prenatal care,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,17.1,12.3,23.2,76,Inadequate PNC,Adequacy of Prenatal care,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,79.8,76.8,82.5,1266,Intermediate PNC,Adequacy of Prenatal care,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,20.2,17.5,23.2,349,Intermediate PNC,Adequacy of Prenatal care,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,75.2,68.9,80.6,383,Unknown PNC,Adequacy of Prenatal care,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,24.8,19.4,31.1,149,Unknown PNC,Adequacy of Prenatal care,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,68.6,65.4,71.6,1558,LBW (<=2500g),Birth Weight,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,31.4,28.4,34.6,706,LBW (<=2500g),Birth Weight,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,72,70.4,73.6,4025,NBW (>2500g),Birth Weight,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,28,26.4,29.6,1560,NBW (>2500g),Birth Weight,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,83.5,80.3,86.3,1297,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,16.5,13.7,19.7,251,"$10,000 to $24,999",Income (years 2004 and beyond),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,81.5,78.4,84.2,1221,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,18.5,15.8,21.6,372,"$25,000 to $49,999",Income (years 2004 and beyond),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,55,52.2,57.8,1400,"$50,000 or more",Income (years 2004 and beyond),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,45,42.2,47.8,1234,"$50,000 or more",Income (years 2004 and beyond),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,79.8,76,83.1,1204,"Less than $10,000",Income (years 2004 and beyond),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,20.2,16.9,24,267,"Less than $10,000",Income (years 2004 and beyond),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,65.7,63.7,67.6,3073,Married,Marital Status,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,34.3,32.4,36.3,1772,Married,Marital Status,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,82.1,79.7,84.3,2512,Other,Marital Status,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,17.9,15.7,20.3,496,Other,Marital Status,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,78.2,72.6,82.9,587,<20 yrs,Maternal Age (3 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,21.8,17.1,27.4,132,<20 yrs,Maternal Age (3 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,77.5,75.4,79.4,3220,20-29 yrs,Maternal Age (3 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,22.5,20.6,24.6,981,20-29 yrs,Maternal Age (3 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,62.1,59.4,64.6,1785,30+ yrs,Maternal Age (3 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,37.9,35.4,40.6,1155,30+ yrs,Maternal Age (3 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,78.2,72.6,82.9,587,<20 yrs,Maternal Age (4 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,21.8,17.1,27.4,132,<20 yrs,Maternal Age (4 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,83.4,80.4,86,1588,20-24 yrs,Maternal Age (4 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,16.6,14,19.6,318,20-24 yrs,Maternal Age (4 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,67.1,64.9,69.3,2713,25-34 yrs,Maternal Age (4 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,32.9,30.7,35.1,1388,25-34 yrs,Maternal Age (4 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,66,61.8,69.9,704,35+ yrs,Maternal Age (4 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,34,30.1,38.2,430,35+ yrs,Maternal Age (4 Levels),QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,72.7,60.9,81.9,169,Age < 18,Maternal Age - 18 to 44 years in groupings,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,27.3,18.1,39.1,43,Age < 18,Maternal Age - 18 to 44 years in groupings,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,82.7,80,85.1,2006,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,17.3,14.9,20,407,Age 18 - 24,Maternal Age - 18 to 44 years in groupings,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,71.3,68.6,73.8,1907,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,28.7,26.2,31.4,832,Age 25 - 29,Maternal Age - 18 to 44 years in groupings,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,62.1,59.3,64.9,1508,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,37.9,35.1,40.7,980,Age 30 - 44,Maternal Age - 18 to 44 years in groupings,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,71.8,70.3,73.3,5421,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,28.2,26.7,29.7,2219,Age 18 - 44,Maternal Age - 18 to 44 years only,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,78.5,74.2,82.3,1015,< 12 yrs,Maternal Education,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,21.5,17.7,25.8,233,< 12 yrs,Maternal Education,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,65.5,63.4,67.6,2687,>12 yrs,Maternal Education,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,34.5,32.4,36.6,1560,>12 yrs,Maternal Education,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,80.5,77.8,82.9,1809,12 yrs,Maternal Education,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,19.5,17.1,22.2,455,12 yrs,Maternal Education,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,75.6,71.6,79.1,798,"Black, non-Hispanic",Maternal Race/Ethnicity,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,24.4,20.9,28.4,275,"Black, non-Hispanic",Maternal Race/Ethnicity,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,74.9,70.6,78.8,678,Hispanic,Maternal Race/Ethnicity,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,25.1,21.2,29.4,176,Hispanic,Maternal Race/Ethnicity,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,65.4,59.6,70.9,328,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,34.6,29.1,40.4,189,Other non-Hispanic,Maternal Race/Ethnicity,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,70.9,68.9,72.8,3762,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,29.1,27.2,31.1,1623,"White, non-Hispanic",Maternal Race/Ethnicity,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,82.8,80.7,84.8,3032,Medicaid,Medicaid Recipient,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,17.2,15.2,19.3,621,Medicaid,Medicaid Recipient,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,63.3,61.2,65.5,2559,Non-Medicaid,Medicaid Recipient,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,36.7,34.5,38.8,1647,Non-Medicaid,Medicaid Recipient,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,74.9,70.6,78.8,678,Hispanic,Mother Hispanic,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,25.1,21.2,29.4,176,Hispanic,Mother Hispanic,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,71.3,69.6,72.9,4883,Non-Hispanic,Mother Hispanic,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,28.7,27.1,30.4,2084,Non-Hispanic,Mother Hispanic,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,71.8,70.3,73.4,5592,None,None,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,28.2,26.6,29.7,2268,None,None,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,67.2,64.6,69.6,2220,0,Number of Previous Live Births,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,32.8,30.4,35.4,1075,0,Number of Previous Live Births,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,74.9,73,76.8,3344,1 or more,Number of Previous Live Births,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,25.1,23.2,27,1181,1 or more,Number of Previous Live Births,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,66,63.9,68,2927,Non-WIC,On WIC during Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,34,32,36.1,1641,Non-WIC,On WIC during Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,80.5,78.1,82.7,2589,WIC,On WIC during Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,19.5,17.3,21.9,588,WIC,On WIC during Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,61.2,59,63.3,2775,Intended,Pregnancy Intendedness,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,38.8,36.7,41,1838,Intended,Pregnancy Intendedness,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,85.5,83.4,87.4,2690,Unintended,Pregnancy Intendedness,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,14.5,12.6,16.6,404,Unintended,Pregnancy Intendedness,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,67.9,66.1,69.7,3809,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,32.1,30.3,33.9,1902,Non-Smoker,Smoked 3 months before Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,84,81.1,86.6,1673,Smoker,Smoked 3 months before Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,16,13.4,18.9,316,Smoker,Smoked 3 months before Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,69.6,67.9,71.3,4439,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,30.4,28.7,32.1,2040,Non-Smoker,Smoked last 3 months of Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,FALSE,85.4,81.5,88.6,1035,Smoker,Smoked last 3 months of Pregnancy,QUO91,59
-NA,Spoke to health care?,PRAMS Total,TRUE,14.6,11.4,18.5,181,Smoker,Smoked last 3 months of Pregnancy,QUO91,59
+location,response,value,lowConfidenceLimit,highConfidenceLimit,sampleSize,breakOut,breakOutCategory
+PRAMS Total,FALSE,64.1,62.6,65.5,5178,Adequate PNC,Adequacy of Prenatal care
+PRAMS Total,TRUE,35.9,34.5,37.4,2949,Adequate PNC,Adequacy of Prenatal care
+Utah,FALSE,67.4,64.1,70.4,727,Adequate PNC,Adequacy of Prenatal care
+Hawaii,FALSE,58.9,55.1,62.6,669,Adequate PNC,Adequacy of Prenatal care
+Maryland,FALSE,66.7,61.7,71.3,546,Adequate PNC,Adequacy of Prenatal care
+Michigan,FALSE,64.7,61.6,67.7,759,Adequate PNC,Adequacy of Prenatal care
+Maine,TRUE,35.1,31.6,38.9,324,Adequate PNC,Adequacy of Prenatal care
+Minnesota,TRUE,41.5,38.3,44.9,412,Adequate PNC,Adequacy of Prenatal care
+Maine,FALSE,64.9,61.1,68.4,547,Adequate PNC,Adequacy of Prenatal care
+Utah,TRUE,32.6,29.6,35.9,354,Adequate PNC,Adequacy of Prenatal care
+Hawaii,TRUE,41.1,37.4,44.9,441,Adequate PNC,Adequacy of Prenatal care
+Maryland,TRUE,33.3,28.7,38.3,321,Adequate PNC,Adequacy of Prenatal care
+New Jersey,FALSE,63.9,60.4,67.2,595,Adequate PNC,Adequacy of Prenatal care
+West Virginia,FALSE,67.8,64.4,71.1,757,Adequate PNC,Adequacy of Prenatal care
+West Virginia,TRUE,32.2,28.9,35.6,342,Adequate PNC,Adequacy of Prenatal care
+New Jersey,TRUE,36.1,32.8,39.6,320,Adequate PNC,Adequacy of Prenatal care
+Minnesota,FALSE,58.5,55.1,61.7,578,Adequate PNC,Adequacy of Prenatal care
+Michigan,TRUE,35.3,32.3,38.4,435,Adequate PNC,Adequacy of Prenatal care
+PRAMS Total,FALSE,73.9,68.2,78.9,389,Inadequate PNC,Adequacy of Prenatal care
+PRAMS Total,TRUE,26.1,21.1,31.8,171,Inadequate PNC,Adequacy of Prenatal care
+New Jersey,TRUE,29,19.5,40.9,25,Inadequate PNC,Adequacy of Prenatal care
+West Virginia,FALSE,70.6,57.5,81,75,Inadequate PNC,Adequacy of Prenatal care
+Minnesota,TRUE,37.5,21.1,57.2,16,Inadequate PNC,Adequacy of Prenatal care
+West Virginia,TRUE,29.4,19,42.5,38,Inadequate PNC,Adequacy of Prenatal care
+Maryland,FALSE,80.8,68.1,89.3,87,Inadequate PNC,Adequacy of Prenatal care
+Utah,TRUE,38.3,23.6,55.5,15,Inadequate PNC,Adequacy of Prenatal care
+Hawaii,FALSE,54.3,39,68.9,47,Inadequate PNC,Adequacy of Prenatal care
+Utah,FALSE,61.7,44.5,76.4,28,Inadequate PNC,Adequacy of Prenatal care
+Minnesota,FALSE,62.5,42.8,78.9,34,Inadequate PNC,Adequacy of Prenatal care
+New Jersey,FALSE,71,59.1,80.5,63,Inadequate PNC,Adequacy of Prenatal care
+Maryland,TRUE,19.2,10.7,31.9,35,Inadequate PNC,Adequacy of Prenatal care
+Michigan,FALSE,81.9,68.7,90.4,42,Inadequate PNC,Adequacy of Prenatal care
+Hawaii,TRUE,45.7,31.1,61,24,Inadequate PNC,Adequacy of Prenatal care
+Michigan,TRUE,18.1,9.6,31.3,14,Inadequate PNC,Adequacy of Prenatal care
+PRAMS Total,FALSE,73.1,70.3,75.6,1523,Intermediate PNC,Adequacy of Prenatal care
+PRAMS Total,TRUE,26.9,24.4,29.7,618,Intermediate PNC,Adequacy of Prenatal care
+West Virginia,TRUE,24.5,19,31.1,85,Intermediate PNC,Adequacy of Prenatal care
+Maine,FALSE,70.7,61,78.9,93,Intermediate PNC,Adequacy of Prenatal care
+Hawaii,FALSE,61.9,54.3,68.9,192,Intermediate PNC,Adequacy of Prenatal care
+Michigan,FALSE,75,67.9,81.1,179,Intermediate PNC,Adequacy of Prenatal care
+Hawaii,TRUE,38.1,31.1,45.7,94,Intermediate PNC,Adequacy of Prenatal care
+Minnesota,FALSE,67.9,60.7,74.4,149,Intermediate PNC,Adequacy of Prenatal care
+Michigan,TRUE,25,18.9,32.1,74,Intermediate PNC,Adequacy of Prenatal care
+Maryland,FALSE,72.8,64.4,79.9,195,Intermediate PNC,Adequacy of Prenatal care
+Utah,TRUE,20,14.8,26.4,50,Intermediate PNC,Adequacy of Prenatal care
+West Virginia,FALSE,75.5,68.9,81,264,Intermediate PNC,Adequacy of Prenatal care
+Maryland,TRUE,27.2,20.1,35.6,86,Intermediate PNC,Adequacy of Prenatal care
+Minnesota,TRUE,32.1,25.6,39.3,86,Intermediate PNC,Adequacy of Prenatal care
+Maine,TRUE,29.3,21.1,39,42,Intermediate PNC,Adequacy of Prenatal care
+New Jersey,TRUE,26.6,22,31.8,101,Intermediate PNC,Adequacy of Prenatal care
+New Jersey,FALSE,73.4,68.2,78,269,Intermediate PNC,Adequacy of Prenatal care
+Utah,FALSE,80,73.6,85.2,182,Intermediate PNC,Adequacy of Prenatal care
+PRAMS Total,FALSE,68.1,62.7,73.1,378,NA,Adequacy of Prenatal care
+PRAMS Total,TRUE,31.9,26.9,37.3,209,NA,Adequacy of Prenatal care
+Michigan,TRUE,32.5,24.2,42.1,52,NA,Adequacy of Prenatal care
+Utah,FALSE,63.4,49.5,75.3,52,NA,Adequacy of Prenatal care
+Minnesota,FALSE,62.3,50.1,73.1,48,NA,Adequacy of Prenatal care
+Maryland,FALSE,72.3,60.7,81.5,111,NA,Adequacy of Prenatal care
+Hawaii,TRUE,41.3,28,56,28,NA,Adequacy of Prenatal care
+Hawaii,FALSE,58.7,44,72,52,NA,Adequacy of Prenatal care
+Michigan,FALSE,67.5,57.9,75.8,88,NA,Adequacy of Prenatal care
+Minnesota,TRUE,37.7,26.9,49.9,35,NA,Adequacy of Prenatal care
+Maryland,TRUE,27.7,18.5,39.3,70,NA,Adequacy of Prenatal care
+Utah,TRUE,36.6,24.7,50.5,22,NA,Adequacy of Prenatal care
+PRAMS Total,FALSE,60.9,57.5,64.2,1886,FALSE,Birth Weight
+PRAMS Total,TRUE,39.1,35.8,42.5,1010,FALSE,Birth Weight
+Utah,FALSE,68.5,63.9,72.8,246,FALSE,Birth Weight
+Hawaii,FALSE,63.1,57.5,68.3,171,FALSE,Birth Weight
+Michigan,FALSE,65.3,59.2,70.9,177,FALSE,Birth Weight
+Hawaii,TRUE,36.9,31.7,42.5,107,FALSE,Birth Weight
+Minnesota,FALSE,41.9,30.7,54,45,FALSE,Birth Weight
+New Jersey,FALSE,56.5,46.2,66.2,68,FALSE,Birth Weight
+Maine,FALSE,63,59.4,66.5,224,FALSE,Birth Weight
+Maine,TRUE,37,33.5,40.6,141,FALSE,Birth Weight
+West Virginia,FALSE,71.7,69.4,73.9,550,FALSE,Birth Weight
+Maryland,FALSE,66,61.9,69.8,405,FALSE,Birth Weight
+Michigan,TRUE,34.7,29.1,40.8,95,FALSE,Birth Weight
+Utah,TRUE,31.5,27.2,36.1,118,FALSE,Birth Weight
+Minnesota,TRUE,58.1,46,69.3,44,FALSE,Birth Weight
+West Virginia,TRUE,28.3,26.1,30.6,220,FALSE,Birth Weight
+Maryland,TRUE,34,30.2,38.1,238,FALSE,Birth Weight
+New Jersey,TRUE,43.5,33.8,53.8,47,FALSE,Birth Weight
+PRAMS Total,FALSE,66.9,65.6,68.1,5576,TRUE,Birth Weight
+PRAMS Total,TRUE,33.1,31.9,34.4,2937,TRUE,Birth Weight
+Hawaii,FALSE,59,55.5,62.4,789,TRUE,Birth Weight
+Michigan,FALSE,67.2,64.4,69.9,890,TRUE,Birth Weight
+New Jersey,TRUE,32.2,29.4,35,399,TRUE,Birth Weight
+Maryland,FALSE,70.1,66,73.9,531,TRUE,Birth Weight
+West Virginia,TRUE,30.6,27.6,33.8,247,TRUE,Birth Weight
+Maine,TRUE,34,30.5,37.6,229,TRUE,Birth Weight
+West Virginia,FALSE,69.4,66.2,72.4,559,TRUE,Birth Weight
+Utah,TRUE,31,28.2,33.9,323,TRUE,Birth Weight
+Minnesota,FALSE,61.6,58.7,64.5,764,TRUE,Birth Weight
+Maryland,TRUE,29.9,26.1,34,274,TRUE,Birth Weight
+Hawaii,TRUE,41,37.6,44.5,480,TRUE,Birth Weight
+New Jersey,FALSE,67.8,65,70.6,869,TRUE,Birth Weight
+Michigan,TRUE,32.8,30.1,35.6,480,TRUE,Birth Weight
+Minnesota,TRUE,38.4,35.5,41.3,505,TRUE,Birth Weight
+Maine,FALSE,66,62.4,69.5,431,TRUE,Birth Weight
+Utah,FALSE,69,66.1,71.8,743,TRUE,Birth Weight
+PRAMS Total,FALSE,78.4,76,80.6,1704,"$10,000 to $24,999",Income (years 2004 and beyond)
+PRAMS Total,TRUE,21.6,19.4,24,580,"$10,000 to $24,999",Income (years 2004 and beyond)
+Maine,TRUE,26.5,20.1,33.9,61,"$10,000 to $24,999",Income (years 2004 and beyond)
+Minnesota,TRUE,27.3,20.8,34.8,68,"$10,000 to $24,999",Income (years 2004 and beyond)
+Minnesota,FALSE,72.7,65.2,79.2,148,"$10,000 to $24,999",Income (years 2004 and beyond)
+Michigan,FALSE,80.2,75,84.6,259,"$10,000 to $24,999",Income (years 2004 and beyond)
+Hawaii,FALSE,60.1,52.7,67,200,"$10,000 to $24,999",Income (years 2004 and beyond)
+Michigan,TRUE,19.8,15.4,25,82,"$10,000 to $24,999",Income (years 2004 and beyond)
+Utah,FALSE,77,71.3,81.9,248,"$10,000 to $24,999",Income (years 2004 and beyond)
+Utah,TRUE,23,18.1,28.7,72,"$10,000 to $24,999",Income (years 2004 and beyond)
+West Virginia,FALSE,76.3,70.9,81.1,310,"$10,000 to $24,999",Income (years 2004 and beyond)
+Maryland,FALSE,90.4,83.5,94.6,200,"$10,000 to $24,999",Income (years 2004 and beyond)
+New Jersey,TRUE,23.8,18.2,30.6,53,"$10,000 to $24,999",Income (years 2004 and beyond)
+Maryland,TRUE,9.6,5.4,16.5,38,"$10,000 to $24,999",Income (years 2004 and beyond)
+Hawaii,TRUE,39.9,33,47.3,112,"$10,000 to $24,999",Income (years 2004 and beyond)
+New Jersey,FALSE,76.2,69.4,81.8,169,"$10,000 to $24,999",Income (years 2004 and beyond)
+Maine,FALSE,73.5,66.1,79.9,170,"$10,000 to $24,999",Income (years 2004 and beyond)
+West Virginia,TRUE,23.7,18.9,29.1,94,"$10,000 to $24,999",Income (years 2004 and beyond)
+PRAMS Total,FALSE,71.6,69,74.1,1511,"$25,000 to $49,999",Income (years 2004 and beyond)
+PRAMS Total,TRUE,28.4,25.9,31,681,"$25,000 to $49,999",Income (years 2004 and beyond)
+New Jersey,TRUE,22.6,16.6,30,44,"$25,000 to $49,999",Income (years 2004 and beyond)
+Maine,FALSE,63.6,55.7,70.7,126,"$25,000 to $49,999",Income (years 2004 and beyond)
+Hawaii,TRUE,40.7,34.4,47.3,140,"$25,000 to $49,999",Income (years 2004 and beyond)
+West Virginia,TRUE,37.1,30.2,44.5,85,"$25,000 to $49,999",Income (years 2004 and beyond)
+Utah,FALSE,70.3,65,75.1,270,"$25,000 to $49,999",Income (years 2004 and beyond)
+Minnesota,FALSE,71.3,65.5,76.5,209,"$25,000 to $49,999",Income (years 2004 and beyond)
+Michigan,FALSE,71,64.7,76.6,208,"$25,000 to $49,999",Income (years 2004 and beyond)
+Michigan,TRUE,29,23.4,35.3,82,"$25,000 to $49,999",Income (years 2004 and beyond)
+Maryland,TRUE,21.5,14.1,31.3,50,"$25,000 to $49,999",Income (years 2004 and beyond)
+Hawaii,FALSE,59.3,52.7,65.6,217,"$25,000 to $49,999",Income (years 2004 and beyond)
+West Virginia,FALSE,62.9,55.5,69.8,176,"$25,000 to $49,999",Income (years 2004 and beyond)
+Maine,TRUE,36.4,29.3,44.3,70,"$25,000 to $49,999",Income (years 2004 and beyond)
+Utah,TRUE,29.7,24.9,35,117,"$25,000 to $49,999",Income (years 2004 and beyond)
+New Jersey,FALSE,77.4,70,83.4,143,"$25,000 to $49,999",Income (years 2004 and beyond)
+Maryland,FALSE,78.5,68.7,85.9,162,"$25,000 to $49,999",Income (years 2004 and beyond)
+Minnesota,TRUE,28.7,23.5,34.5,93,"$25,000 to $49,999",Income (years 2004 and beyond)
+PRAMS Total,FALSE,54.7,52.7,56.7,2183,"$50,000 or more",Income (years 2004 and beyond)
+PRAMS Total,TRUE,45.3,43.3,47.3,1848,"$50,000 or more",Income (years 2004 and beyond)
+New Jersey,FALSE,54.9,50.4,59.2,334,"$50,000 or more",Income (years 2004 and beyond)
+New Jersey,TRUE,45.1,40.8,49.6,259,"$50,000 or more",Income (years 2004 and beyond)
+Maine,TRUE,47.1,41.4,53,181,"$50,000 or more",Income (years 2004 and beyond)
+West Virginia,TRUE,39.4,33.4,45.8,144,"$50,000 or more",Income (years 2004 and beyond)
+Maryland,FALSE,56.9,51.2,62.3,390,"$50,000 or more",Income (years 2004 and beyond)
+Maine,FALSE,52.9,47,58.6,170,"$50,000 or more",Income (years 2004 and beyond)
+Maryland,TRUE,43.1,37.7,48.8,346,"$50,000 or more",Income (years 2004 and beyond)
+Michigan,FALSE,51.6,46.8,56.4,240,"$50,000 or more",Income (years 2004 and beyond)
+Minnesota,TRUE,48.5,44.4,52.7,284,"$50,000 or more",Income (years 2004 and beyond)
+Hawaii,FALSE,57.5,51.9,63,287,"$50,000 or more",Income (years 2004 and beyond)
+Utah,TRUE,39.2,34.3,44.4,178,"$50,000 or more",Income (years 2004 and beyond)
+Utah,FALSE,60.8,55.6,65.7,268,"$50,000 or more",Income (years 2004 and beyond)
+Michigan,TRUE,48.4,43.6,53.2,246,"$50,000 or more",Income (years 2004 and beyond)
+West Virginia,FALSE,60.6,54.2,66.6,197,"$50,000 or more",Income (years 2004 and beyond)
+Minnesota,FALSE,51.5,47.3,55.6,297,"$50,000 or more",Income (years 2004 and beyond)
+Hawaii,TRUE,42.5,37,48.1,210,"$50,000 or more",Income (years 2004 and beyond)
+PRAMS Total,FALSE,72.8,69.9,75.6,1555,"Less than $10,000",Income (years 2004 and beyond)
+PRAMS Total,TRUE,27.2,24.4,30.1,579,"Less than $10,000",Income (years 2004 and beyond)
+Utah,TRUE,28.1,21.3,36.1,53,"Less than $10,000",Income (years 2004 and beyond)
+Maine,FALSE,78.4,69.9,85,134,"Less than $10,000",Income (years 2004 and beyond)
+Hawaii,FALSE,61.5,53.8,68.6,209,"Less than $10,000",Income (years 2004 and beyond)
+Hawaii,TRUE,38.5,31.4,46.2,93,"Less than $10,000",Income (years 2004 and beyond)
+New Jersey,FALSE,78.5,71.8,83.9,167,"Less than $10,000",Income (years 2004 and beyond)
+West Virginia,TRUE,20.5,15.9,26,95,"Less than $10,000",Income (years 2004 and beyond)
+Michigan,FALSE,73.5,68.1,78.3,301,"Less than $10,000",Income (years 2004 and beyond)
+Michigan,TRUE,26.5,21.7,31.9,127,"Less than $10,000",Income (years 2004 and beyond)
+New Jersey,TRUE,21.5,16.1,28.2,47,"Less than $10,000",Income (years 2004 and beyond)
+Utah,FALSE,71.9,63.9,78.7,143,"Less than $10,000",Income (years 2004 and beyond)
+Minnesota,TRUE,36,27.8,45.2,71,"Less than $10,000",Income (years 2004 and beyond)
+Maine,TRUE,21.6,15,30.1,42,"Less than $10,000",Income (years 2004 and beyond)
+Minnesota,FALSE,64,54.8,72.2,132,"Less than $10,000",Income (years 2004 and beyond)
+West Virginia,FALSE,79.5,74,84.1,338,"Less than $10,000",Income (years 2004 and beyond)
+Maryland,FALSE,70.2,59.1,79.3,131,"Less than $10,000",Income (years 2004 and beyond)
+Maryland,TRUE,29.8,20.7,40.9,51,"Less than $10,000",Income (years 2004 and beyond)
+PRAMS Total,FALSE,60.9,59.4,62.5,4194,TRUE,Marital Status
+PRAMS Total,TRUE,39.1,37.5,40.6,2824,TRUE,Marital Status
+Maine,FALSE,55.8,51.3,60.2,327,TRUE,Marital Status
+New Jersey,TRUE,38,34.5,41.6,316,TRUE,Marital Status
+Minnesota,TRUE,42.6,39.2,46,394,TRUE,Marital Status
+Utah,FALSE,66.7,63.6,69.7,753,TRUE,Marital Status
+Minnesota,FALSE,57.4,54,60.8,500,TRUE,Marital Status
+Michigan,TRUE,40.1,36.6,43.8,367,TRUE,Marital Status
+Michigan,FALSE,59.9,56.2,63.4,498,TRUE,Marital Status
+Hawaii,FALSE,54.6,50.5,58.7,515,TRUE,Marital Status
+Maryland,TRUE,38.8,34.1,43.7,416,TRUE,Marital Status
+West Virginia,FALSE,63.8,59.7,67.8,523,TRUE,Marital Status
+Maryland,FALSE,61.2,56.3,65.9,545,TRUE,Marital Status
+West Virginia,TRUE,36.2,32.2,40.3,284,TRUE,Marital Status
+New Jersey,FALSE,62,58.4,65.5,533,TRUE,Marital Status
+Maine,TRUE,44.2,39.8,48.7,280,TRUE,Marital Status
+Utah,TRUE,33.3,30.3,36.4,380,TRUE,Marital Status
+Hawaii,TRUE,45.4,41.3,49.5,387,TRUE,Marital Status
+PRAMS Total,FALSE,76,74.1,77.8,3265,FALSE,Marital Status
+PRAMS Total,TRUE,24,22.2,25.9,1122,FALSE,Marital Status
+New Jersey,TRUE,25,21.1,29.4,130,FALSE,Marital Status
+Maryland,TRUE,17.8,13.2,23.6,96,FALSE,Marital Status
+Hawaii,FALSE,66.9,61.8,71.7,445,FALSE,Marital Status
+West Virginia,TRUE,23.5,19.8,27.5,183,FALSE,Marital Status
+Hawaii,TRUE,33.1,28.3,38.2,200,FALSE,Marital Status
+Minnesota,FALSE,67.8,62.2,72.9,309,FALSE,Marital Status
+West Virginia,FALSE,76.5,72.5,80.2,588,FALSE,Marital Status
+New Jersey,FALSE,75,70.6,78.9,404,FALSE,Marital Status
+Maine,TRUE,19.4,15.3,24.4,90,FALSE,Marital Status
+Michigan,TRUE,23,19.6,26.6,208,FALSE,Marital Status
+Maine,FALSE,80.6,75.6,84.7,328,FALSE,Marital Status
+Michigan,FALSE,77,73.4,80.4,569,FALSE,Marital Status
+Maryland,FALSE,82.2,76.4,86.8,394,FALSE,Marital Status
+Utah,TRUE,22.2,17.1,28.4,60,FALSE,Marital Status
+Utah,FALSE,77.8,71.6,82.9,228,FALSE,Marital Status
+Minnesota,TRUE,32.2,27.1,37.8,155,FALSE,Marital Status
+PRAMS Total,FALSE,69.8,68.1,71.4,3853,20-29 yrs,Maternal Age (3 Levels)
+PRAMS Total,TRUE,30.2,28.6,31.9,1803,20-29 yrs,Maternal Age (3 Levels)
+Michigan,FALSE,70.9,67.3,74.2,609,20-29 yrs,Maternal Age (3 Levels)
+Maryland,TRUE,25.5,20.2,31.6,110,20-29 yrs,Maternal Age (3 Levels)
+Maryland,FALSE,74.5,68.4,79.8,289,20-29 yrs,Maternal Age (3 Levels)
+West Virginia,FALSE,68,64.3,71.5,674,20-29 yrs,Maternal Age (3 Levels)
+Maine,TRUE,31,26.7,35.7,182,20-29 yrs,Maternal Age (3 Levels)
+Utah,FALSE,70,66.4,73.4,567,20-29 yrs,Maternal Age (3 Levels)
+Minnesota,FALSE,63.2,59.1,67,451,20-29 yrs,Maternal Age (3 Levels)
+West Virginia,TRUE,32,28.5,35.7,296,20-29 yrs,Maternal Age (3 Levels)
+Maine,FALSE,69,64.3,73.3,374,20-29 yrs,Maternal Age (3 Levels)
+Minnesota,TRUE,36.8,33,40.9,270,20-29 yrs,Maternal Age (3 Levels)
+New Jersey,FALSE,72.3,68.1,76.2,409,20-29 yrs,Maternal Age (3 Levels)
+Hawaii,FALSE,61.9,57.2,66.3,480,20-29 yrs,Maternal Age (3 Levels)
+Michigan,TRUE,29.1,25.8,32.7,277,20-29 yrs,Maternal Age (3 Levels)
+Hawaii,TRUE,38.1,33.7,42.8,256,20-29 yrs,Maternal Age (3 Levels)
+New Jersey,TRUE,27.7,23.8,31.9,162,20-29 yrs,Maternal Age (3 Levels)
+Utah,TRUE,30,26.6,33.6,250,20-29 yrs,Maternal Age (3 Levels)
+PRAMS Total,FALSE,61.1,59.3,62.9,2994,30+ yrs,Maternal Age (3 Levels)
+PRAMS Total,TRUE,38.9,37.1,40.7,1926,30+ yrs,Maternal Age (3 Levels)
+Maine,TRUE,42.5,37.1,48.1,179,30+ yrs,Maternal Age (3 Levels)
+New Jersey,TRUE,38.1,34.3,42.1,262,30+ yrs,Maternal Age (3 Levels)
+Minnesota,TRUE,42.4,38.1,46.7,250,30+ yrs,Maternal Age (3 Levels)
+Utah,TRUE,34.3,29.8,39.2,171,30+ yrs,Maternal Age (3 Levels)
+West Virginia,FALSE,68,61.8,73.6,272,30+ yrs,Maternal Age (3 Levels)
+Maryland,FALSE,65,60.2,69.5,611,30+ yrs,Maternal Age (3 Levels)
+Utah,FALSE,65.7,60.8,70.2,351,30+ yrs,Maternal Age (3 Levels)
+Maryland,TRUE,35,30.5,39.8,387,30+ yrs,Maternal Age (3 Levels)
+Michigan,TRUE,41.9,37.5,46.4,251,30+ yrs,Maternal Age (3 Levels)
+Michigan,FALSE,58.1,53.6,62.5,346,30+ yrs,Maternal Age (3 Levels)
+New Jersey,FALSE,61.9,57.9,65.7,463,30+ yrs,Maternal Age (3 Levels)
+Hawaii,TRUE,43.7,39,48.5,298,30+ yrs,Maternal Age (3 Levels)
+West Virginia,TRUE,32,26.4,38.2,128,30+ yrs,Maternal Age (3 Levels)
+Maine,FALSE,57.5,51.9,62.9,224,30+ yrs,Maternal Age (3 Levels)
+Hawaii,FALSE,56.3,51.5,61,410,30+ yrs,Maternal Age (3 Levels)
+Minnesota,FALSE,57.6,53.3,61.9,317,30+ yrs,Maternal Age (3 Levels)
+PRAMS Total,FALSE,73.4,68.6,77.6,620,<20 yrs,Maternal Age (3 Levels)
+PRAMS Total,TRUE,26.6,22.4,31.4,218,<20 yrs,Maternal Age (3 Levels)
+West Virginia,TRUE,19.9,14,27.4,43,<20 yrs,Maternal Age (3 Levels)
+Michigan,TRUE,23.5,16.8,31.7,47,<20 yrs,Maternal Age (3 Levels)
+Minnesota,FALSE,56.5,41.2,70.6,41,<20 yrs,Maternal Age (3 Levels)
+Minnesota,TRUE,43.5,29.4,58.8,29,<20 yrs,Maternal Age (3 Levels)
+Utah,TRUE,19.6,12.2,30.1,20,<20 yrs,Maternal Age (3 Levels)
+Hawaii,FALSE,60.2,46.8,72.2,70,<20 yrs,Maternal Age (3 Levels)
+New Jersey,TRUE,26.6,17.7,37.9,22,<20 yrs,Maternal Age (3 Levels)
+Maryland,FALSE,69.7,51.4,83.3,39,<20 yrs,Maternal Age (3 Levels)
+Utah,FALSE,80.4,69.9,87.8,70,<20 yrs,Maternal Age (3 Levels)
+Michigan,FALSE,76.5,68.3,83.2,113,<20 yrs,Maternal Age (3 Levels)
+New Jersey,FALSE,73.4,62.1,82.3,65,<20 yrs,Maternal Age (3 Levels)
+Hawaii,TRUE,39.8,27.8,53.2,33,<20 yrs,Maternal Age (3 Levels)
+Maryland,TRUE,30.3,16.7,48.6,15,<20 yrs,Maternal Age (3 Levels)
+Maine,FALSE,86.4,72.7,93.8,57,<20 yrs,Maternal Age (3 Levels)
+West Virginia,FALSE,80.1,72.6,86,165,<20 yrs,Maternal Age (3 Levels)
+Maine,TRUE,13.6,6.2,27.3,9,<20 yrs,Maternal Age (3 Levels)
+PRAMS Total,FALSE,74.4,71.9,76.7,1801,20-24 yrs,Maternal Age (4 Levels)
+PRAMS Total,TRUE,25.6,23.3,28.1,716,20-24 yrs,Maternal Age (4 Levels)
+Maine,TRUE,28.3,21.9,35.7,68,20-24 yrs,Maternal Age (4 Levels)
+West Virginia,FALSE,68.7,63.6,73.3,370,20-24 yrs,Maternal Age (4 Levels)
+West Virginia,TRUE,31.3,26.7,36.4,161,20-24 yrs,Maternal Age (4 Levels)
+Maryland,TRUE,21.7,14,32.1,37,20-24 yrs,Maternal Age (4 Levels)
+Maine,FALSE,71.7,64.3,78.1,167,20-24 yrs,Maternal Age (4 Levels)
+Utah,FALSE,75.4,69.8,80.3,250,20-24 yrs,Maternal Age (4 Levels)
+Minnesota,TRUE,35.7,29,43,91,20-24 yrs,Maternal Age (4 Levels)
+Hawaii,TRUE,32.2,26.1,38.9,106,20-24 yrs,Maternal Age (4 Levels)
+Minnesota,FALSE,64.3,57,71,163,20-24 yrs,Maternal Age (4 Levels)
+Hawaii,FALSE,67.8,61.1,73.9,238,20-24 yrs,Maternal Age (4 Levels)
+New Jersey,FALSE,78.5,72.2,83.7,181,20-24 yrs,Maternal Age (4 Levels)
+Michigan,TRUE,23.3,18.9,28.3,116,20-24 yrs,Maternal Age (4 Levels)
+Michigan,FALSE,76.7,71.7,81.1,314,20-24 yrs,Maternal Age (4 Levels)
+Utah,TRUE,24.6,19.7,30.2,81,20-24 yrs,Maternal Age (4 Levels)
+Maryland,FALSE,78.3,67.9,86,118,20-24 yrs,Maternal Age (4 Levels)
+New Jersey,TRUE,21.5,16.3,27.8,56,20-24 yrs,Maternal Age (4 Levels)
+PRAMS Total,FALSE,63.8,62.1,65.4,3758,25-34 yrs,Maternal Age (4 Levels)
+PRAMS Total,TRUE,36.2,34.6,37.9,2193,25-34 yrs,Maternal Age (4 Levels)
+Maryland,FALSE,69.6,64.2,74.4,337,25-34 yrs,Maternal Age (4 Levels)
+Utah,FALSE,66.6,63,70.1,570,25-34 yrs,Maternal Age (4 Levels)
+West Virginia,FALSE,64.9,60.3,69.2,483,25-34 yrs,Maternal Age (4 Levels)
+Minnesota,TRUE,39.4,35.9,42.9,352,25-34 yrs,Maternal Age (4 Levels)
+New Jersey,TRUE,34.9,31.3,38.7,259,25-34 yrs,Maternal Age (4 Levels)
+New Jersey,FALSE,65.1,61.3,68.7,524,25-34 yrs,Maternal Age (4 Levels)
+Minnesota,FALSE,60.6,57.1,64.1,508,25-34 yrs,Maternal Age (4 Levels)
+Michigan,TRUE,39.3,35.7,43.1,337,25-34 yrs,Maternal Age (4 Levels)
+Hawaii,TRUE,44.5,40.2,48.9,334,25-34 yrs,Maternal Age (4 Levels)
+Maryland,TRUE,30.4,25.6,35.8,168,25-34 yrs,Maternal Age (4 Levels)
+Hawaii,FALSE,55.5,51.1,59.8,480,25-34 yrs,Maternal Age (4 Levels)
+Maine,TRUE,37,32.6,41.7,224,25-34 yrs,Maternal Age (4 Levels)
+Michigan,FALSE,60.7,56.9,64.3,506,25-34 yrs,Maternal Age (4 Levels)
+Utah,TRUE,33.4,29.9,37,288,25-34 yrs,Maternal Age (4 Levels)
+West Virginia,TRUE,35.1,30.8,39.7,231,25-34 yrs,Maternal Age (4 Levels)
+Maine,FALSE,63,58.3,67.4,350,25-34 yrs,Maternal Age (4 Levels)
+PRAMS Total,FALSE,61.9,58.9,64.7,1288,35+ yrs,Maternal Age (4 Levels)
+PRAMS Total,TRUE,38.1,35.3,41.1,820,35+ yrs,Maternal Age (4 Levels)
+Utah,FALSE,62.3,52.7,71,98,35+ yrs,Maternal Age (4 Levels)
+New Jersey,FALSE,60.2,53.8,66.3,167,35+ yrs,Maternal Age (4 Levels)
+Minnesota,TRUE,44.1,36.4,52.1,77,35+ yrs,Maternal Age (4 Levels)
+West Virginia,TRUE,14.4,8.2,24,32,35+ yrs,Maternal Age (4 Levels)
+New Jersey,TRUE,39.8,33.7,46.2,109,35+ yrs,Maternal Age (4 Levels)
+Michigan,FALSE,66.4,58.9,73.2,135,35+ yrs,Maternal Age (4 Levels)
+Maryland,FALSE,62.6,58.4,66.6,445,35+ yrs,Maternal Age (4 Levels)
+Maine,FALSE,57.6,48.4,66.4,81,35+ yrs,Maternal Age (4 Levels)
+Maine,TRUE,42.4,33.6,51.6,69,35+ yrs,Maternal Age (4 Levels)
+Hawaii,FALSE,59,51.3,66.2,172,35+ yrs,Maternal Age (4 Levels)
+Utah,TRUE,37.7,29,47.3,52,35+ yrs,Maternal Age (4 Levels)
+Maryland,TRUE,37.4,33.4,41.6,292,35+ yrs,Maternal Age (4 Levels)
+West Virginia,FALSE,85.6,76,91.8,93,35+ yrs,Maternal Age (4 Levels)
+Minnesota,FALSE,55.9,47.9,63.6,97,35+ yrs,Maternal Age (4 Levels)
+Hawaii,TRUE,41,33.8,48.7,114,35+ yrs,Maternal Age (4 Levels)
+Michigan,TRUE,33.6,26.8,41.1,75,35+ yrs,Maternal Age (4 Levels)
+PRAMS Total,FALSE,73.4,68.6,77.6,620,<20 yrs,Maternal Age (4 Levels)
+PRAMS Total,TRUE,26.6,22.4,31.4,218,<20 yrs,Maternal Age (4 Levels)
+Maryland,TRUE,30.3,16.7,48.6,15,<20 yrs,Maternal Age (4 Levels)
+Michigan,FALSE,76.5,68.3,83.2,113,<20 yrs,Maternal Age (4 Levels)
+West Virginia,FALSE,80.1,72.6,86,165,<20 yrs,Maternal Age (4 Levels)
+Hawaii,TRUE,39.8,27.8,53.2,33,<20 yrs,Maternal Age (4 Levels)
+Utah,FALSE,80.4,69.9,87.8,70,<20 yrs,Maternal Age (4 Levels)
+Maryland,FALSE,69.7,51.4,83.3,39,<20 yrs,Maternal Age (4 Levels)
+Minnesota,TRUE,43.5,29.4,58.8,29,<20 yrs,Maternal Age (4 Levels)
+Utah,TRUE,19.6,12.2,30.1,20,<20 yrs,Maternal Age (4 Levels)
+New Jersey,TRUE,26.6,17.7,37.9,22,<20 yrs,Maternal Age (4 Levels)
+Hawaii,FALSE,60.2,46.8,72.2,70,<20 yrs,Maternal Age (4 Levels)
+West Virginia,TRUE,19.9,14,27.4,43,<20 yrs,Maternal Age (4 Levels)
+Maine,FALSE,86.4,72.7,93.8,57,<20 yrs,Maternal Age (4 Levels)
+New Jersey,FALSE,73.4,62.1,82.3,65,<20 yrs,Maternal Age (4 Levels)
+Minnesota,FALSE,56.5,41.2,70.6,41,<20 yrs,Maternal Age (4 Levels)
+Maine,TRUE,13.6,6.2,27.3,9,<20 yrs,Maternal Age (4 Levels)
+Michigan,TRUE,23.5,16.8,31.7,47,<20 yrs,Maternal Age (4 Levels)
+PRAMS Total,FALSE,74,71.7,76.1,2233,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+PRAMS Total,TRUE,26,23.9,28.3,881,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Maine,TRUE,26.2,20.5,32.7,76,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+New Jersey,TRUE,22.8,18,28.3,74,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Minnesota,TRUE,35,28.9,41.7,106,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Utah,TRUE,24.1,19.7,29.2,97,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Maryland,FALSE,75.1,65.8,82.5,143,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Minnesota,FALSE,65,58.3,71.1,196,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+West Virginia,TRUE,29.3,25.3,33.8,194,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Maine,FALSE,73.8,67.3,79.5,209,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Utah,FALSE,75.9,70.8,80.3,298,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Hawaii,FALSE,66.2,60,72,280,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+New Jersey,FALSE,77.2,71.7,82,231,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Michigan,TRUE,24.1,20.2,28.5,154,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Maryland,TRUE,24.9,17.5,34.2,50,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Hawaii,TRUE,33.8,28,40,130,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+Michigan,FALSE,75.9,71.5,79.8,390,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+West Virginia,FALSE,70.7,66.2,74.7,486,Age 18 - 24,Maternal Age - 18 to 44 years in groupings
+PRAMS Total,FALSE,65.9,63.8,67.9,2467,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+PRAMS Total,TRUE,34.1,32.1,36.2,1348,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Maryland,FALSE,73.2,66.2,79.3,212,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Minnesota,TRUE,36.9,32.7,41.2,217,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Utah,TRUE,34,29.8,38.4,200,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+New Jersey,FALSE,66.4,61.4,71.1,292,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+New Jersey,TRUE,33.6,28.9,38.6,142,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Michigan,TRUE,35.6,31.2,40.3,199,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+West Virginia,TRUE,33.4,28.5,38.7,161,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Maine,TRUE,35.5,30.2,41.2,141,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Michigan,FALSE,64.4,59.7,68.8,345,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Maine,FALSE,64.5,58.8,69.8,238,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Hawaii,TRUE,43.5,38,49.2,199,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Utah,FALSE,66,61.6,70.2,370,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Hawaii,FALSE,56.5,50.8,62,303,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Minnesota,FALSE,63.1,58.8,67.3,352,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+Maryland,TRUE,26.8,20.7,33.8,89,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+West Virginia,FALSE,66.6,61.3,71.5,355,Age 25 - 29,Maternal Age - 18 to 44 years in groupings
+PRAMS Total,FALSE,60.8,58.8,62.8,2563,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+PRAMS Total,TRUE,39.2,37.2,41.2,1652,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Maine,FALSE,58.6,52.6,64.4,190,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+West Virginia,TRUE,31,24.8,38,101,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Utah,FALSE,66.1,60.8,71.1,298,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Minnesota,FALSE,56,51.1,60.8,253,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Michigan,FALSE,58.5,53.6,63.3,294,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Utah,TRUE,33.9,28.9,39.2,139,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+West Virginia,FALSE,69,62,75.2,219,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Maryland,TRUE,36.7,31.9,41.7,364,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Minnesota,TRUE,44,39.2,48.9,211,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Michigan,TRUE,41.5,36.7,46.4,212,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Hawaii,TRUE,43.9,38.8,49.2,248,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+New Jersey,TRUE,38.2,34.1,42.4,226,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Hawaii,FALSE,56.1,50.8,61.2,347,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Maryland,FALSE,63.3,58.3,68.1,565,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+Maine,TRUE,41.4,35.6,47.4,151,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+New Jersey,FALSE,61.8,57.6,65.9,397,Age 30 - 44,Maternal Age - 18 to 44 years in groupings
+PRAMS Total,FALSE,76.7,67.6,83.8,188,Age < 18,Maternal Age - 18 to 44 years in groupings
+PRAMS Total,TRUE,23.3,16.2,32.4,53,Age < 18,Maternal Age - 18 to 44 years in groupings
+Michigan,TRUE,15.3,6.9,30.4,9,Age < 18,Maternal Age - 18 to 44 years in groupings
+Hawaii,FALSE,67.6,43.4,85,28,Age < 18,Maternal Age - 18 to 44 years in groupings
+Hawaii,TRUE,32.4,15,56.6,9,Age < 18,Maternal Age - 18 to 44 years in groupings
+West Virginia,FALSE,84.6,70.2,92.7,49,Age < 18,Maternal Age - 18 to 44 years in groupings
+Michigan,FALSE,84.7,69.6,93.1,37,Age < 18,Maternal Age - 18 to 44 years in groupings
+West Virginia,TRUE,15.4,7.3,29.8,10,Age < 18,Maternal Age - 18 to 44 years in groupings
+PRAMS Total,FALSE,66.2,65,67.4,7263,Age 18 - 44,Maternal Age - 18 to 44 years only
+PRAMS Total,TRUE,33.8,32.6,35,3881,Age 18 - 44,Maternal Age - 18 to 44 years only
+Maryland,TRUE,30.4,26.9,34.2,503,Age 18 - 44,Maternal Age - 18 to 44 years only
+New Jersey,TRUE,33.2,30.5,36,442,Age 18 - 44,Maternal Age - 18 to 44 years only
+Michigan,TRUE,33.5,30.9,36.2,565,Age 18 - 44,Maternal Age - 18 to 44 years only
+West Virginia,TRUE,31.1,28.2,34.1,456,Age 18 - 44,Maternal Age - 18 to 44 years only
+Hawaii,FALSE,59.1,55.8,62.2,930,Age 18 - 44,Maternal Age - 18 to 44 years only
+Utah,TRUE,31.2,28.5,34,436,Age 18 - 44,Maternal Age - 18 to 44 years only
+Maine,FALSE,65.2,61.7,68.5,637,Age 18 - 44,Maternal Age - 18 to 44 years only
+Maine,TRUE,34.8,31.5,38.3,368,Age 18 - 44,Maternal Age - 18 to 44 years only
+Minnesota,FALSE,61,58.1,63.8,801,Age 18 - 44,Maternal Age - 18 to 44 years only
+Michigan,FALSE,66.5,63.8,69.1,1029,Age 18 - 44,Maternal Age - 18 to 44 years only
+West Virginia,FALSE,68.9,65.9,71.8,1060,Age 18 - 44,Maternal Age - 18 to 44 years only
+Utah,FALSE,68.8,66,71.5,966,Age 18 - 44,Maternal Age - 18 to 44 years only
+Hawaii,TRUE,40.9,37.8,44.2,577,Age 18 - 44,Maternal Age - 18 to 44 years only
+Minnesota,TRUE,39,36.2,41.9,534,Age 18 - 44,Maternal Age - 18 to 44 years only
+Maryland,FALSE,69.6,65.8,73.1,920,Age 18 - 44,Maternal Age - 18 to 44 years only
+New Jersey,FALSE,66.8,64,69.5,920,Age 18 - 44,Maternal Age - 18 to 44 years only
+PRAMS Total,FALSE,73.6,71.2,75.8,2215,12 yrs,Maternal Education
+PRAMS Total,TRUE,26.4,24.2,28.8,867,12 yrs,Maternal Education
+Utah,FALSE,74.6,68.3,80,190,12 yrs,Maternal Education
+Maryland,TRUE,21.6,14.9,30.3,63,12 yrs,Maternal Education
+Michigan,FALSE,74.5,69.3,79,310,12 yrs,Maternal Education
+Hawaii,FALSE,62.2,57.2,66.9,417,12 yrs,Maternal Education
+Utah,TRUE,25.4,20,31.7,61,12 yrs,Maternal Education
+Maryland,FALSE,78.4,69.7,85.1,194,12 yrs,Maternal Education
+Hawaii,TRUE,37.8,33.1,42.8,235,12 yrs,Maternal Education
+New Jersey,FALSE,75.9,70.4,80.6,260,12 yrs,Maternal Education
+Maine,FALSE,75.6,69.9,80.6,247,12 yrs,Maternal Education
+Maine,TRUE,24.4,19.4,30.1,88,12 yrs,Maternal Education
+West Virginia,FALSE,76.2,71.5,80.4,439,12 yrs,Maternal Education
+Minnesota,FALSE,65.9,58.4,72.6,158,12 yrs,Maternal Education
+Minnesota,TRUE,34.1,27.4,41.6,84,12 yrs,Maternal Education
+West Virginia,TRUE,23.8,19.6,28.5,135,12 yrs,Maternal Education
+Michigan,TRUE,25.5,21,30.7,118,12 yrs,Maternal Education
+New Jersey,TRUE,24.1,19.4,29.6,83,12 yrs,Maternal Education
+PRAMS Total,FALSE,74.5,71,77.6,1029,< 12 yrs,Maternal Education
+PRAMS Total,TRUE,25.5,22.4,29,397,< 12 yrs,Maternal Education
+Maryland,TRUE,24.9,16.1,36.5,33,< 12 yrs,Maternal Education
+Michigan,TRUE,26.4,20.1,33.7,72,< 12 yrs,Maternal Education
+Utah,FALSE,76.6,71.2,81.3,214,< 12 yrs,Maternal Education
+Maine,FALSE,75.3,61.3,85.5,54,< 12 yrs,Maternal Education
+Maine,TRUE,24.7,14.5,38.7,21,< 12 yrs,Maternal Education
+Hawaii,TRUE,35.4,24.3,48.4,35,< 12 yrs,Maternal Education
+Michigan,FALSE,73.6,66.3,79.9,143,< 12 yrs,Maternal Education
+Maryland,FALSE,75.1,63.5,83.9,117,< 12 yrs,Maternal Education
+Minnesota,FALSE,68.1,57.6,77.1,85,< 12 yrs,Maternal Education
+New Jersey,FALSE,80.1,72.8,85.8,122,< 12 yrs,Maternal Education
+Utah,TRUE,23.4,18.7,28.8,68,< 12 yrs,Maternal Education
+New Jersey,TRUE,19.9,14.2,27.2,39,< 12 yrs,Maternal Education
+West Virginia,TRUE,30.9,24.5,38.1,88,< 12 yrs,Maternal Education
+West Virginia,FALSE,69.1,61.9,75.5,228,< 12 yrs,Maternal Education
+Hawaii,FALSE,64.6,51.6,75.7,66,< 12 yrs,Maternal Education
+Minnesota,TRUE,31.9,22.9,42.4,41,< 12 yrs,Maternal Education
+PRAMS Total,FALSE,62.1,60.6,63.6,4147,>12 yrs,Maternal Education
+PRAMS Total,TRUE,37.9,36.4,39.4,2654,>12 yrs,Maternal Education
+West Virginia,FALSE,65,60.6,69.2,442,>12 yrs,Maternal Education
+Maine,FALSE,59,54.6,63.3,350,>12 yrs,Maternal Education
+Minnesota,FALSE,57.6,54.3,60.8,562,>12 yrs,Maternal Education
+Maryland,TRUE,34.1,29.7,38.7,411,>12 yrs,Maternal Education
+Michigan,TRUE,37.5,34.2,41,383,>12 yrs,Maternal Education
+Minnesota,TRUE,42.4,39.2,45.7,424,>12 yrs,Maternal Education
+Hawaii,FALSE,56.6,52,61,468,>12 yrs,Maternal Education
+Michigan,FALSE,62.5,59,65.8,610,>12 yrs,Maternal Education
+Maine,TRUE,41,36.7,45.4,261,>12 yrs,Maternal Education
+Hawaii,TRUE,43.4,39,48,312,>12 yrs,Maternal Education
+Utah,FALSE,66,62.3,69.5,539,>12 yrs,Maternal Education
+West Virginia,TRUE,35,30.8,39.4,244,>12 yrs,Maternal Education
+New Jersey,TRUE,39,35.5,42.6,322,>12 yrs,Maternal Education
+New Jersey,FALSE,61,57.4,64.5,553,>12 yrs,Maternal Education
+Maryland,FALSE,65.9,61.3,70.3,623,>12 yrs,Maternal Education
+Utah,TRUE,34,30.5,37.7,297,>12 yrs,Maternal Education
+PRAMS Total,FALSE,69.9,66.8,72.8,1039,"Black, non-Hispanic",Maternal Race/Ethnicity
+PRAMS Total,TRUE,30.1,27.2,33.2,533,"Black, non-Hispanic",Maternal Race/Ethnicity
+Minnesota,TRUE,45.6,36,55.6,65,"Black, non-Hispanic",Maternal Race/Ethnicity
+Michigan,FALSE,66.8,62.7,70.6,403,"Black, non-Hispanic",Maternal Race/Ethnicity
+Minnesota,FALSE,54.4,44.4,64,74,"Black, non-Hispanic",Maternal Race/Ethnicity
+Maryland,TRUE,23.5,17.7,30.3,136,"Black, non-Hispanic",Maternal Race/Ethnicity
+West Virginia,FALSE,62,40.5,79.6,25,"Black, non-Hispanic",Maternal Race/Ethnicity
+West Virginia,TRUE,38,20.4,59.5,16,"Black, non-Hispanic",Maternal Race/Ethnicity
+New Jersey,TRUE,30.9,25,37.6,77,"Black, non-Hispanic",Maternal Race/Ethnicity
+New Jersey,FALSE,69.1,62.4,75,173,"Black, non-Hispanic",Maternal Race/Ethnicity
+Michigan,TRUE,33.2,29.4,37.3,216,"Black, non-Hispanic",Maternal Race/Ethnicity
+Maryland,FALSE,76.5,69.7,82.3,330,"Black, non-Hispanic",Maternal Race/Ethnicity
+PRAMS Total,FALSE,73.8,70.5,76.9,935,TRUE,Maternal Race/Ethnicity
+PRAMS Total,TRUE,26.2,23.1,29.5,347,TRUE,Maternal Race/Ethnicity
+Michigan,TRUE,31.5,20.7,44.8,19,TRUE,Maternal Race/Ethnicity
+Minnesota,FALSE,66.7,54.1,77.3,51,TRUE,Maternal Race/Ethnicity
+Maryland,TRUE,24.1,16.3,34,53,TRUE,Maternal Race/Ethnicity
+Hawaii,TRUE,33.6,26.7,41.3,86,TRUE,Maternal Race/Ethnicity
+Utah,TRUE,27,21.3,33.6,75,TRUE,Maternal Race/Ethnicity
+Hawaii,FALSE,66.4,58.7,73.3,184,TRUE,Maternal Race/Ethnicity
+Maryland,FALSE,75.9,66,83.7,145,TRUE,Maternal Race/Ethnicity
+Minnesota,TRUE,33.3,22.7,45.9,27,TRUE,Maternal Race/Ethnicity
+Utah,FALSE,73,66.4,78.7,225,TRUE,Maternal Race/Ethnicity
+New Jersey,TRUE,23.2,18.9,28.2,79,TRUE,Maternal Race/Ethnicity
+Michigan,FALSE,68.5,55.2,79.3,47,TRUE,Maternal Race/Ethnicity
+New Jersey,FALSE,76.8,71.8,81.1,267,TRUE,Maternal Race/Ethnicity
+PRAMS Total,FALSE,64.1,61,67.2,1184,Other non-Hispanic,Maternal Race/Ethnicity
+PRAMS Total,TRUE,35.9,32.8,39,720,Other non-Hispanic,Maternal Race/Ethnicity
+Maine,FALSE,64.3,43.6,80.7,23,Other non-Hispanic,Maternal Race/Ethnicity
+Hawaii,FALSE,57.1,52.9,61.1,562,Other non-Hispanic,Maternal Race/Ethnicity
+Utah,TRUE,31.4,20.2,45.3,20,Other non-Hispanic,Maternal Race/Ethnicity
+Maine,TRUE,35.7,19.3,56.4,8,Other non-Hispanic,Maternal Race/Ethnicity
+Hawaii,TRUE,42.9,38.9,47.1,379,Other non-Hispanic,Maternal Race/Ethnicity
+Maryland,FALSE,75,63.2,83.9,88,Other non-Hispanic,Maternal Race/Ethnicity
+Maryland,TRUE,25,16.1,36.8,51,Other non-Hispanic,Maternal Race/Ethnicity
+Utah,FALSE,68.6,54.7,79.8,45,Other non-Hispanic,Maternal Race/Ethnicity
+New Jersey,TRUE,31.5,26.4,37.1,103,Other non-Hispanic,Maternal Race/Ethnicity
+Michigan,TRUE,35.1,24.9,46.9,31,Other non-Hispanic,Maternal Race/Ethnicity
+New Jersey,FALSE,68.5,62.9,73.6,207,Other non-Hispanic,Maternal Race/Ethnicity
+Michigan,FALSE,64.9,53.1,75.1,56,Other non-Hispanic,Maternal Race/Ethnicity
+Minnesota,TRUE,40.3,32.7,48.4,117,Other non-Hispanic,Maternal Race/Ethnicity
+Minnesota,FALSE,59.7,51.6,67.3,194,Other non-Hispanic,Maternal Race/Ethnicity
+PRAMS Total,FALSE,64.4,62.8,66,4282,"White, non-Hispanic",Maternal Race/Ethnicity
+PRAMS Total,TRUE,35.6,34,37.2,2339,"White, non-Hispanic",Maternal Race/Ethnicity
+Hawaii,TRUE,39.7,32.8,47,111,"White, non-Hispanic",Maternal Race/Ethnicity
+Minnesota,TRUE,39.8,36.5,43.1,340,"White, non-Hispanic",Maternal Race/Ethnicity
+Utah,TRUE,32,28.9,35.2,335,"White, non-Hispanic",Maternal Race/Ethnicity
+West Virginia,TRUE,29.8,27,32.8,436,"White, non-Hispanic",Maternal Race/Ethnicity
+Hawaii,FALSE,60.3,53,67.2,200,"White, non-Hispanic",Maternal Race/Ethnicity
+New Jersey,TRUE,39.8,35.3,44.5,187,"White, non-Hispanic",Maternal Race/Ethnicity
+Maryland,TRUE,37.5,32.1,43.3,271,"White, non-Hispanic",Maternal Race/Ethnicity
+Michigan,FALSE,67.1,63.7,70.3,558,"White, non-Hispanic",Maternal Race/Ethnicity
+Maine,TRUE,34.4,31.1,38,351,"White, non-Hispanic",Maternal Race/Ethnicity
+West Virginia,FALSE,70.2,67.2,73,1071,"White, non-Hispanic",Maternal Race/Ethnicity
+Maryland,FALSE,62.5,56.7,67.9,375,"White, non-Hispanic",Maternal Race/Ethnicity
+Michigan,TRUE,32.9,29.7,36.3,308,"White, non-Hispanic",Maternal Race/Ethnicity
+Utah,FALSE,68,64.8,71.1,692,"White, non-Hispanic",Maternal Race/Ethnicity
+Minnesota,FALSE,60.2,56.9,63.5,487,"White, non-Hispanic",Maternal Race/Ethnicity
+New Jersey,FALSE,60.2,55.5,64.7,290,"White, non-Hispanic",Maternal Race/Ethnicity
+Maine,FALSE,65.6,62,68.9,609,"White, non-Hispanic",Maternal Race/Ethnicity
+PRAMS Total,FALSE,76.1,74.4,77.7,3924,TRUE,Medicaid Recipient
+PRAMS Total,TRUE,23.9,22.3,25.6,1394,TRUE,Medicaid Recipient
+Maryland,FALSE,82.6,76.8,87.2,399,TRUE,Medicaid Recipient
+Michigan,TRUE,23,20,26.3,254,TRUE,Medicaid Recipient
+Minnesota,TRUE,28.5,24,33.5,157,TRUE,Medicaid Recipient
+New Jersey,FALSE,76.9,72.6,80.7,397,TRUE,Medicaid Recipient
+Utah,TRUE,26.4,22.4,30.9,148,TRUE,Medicaid Recipient
+New Jersey,TRUE,23.1,19.3,27.4,122,TRUE,Medicaid Recipient
+West Virginia,TRUE,25.9,22.6,29.4,265,TRUE,Medicaid Recipient
+Utah,FALSE,73.6,69.1,77.6,424,TRUE,Medicaid Recipient
+Minnesota,FALSE,71.5,66.5,76,348,TRUE,Medicaid Recipient
+Hawaii,TRUE,34.7,29.9,39.7,205,TRUE,Medicaid Recipient
+Maine,FALSE,75.7,71.2,79.7,422,TRUE,Medicaid Recipient
+Michigan,FALSE,77,73.7,80,688,TRUE,Medicaid Recipient
+Hawaii,FALSE,65.3,60.3,70.1,447,TRUE,Medicaid Recipient
+West Virginia,FALSE,74.1,70.6,77.4,799,TRUE,Medicaid Recipient
+Maine,TRUE,24.3,20.3,28.8,143,TRUE,Medicaid Recipient
+Maryland,TRUE,17.4,12.8,23.2,100,TRUE,Medicaid Recipient
+PRAMS Total,FALSE,59.4,57.7,61,3544,FALSE,Medicaid Recipient
+PRAMS Total,TRUE,40.6,39,42.3,2553,FALSE,Medicaid Recipient
+Hawaii,FALSE,55.6,51.4,59.7,513,FALSE,Medicaid Recipient
+Maryland,TRUE,38,33.3,42.9,412,FALSE,Medicaid Recipient
+Utah,FALSE,66.4,62.8,69.9,565,FALSE,Medicaid Recipient
+Minnesota,TRUE,45.2,41.7,48.7,392,FALSE,Medicaid Recipient
+Michigan,FALSE,55.5,51.4,59.5,380,FALSE,Medicaid Recipient
+Hawaii,TRUE,44.4,40.3,48.6,382,FALSE,Medicaid Recipient
+Maine,TRUE,46.1,41.1,51.2,227,FALSE,Medicaid Recipient
+Maine,FALSE,53.9,48.8,58.9,233,FALSE,Medicaid Recipient
+West Virginia,FALSE,61.9,56.8,66.8,312,FALSE,Medicaid Recipient
+Minnesota,FALSE,54.8,51.3,58.3,461,FALSE,Medicaid Recipient
+Utah,TRUE,33.6,30.1,37.2,293,FALSE,Medicaid Recipient
+New Jersey,FALSE,61.3,57.6,64.7,540,FALSE,Medicaid Recipient
+Maryland,FALSE,62,57.1,66.7,540,FALSE,Medicaid Recipient
+New Jersey,TRUE,38.7,35.3,42.4,324,FALSE,Medicaid Recipient
+West Virginia,TRUE,38.1,33.2,43.2,202,FALSE,Medicaid Recipient
+Michigan,TRUE,44.5,40.5,48.6,321,FALSE,Medicaid Recipient
+PRAMS Total,TRUE,26.2,23.1,29.5,347,TRUE,Mother Hispanic
+PRAMS Total,FALSE,73.8,70.5,76.9,935,TRUE,Mother Hispanic
+Minnesota,TRUE,33.3,22.7,45.9,27,TRUE,Mother Hispanic
+Michigan,TRUE,31.5,20.7,44.8,19,TRUE,Mother Hispanic
+Utah,TRUE,27,21.3,33.6,75,TRUE,Mother Hispanic
+Utah,FALSE,73,66.4,78.7,225,TRUE,Mother Hispanic
+New Jersey,FALSE,76.8,71.8,81.1,267,TRUE,Mother Hispanic
+Hawaii,FALSE,66.4,58.7,73.3,184,TRUE,Mother Hispanic
+Maryland,TRUE,24.1,16.3,34,53,TRUE,Mother Hispanic
+Maryland,FALSE,75.9,66,83.7,145,TRUE,Mother Hispanic
+New Jersey,TRUE,23.2,18.9,28.2,79,TRUE,Mother Hispanic
+Minnesota,FALSE,66.7,54.1,77.3,51,TRUE,Mother Hispanic
+Michigan,FALSE,68.5,55.2,79.3,47,TRUE,Mother Hispanic
+Hawaii,TRUE,33.6,26.7,41.3,86,TRUE,Mother Hispanic
+PRAMS Total,FALSE,65.3,64,66.5,6514,FALSE,Mother Hispanic
+PRAMS Total,TRUE,34.7,33.5,36,3593,FALSE,Mother Hispanic
+Minnesota,FALSE,59.9,56.9,62.8,748,FALSE,Mother Hispanic
+Minnesota,TRUE,40.1,37.2,43.1,518,FALSE,Mother Hispanic
+West Virginia,FALSE,69.8,66.9,72.6,1102,FALSE,Mother Hispanic
+Utah,FALSE,68.2,65.1,71.1,764,FALSE,Mother Hispanic
+Maine,TRUE,34.4,31.1,37.9,366,FALSE,Mother Hispanic
+Maryland,TRUE,31.4,27.5,35.5,459,FALSE,Mother Hispanic
+Maryland,FALSE,68.6,64.5,72.5,794,FALSE,Mother Hispanic
+Michigan,TRUE,33.1,30.5,35.8,555,FALSE,Mother Hispanic
+Hawaii,TRUE,42.2,38.7,45.7,501,FALSE,Mother Hispanic
+Utah,TRUE,31.8,28.9,34.9,366,FALSE,Mother Hispanic
+New Jersey,FALSE,63.4,60.1,66.7,669,FALSE,Mother Hispanic
+Michigan,FALSE,66.9,64.2,69.5,1017,FALSE,Mother Hispanic
+Hawaii,FALSE,57.8,54.3,61.3,776,FALSE,Mother Hispanic
+New Jersey,TRUE,36.6,33.3,39.9,366,FALSE,Mother Hispanic
+Maine,FALSE,65.6,62.1,68.9,644,FALSE,Mother Hispanic
+West Virginia,TRUE,30.2,27.4,33.1,462,FALSE,Mother Hispanic
+PRAMS Total,FALSE,66.4,65.2,67.6,7468,None,None
+PRAMS Total,TRUE,33.6,32.4,34.8,3947,None,None
+Utah,TRUE,31,28.3,33.8,441,None,None
+West Virginia,FALSE,69.6,66.6,72.3,1111,None,None
+New Jersey,FALSE,67,64.2,69.6,937,None,None
+Michigan,FALSE,67.1,64.4,69.6,1068,None,None
+Maryland,TRUE,30.2,26.7,34,512,None,None
+West Virginia,TRUE,30.4,27.7,33.4,467,None,None
+Michigan,TRUE,32.9,30.4,35.6,575,None,None
+Minnesota,TRUE,39.5,36.7,42.5,549,None,None
+Maine,FALSE,65.8,62.4,69.1,655,None,None
+New Jersey,TRUE,33,30.4,35.8,446,None,None
+Maine,TRUE,34.2,30.9,37.6,370,None,None
+Maryland,FALSE,69.8,66,73.3,939,None,None
+Hawaii,FALSE,59.3,56.1,62.4,960,None,None
+Minnesota,FALSE,60.5,57.5,63.3,809,None,None
+Hawaii,TRUE,40.7,37.6,43.9,587,None,None
+Utah,FALSE,69,66.2,71.7,989,None,None
+PRAMS Total,FALSE,63.7,61.7,65.6,2984,0,Number of Previous Live Births
+PRAMS Total,TRUE,36.3,34.4,38.3,1671,0,Number of Previous Live Births
+West Virginia,FALSE,71.7,67.3,75.7,509,0,Number of Previous Live Births
+Minnesota,TRUE,42.2,37.8,46.8,240,0,Number of Previous Live Births
+Minnesota,FALSE,57.8,53.2,62.2,316,0,Number of Previous Live Births
+Michigan,FALSE,66.4,62.3,70.3,452,0,Number of Previous Live Births
+Maryland,FALSE,66.4,59.8,72.3,307,0,Number of Previous Live Births
+Utah,FALSE,69.3,64.2,74,298,0,Number of Previous Live Births
+Hawaii,FALSE,61.1,56,65.9,413,0,Number of Previous Live Births
+Michigan,TRUE,33.6,29.7,37.7,247,0,Number of Previous Live Births
+Maine,FALSE,64,59.1,68.6,323,0,Number of Previous Live Births
+Hawaii,TRUE,38.9,34.1,44,238,0,Number of Previous Live Births
+Utah,TRUE,30.7,26,35.8,142,0,Number of Previous Live Births
+New Jersey,FALSE,59.3,54.9,63.6,366,0,Number of Previous Live Births
+West Virginia,TRUE,28.3,24.3,32.7,190,0,Number of Previous Live Births
+Maryland,TRUE,33.6,27.7,40.2,201,0,Number of Previous Live Births
+Maine,TRUE,36,31.4,40.9,189,0,Number of Previous Live Births
+New Jersey,TRUE,40.7,36.4,45.1,224,0,Number of Previous Live Births
+PRAMS Total,FALSE,68.3,66.8,69.8,4438,1 or more,Number of Previous Live Births
+PRAMS Total,TRUE,31.7,30.2,33.2,2243,1 or more,Number of Previous Live Births
+West Virginia,FALSE,67.9,63.9,71.7,602,1 or more,Number of Previous Live Births
+Maryland,TRUE,28.2,23.9,33,290,1 or more,Number of Previous Live Births
+Michigan,TRUE,32.5,29.2,36,328,1 or more,Number of Previous Live Births
+Minnesota,TRUE,37.6,33.9,41.5,299,1 or more,Number of Previous Live Births
+Hawaii,FALSE,58.1,53.9,62.2,547,1 or more,Number of Previous Live Births
+New Jersey,TRUE,27.6,24.4,31.2,222,1 or more,Number of Previous Live Births
+Maine,TRUE,32.6,28.1,37.5,181,1 or more,Number of Previous Live Births
+Maine,FALSE,67.4,62.5,71.9,332,1 or more,Number of Previous Live Births
+Maryland,FALSE,71.8,67,76.1,604,1 or more,Number of Previous Live Births
+New Jersey,FALSE,72.4,68.8,75.6,571,1 or more,Number of Previous Live Births
+Minnesota,FALSE,62.4,58.5,66.1,476,1 or more,Number of Previous Live Births
+West Virginia,TRUE,32.1,28.3,36.1,277,1 or more,Number of Previous Live Births
+Utah,FALSE,68.9,65.5,72.1,691,1 or more,Number of Previous Live Births
+Hawaii,TRUE,41.9,37.8,46.1,348,1 or more,Number of Previous Live Births
+Utah,TRUE,31.1,27.9,34.5,298,1 or more,Number of Previous Live Births
+Michigan,FALSE,67.5,64,70.8,615,1 or more,Number of Previous Live Births
+PRAMS Total,FALSE,60.8,59.1,62.4,3711,FALSE,On WIC during Pregnancy
+PRAMS Total,TRUE,39.2,37.6,40.9,2485,FALSE,On WIC during Pregnancy
+Maine,FALSE,60.3,55.7,64.6,335,FALSE,On WIC during Pregnancy
+Minnesota,FALSE,56.4,52.8,60,449,FALSE,On WIC during Pregnancy
+Maryland,FALSE,61.9,56.9,66.7,504,FALSE,On WIC during Pregnancy
+Minnesota,TRUE,43.6,40,47.2,348,FALSE,On WIC during Pregnancy
+Hawaii,FALSE,56.7,52.3,61,476,FALSE,On WIC during Pregnancy
+Maine,TRUE,39.7,35.4,44.3,252,FALSE,On WIC during Pregnancy
+Utah,TRUE,32.7,29.4,36.2,307,FALSE,On WIC during Pregnancy
+West Virginia,FALSE,63.8,58.9,68.4,365,FALSE,On WIC during Pregnancy
+Michigan,FALSE,58.5,54.5,62.4,422,FALSE,On WIC during Pregnancy
+West Virginia,TRUE,36.2,31.6,41.1,214,FALSE,On WIC during Pregnancy
+Michigan,TRUE,41.5,37.6,45.5,320,FALSE,On WIC during Pregnancy
+Maryland,TRUE,38.1,33.3,43.1,389,FALSE,On WIC during Pregnancy
+New Jersey,TRUE,38.5,35,42.1,318,FALSE,On WIC during Pregnancy
+Utah,FALSE,67.3,63.8,70.6,614,FALSE,On WIC during Pregnancy
+Hawaii,TRUE,43.3,39,47.7,337,FALSE,On WIC during Pregnancy
+New Jersey,FALSE,61.5,57.9,65,546,FALSE,On WIC during Pregnancy
+PRAMS Total,FALSE,74.2,72.4,75.9,3688,TRUE,On WIC during Pregnancy
+PRAMS Total,TRUE,25.8,24.1,27.6,1424,TRUE,On WIC during Pregnancy
+Maine,TRUE,26.3,21.6,31.6,117,TRUE,On WIC during Pregnancy
+Utah,FALSE,72.7,67.9,77.1,364,TRUE,On WIC during Pregnancy
+Michigan,TRUE,24.4,21.2,27.9,247,TRUE,On WIC during Pregnancy
+Maryland,TRUE,20.7,15.9,26.5,120,TRUE,On WIC during Pregnancy
+Hawaii,FALSE,62.7,58,67.3,476,TRUE,On WIC during Pregnancy
+Maine,FALSE,73.7,68.4,78.4,316,TRUE,On WIC during Pregnancy
+New Jersey,FALSE,76,71.7,79.9,377,TRUE,On WIC during Pregnancy
+West Virginia,TRUE,26.7,23.3,30.3,251,TRUE,On WIC during Pregnancy
+Hawaii,TRUE,37.3,32.7,42,245,TRUE,On WIC during Pregnancy
+West Virginia,FALSE,73.3,69.7,76.7,742,TRUE,On WIC during Pregnancy
+Minnesota,TRUE,32.1,27.6,37.1,190,TRUE,On WIC during Pregnancy
+Utah,TRUE,27.3,22.9,32.1,128,TRUE,On WIC during Pregnancy
+Minnesota,FALSE,67.9,62.9,72.4,350,TRUE,On WIC during Pregnancy
+New Jersey,TRUE,24,20.1,28.3,126,TRUE,On WIC during Pregnancy
+Maryland,FALSE,79.3,73.5,84.1,425,TRUE,On WIC during Pregnancy
+Michigan,FALSE,75.6,72.1,78.8,638,TRUE,On WIC during Pregnancy
+PRAMS Total,FALSE,58.5,56.8,60,3833,TRUE,Pregnancy Intendedness
+PRAMS Total,TRUE,41.5,40,43.2,2886,TRUE,Pregnancy Intendedness
+Minnesota,TRUE,46.1,42.6,49.7,418,TRUE,Pregnancy Intendedness
+Minnesota,FALSE,53.9,50.3,57.4,462,TRUE,Pregnancy Intendedness
+Utah,TRUE,36.7,33.3,40.2,348,TRUE,Pregnancy Intendedness
+New Jersey,FALSE,60.1,56.3,63.7,500,TRUE,Pregnancy Intendedness
+Michigan,FALSE,58.6,54.9,62.2,494,TRUE,Pregnancy Intendedness
+Maryland,TRUE,42.6,37.4,47.8,427,TRUE,Pregnancy Intendedness
+West Virginia,FALSE,62.6,58.3,66.6,505,TRUE,Pregnancy Intendedness
+Maine,TRUE,43.7,39.4,48.1,296,TRUE,Pregnancy Intendedness
+Hawaii,FALSE,52.7,48.3,56.9,471,TRUE,Pregnancy Intendedness
+Michigan,TRUE,41.4,37.8,45.1,393,TRUE,Pregnancy Intendedness
+Maine,FALSE,56.3,51.9,60.6,357,TRUE,Pregnancy Intendedness
+Utah,FALSE,63.3,59.8,66.7,603,TRUE,Pregnancy Intendedness
+West Virginia,TRUE,37.4,33.4,41.7,301,TRUE,Pregnancy Intendedness
+Hawaii,TRUE,47.3,43.1,51.7,384,TRUE,Pregnancy Intendedness
+Maryland,FALSE,57.4,52.2,62.6,441,TRUE,Pregnancy Intendedness
+New Jersey,TRUE,39.9,36.3,43.7,319,TRUE,Pregnancy Intendedness
+PRAMS Total,FALSE,78.9,77.2,80.5,3520,FALSE,Pregnancy Intendedness
+PRAMS Total,TRUE,21.1,19.5,22.8,1004,FALSE,Pregnancy Intendedness
+Maryland,FALSE,83.7,78.4,87.9,474,FALSE,Pregnancy Intendedness
+Michigan,TRUE,21,17.8,24.7,174,FALSE,Pregnancy Intendedness
+New Jersey,TRUE,21.4,17.8,25.5,117,FALSE,Pregnancy Intendedness
+Maine,TRUE,17.4,13.2,22.6,68,FALSE,Pregnancy Intendedness
+Michigan,FALSE,79,75.3,82.2,559,FALSE,Pregnancy Intendedness
+Utah,TRUE,18.5,14.8,22.9,84,FALSE,Pregnancy Intendedness
+Utah,FALSE,81.5,77.1,85.2,373,FALSE,Pregnancy Intendedness
+Minnesota,TRUE,25.1,20.7,30.1,118,FALSE,Pregnancy Intendedness
+West Virginia,TRUE,22.8,19.2,26.8,165,FALSE,Pregnancy Intendedness
+Maryland,TRUE,16.3,12.1,21.6,81,FALSE,Pregnancy Intendedness
+New Jersey,FALSE,78.6,74.5,82.2,423,FALSE,Pregnancy Intendedness
+Maine,FALSE,82.6,77.4,86.8,284,FALSE,Pregnancy Intendedness
+Minnesota,FALSE,74.9,69.9,79.3,333,FALSE,Pregnancy Intendedness
+Hawaii,FALSE,67.4,62.5,71.9,478,FALSE,Pregnancy Intendedness
+Hawaii,TRUE,32.6,28.1,37.5,197,FALSE,Pregnancy Intendedness
+West Virginia,FALSE,77.2,73.2,80.8,596,FALSE,Pregnancy Intendedness
+PRAMS Total,FALSE,64.2,62.8,65.6,5196,FALSE,Smoked 3 months before Pregnancy
+PRAMS Total,TRUE,35.8,34.4,37.2,3095,FALSE,Smoked 3 months before Pregnancy
+Michigan,TRUE,36.8,33.7,40.1,434,FALSE,Smoked 3 months before Pregnancy
+Hawaii,FALSE,57.9,54.3,61.4,745,FALSE,Smoked 3 months before Pregnancy
+Utah,FALSE,68,65,70.9,835,FALSE,Smoked 3 months before Pregnancy
+New Jersey,TRUE,33.3,30.4,36.4,351,FALSE,Smoked 3 months before Pregnancy
+Maine,FALSE,59.6,55.3,63.8,374,FALSE,Smoked 3 months before Pregnancy
+Minnesota,FALSE,58.2,54.8,61.4,559,FALSE,Smoked 3 months before Pregnancy
+New Jersey,FALSE,66.7,63.6,69.6,701,FALSE,Smoked 3 months before Pregnancy
+Maryland,TRUE,33.4,29.4,37.7,458,FALSE,Smoked 3 months before Pregnancy
+Minnesota,TRUE,41.8,38.6,45.2,418,FALSE,Smoked 3 months before Pregnancy
+Michigan,FALSE,63.2,59.9,66.3,722,FALSE,Smoked 3 months before Pregnancy
+Hawaii,TRUE,42.1,38.6,45.7,484,FALSE,Smoked 3 months before Pregnancy
+West Virginia,FALSE,66.2,62.1,70,520,FALSE,Smoked 3 months before Pregnancy
+Maryland,FALSE,66.6,62.3,70.6,740,FALSE,Smoked 3 months before Pregnancy
+West Virginia,TRUE,33.8,30,37.9,276,FALSE,Smoked 3 months before Pregnancy
+Maine,TRUE,40.4,36.2,44.7,279,FALSE,Smoked 3 months before Pregnancy
+Utah,TRUE,32,29.1,35,395,FALSE,Smoked 3 months before Pregnancy
+PRAMS Total,FALSE,74,71.6,76.3,2160,TRUE,Smoked 3 months before Pregnancy
+PRAMS Total,TRUE,26,23.7,28.4,801,TRUE,Smoked 3 months before Pregnancy
+New Jersey,FALSE,68.1,61.4,74.2,224,TRUE,Smoked 3 months before Pregnancy
+West Virginia,TRUE,26.4,22.5,30.7,185,TRUE,Smoked 3 months before Pregnancy
+Michigan,FALSE,76.1,71.4,80.3,332,TRUE,Smoked 3 months before Pregnancy
+Utah,TRUE,24.9,18.1,33.4,41,TRUE,Smoked 3 months before Pregnancy
+West Virginia,FALSE,73.6,69.3,77.5,572,TRUE,Smoked 3 months before Pregnancy
+Michigan,TRUE,23.9,19.7,28.6,134,TRUE,Smoked 3 months before Pregnancy
+Utah,FALSE,75.1,66.6,81.9,139,TRUE,Smoked 3 months before Pregnancy
+New Jersey,TRUE,31.9,25.8,38.6,90,TRUE,Smoked 3 months before Pregnancy
+Hawaii,FALSE,65.5,58.3,72.1,202,TRUE,Smoked 3 months before Pregnancy
+Hawaii,TRUE,34.5,27.9,41.7,100,TRUE,Smoked 3 months before Pregnancy
+Maryland,TRUE,17.9,11.6,26.5,47,TRUE,Smoked 3 months before Pregnancy
+Minnesota,FALSE,69.7,63.6,75.1,240,TRUE,Smoked 3 months before Pregnancy
+Maine,TRUE,22.3,17.4,28,85,TRUE,Smoked 3 months before Pregnancy
+Minnesota,TRUE,30.3,24.9,36.4,119,TRUE,Smoked 3 months before Pregnancy
+Maine,FALSE,77.7,72,82.6,265,TRUE,Smoked 3 months before Pregnancy
+Maryland,FALSE,82.1,73.5,88.4,186,TRUE,Smoked 3 months before Pregnancy
+PRAMS Total,FALSE,65.3,64,66.6,6217,FALSE,Smoked last 3 months of Pregnancy
+PRAMS Total,TRUE,34.7,33.4,36,3500,FALSE,Smoked last 3 months of Pregnancy
+Hawaii,FALSE,59.2,55.9,62.5,882,FALSE,Smoked last 3 months of Pregnancy
+Maryland,TRUE,31.3,27.7,35.3,489,FALSE,Smoked last 3 months of Pregnancy
+Maryland,FALSE,68.7,64.7,72.3,844,FALSE,Smoked last 3 months of Pregnancy
+Minnesota,TRUE,40.4,37.4,43.5,487,FALSE,Smoked last 3 months of Pregnancy
+Maine,TRUE,36.8,33.1,40.6,312,FALSE,Smoked last 3 months of Pregnancy
+Utah,FALSE,68.3,65.5,71.1,916,FALSE,Smoked last 3 months of Pregnancy
+Utah,TRUE,31.7,28.9,34.5,421,FALSE,Smoked last 3 months of Pregnancy
+Michigan,FALSE,65,62.1,67.8,884,FALSE,Smoked last 3 months of Pregnancy
+Minnesota,FALSE,59.6,56.5,62.6,697,FALSE,Smoked last 3 months of Pregnancy
+West Virginia,TRUE,31.7,28.4,35.3,326,FALSE,Smoked last 3 months of Pregnancy
+Maine,FALSE,63.2,59.4,66.9,486,FALSE,Smoked last 3 months of Pregnancy
+New Jersey,FALSE,66.4,63.6,69.2,822,FALSE,Smoked last 3 months of Pregnancy
+New Jersey,TRUE,33.6,30.8,36.4,408,FALSE,Smoked last 3 months of Pregnancy
+Michigan,TRUE,35,32.2,37.9,504,FALSE,Smoked last 3 months of Pregnancy
+Hawaii,TRUE,40.8,37.5,44.1,553,FALSE,Smoked last 3 months of Pregnancy
+West Virginia,FALSE,68.3,64.7,71.6,686,FALSE,Smoked last 3 months of Pregnancy
+PRAMS Total,FALSE,76.8,73.4,80,1144,TRUE,Smoked last 3 months of Pregnancy
+PRAMS Total,TRUE,23.2,20,26.6,396,TRUE,Smoked last 3 months of Pregnancy
+Utah,TRUE,19.8,11,32.9,15,TRUE,Smoked last 3 months of Pregnancy
+Maine,TRUE,22.7,16.3,30.7,53,TRUE,Smoked last 3 months of Pregnancy
+Maryland,TRUE,14.7,6.3,30.8,15,TRUE,Smoked last 3 months of Pregnancy
+West Virginia,TRUE,27.6,22.8,33,135,TRUE,Smoked last 3 months of Pregnancy
+Hawaii,TRUE,38.3,26.6,51.6,31,TRUE,Smoked last 3 months of Pregnancy
+Michigan,TRUE,22,16.5,28.7,64,TRUE,Smoked last 3 months of Pregnancy
+Michigan,FALSE,78,71.3,83.5,170,TRUE,Smoked last 3 months of Pregnancy
+Minnesota,FALSE,73.9,64.5,81.6,102,TRUE,Smoked last 3 months of Pregnancy
+New Jersey,TRUE,25.4,17.4,35.5,33,TRUE,Smoked last 3 months of Pregnancy
+Minnesota,TRUE,26.1,18.4,35.5,50,TRUE,Smoked last 3 months of Pregnancy
+Maryland,FALSE,85.3,69.2,93.7,83,TRUE,Smoked last 3 months of Pregnancy
+Utah,FALSE,80.2,67.1,89,57,TRUE,Smoked last 3 months of Pregnancy
+Maine,FALSE,77.3,69.3,83.7,158,TRUE,Smoked last 3 months of Pregnancy
+West Virginia,FALSE,72.4,67,77.2,406,TRUE,Smoked last 3 months of Pregnancy
+New Jersey,FALSE,74.6,64.5,82.6,104,TRUE,Smoked last 3 months of Pregnancy
+Hawaii,FALSE,61.7,48.4,73.4,64,TRUE,Smoked last 3 months of Pregnancy
