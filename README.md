@@ -1,2 +1,3 @@
-## Data Attribution
-The data collected is not our own. The data comes from the CDC Pregnancy Risk Assessment Monitoring System (PRAMS) 2008 data set. Learn more at https://www.cdc.gov/prams/index.html.
+## Attribution
+The data cleaned and presented here is not our own. It was collected as part of [the CDC Pregnancy Risk Assessment Monitoring System (PRAMS) 2008 data set.](https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2011/ese6-rqpq/about_data.)
+
