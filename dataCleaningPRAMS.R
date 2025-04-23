@@ -84,7 +84,6 @@ filteredData <- cleanedData %>%
 # Rename questions for data legibility and to account for typos  
 filteredData <- filteredData %>%
   mutate(
-    # remap your question text
     question = case_when(
       question %in% c(
         "Before you got pregnant  did a doctor  nurse  or other health care worker talk to you about how to prepare for a healthy pregnancy and baby?",
@@ -99,11 +98,11 @@ filteredData <- filteredData %>%
     
 # Convert binary breakOut values to TRUE/FALSE for future analysis and rename the categories accordingly
     breakOutCategory = case_when(
-      breakOut == "Birth Weight"            ~ "Normal Birth Weight?",
-      breakOut == "Marital Status"          ~ "Married?",
-      breakOut == "On WIC during Pregnancy" ~ "On WIC?",
-      breakOut == "Medicaid Recipient"      ~ "On Medicaid?",
-      breakOut == "Pregnancy Intendedness"  ~ "Intended Pregnancy?",
+      breakOutCategory == "Birth Weight"            ~ "Normal Birth Weight?",
+      breakOutCategory == "Marital Status"          ~ "Married?",
+      breakOutCategory == "On WIC during Pregnancy" ~ "On WIC?",
+      breakOutCategory == "Medicaid Recipient"      ~ "On Medicaid?",
+      breakOutCategory == "Pregnancy Intendedness"  ~ "Intended Pregnancy?",
       TRUE                                  ~ breakOutCategory
     ),
     breakOut = case_when(
